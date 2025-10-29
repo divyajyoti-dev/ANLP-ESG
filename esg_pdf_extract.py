@@ -22,7 +22,7 @@ Usage example:
 
 import os, re, csv, sys, json, math, hashlib, argparse
 from typing import List, Dict, Any
-from concurrent.futures import ProcessPoolExecutor, as_completed
+from concurrent.futures import ThreadPoolExecutor as ProcessPoolExecutor, as_completed
 
 import fitz
 import pandas as pd
