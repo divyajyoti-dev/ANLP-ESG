@@ -1,0 +1,681 @@
+company,year,pdf_file,page,block_id,bbox_x0,bbox_y0,bbox_x1,bbox_y1,avg_font_size,text,text_hash
+google,2022,google-2022-environmental-report.pdf,0,0,48.5,61.144004821777344,512.4391479492188,221.1439971923828,72.0,Environmental  Report,389c15905a83fe6a0609c3d04e24ffb05a08105d
+google,2022,google-2022-environmental-report.pdf,0,1,53.477699279785156,212.0679931640625,127.08769989013672,254.5679931640625,34.0,2022,e575dccc71140754dd85beda5965b6a358150309
+google,2022,google-2022-environmental-report.pdf,1,0,244.0800018310547,73.74402618408203,414.3578796386719,101.24402618408203,22.0,Table of contents,1a428989bd13dceabd89b698d9fa38eb8a0d175c
+google,2022,google-2022-environmental-report.pdf,1,1,244.0800018310547,113.81202697753906,349.32879638671875,126.31202697753906,10.0,1 About this report,46ec6b00115a0bfe03380e5a0e7857f20cef05b3
+google,2022,google-2022-environmental-report.pdf,1,2,244.0800018310547,133.31202697753906,332.514892578125,145.81202697753906,9.5,2 Our approach,8c3e19ab50ece6b246b5fdf67118a4617fb99ff3
+google,2022,google-2022-environmental-report.pdf,1,3,244.0800018310547,152.81202697753906,378.25885009765625,165.31202697753906,9.5,5 Performance highlights,347bff8e0929a7fbc2a648af405c964f9aca027d
+google,2022,google-2022-environmental-report.pdf,1,4,244.0800018310547,172.31202697753906,383.3987731933594,184.81202697753906,9.5,8 Progress against targets,73b35129cf8f3c6fbc3c1e9ef03e03f29ba0c1cd
+google,2022,google-2022-environmental-report.pdf,1,5,244.0800018310547,191.81202697753906,359.0596923828125,204.31202697753906,9.5,11 Environmental data,009ee5b943b4ae39a39c5075d20f784dc1d9a83a
+google,2022,google-2022-environmental-report.pdf,1,6,244.0800018310547,211.31202697753906,312.079833984375,223.81202697753906,9.5,14 Appendix,2271f4f0cb7ea8dd6dd7d4f776966a998110b886
+google,2022,google-2022-environmental-report.pdf,1,7,244.0800018310547,228.95797729492188,303.317626953125,239.58297729492188,8.5,Endnotes,90010140c11fc0bb2865fc9b51fcfa59f205ccef
+google,2022,google-2022-environmental-report.pdf,1,8,244.0800018310547,244.25802612304688,301.4635314941406,254.88302612304688,8.5,Glossary,7427cf697be16a4ec1d916910128a59d920125e7
+google,2022,google-2022-environmental-report.pdf,1,9,244.0800018310547,304.8078918457031,413.3457946777344,332.3078918457031,22.0,About this report,76d97bdf3be897c275b01ec54f9027a8816cd5ec
+google,2022,google-2022-environmental-report.pdf,1,10,244.0800018310547,337.8399963378906,550.3482666015625,349.0899963378906,9.0,"Google’s 2022 Environmental Report features data, performance highlights,",8042bbfcdf851d95fa17d8bdfb2cdbe30dbf33b9
+google,2022,google-2022-environmental-report.pdf,1,11,244.0800018310547,353.8399963378906,538.69775390625,365.0899963378906,9.0,and progress against our targets from our 2021 fiscal year (January 1 to,ed187cd9a3b231817b8d446d22d774cc7bf54c99
+google,2022,google-2022-environmental-report.pdf,1,12,244.0800018310547,369.8399963378906,510.20123291015625,381.0899963378906,9.0,"December 31, 2021). It also mentions notable targets set in 2022.",ecd42a7d10acb66fe712c7c7d593778ffe06f736
+google,2022,google-2022-environmental-report.pdf,1,13,253.0800018310547,385.8399963378906,536.490234375,397.0899963378906,9.0,This report outlines how we’re driving positive environmental impact,83b6a883b867106093ac7b74b638a54c1285ff3d
+google,2022,google-2022-environmental-report.pdf,1,14,244.0800018310547,401.8399963378906,550.1790161132812,413.0899963378906,9.0,"throughout our business in five key ways: designing efficient data centers,",40ffdf83d1ef7243c2b7f06e3cc1a27948f50095
+google,2022,google-2022-environmental-report.pdf,1,15,244.0800018310547,417.8399963378906,545.857421875,429.0899963378906,9.0,"advancing carbon-free energy, creating sustainable workplaces, building",6e42f0c24e378a3e64ea57b53cefb7e8fce5cdf8
+google,2022,google-2022-environmental-report.pdf,1,16,244.0800018310547,433.8399963378906,526.7711181640625,445.0899963378906,9.0,"better devices and services, and empowering users with technology.",01fed43540a107ac6ba9bf5c461889ac616240fb
+google,2022,google-2022-environmental-report.pdf,1,17,253.0800018310547,449.8399963378906,532.1150512695312,461.0899963378906,9.0,"For more information about our sustainability strategy, see Google’s",34bc53f9d97ff253409699127b8b0536d6af979d
+google,2022,google-2022-environmental-report.pdf,1,18,244.0800018310547,465.8399963378906,544.209228515625,477.0899963378906,9.0,Sustainability website and sustainability reports page. For more information,bba07aa9951c8286ec85d47046529582f6e1eb0b
+google,2022,google-2022-environmental-report.pdf,1,19,244.0800018310547,481.8399963378906,515.8018798828125,493.0899963378906,9.0,"about our overall corporate responsibility initiatives, see Google’s",e98a981bfaf4ded71df09d46ea0a703460a19ed2
+google,2022,google-2022-environmental-report.pdf,1,20,244.0800018310547,497.8399963378906,537.2080078125,509.0899963378906,9.0,"commitments, as well as sustainability and related information. For more",917c9943991bcee7e9658ee67abd9286898046f7
+google,2022,google-2022-environmental-report.pdf,1,21,244.0800018310547,513.8399658203125,549.7523193359375,525.0899658203125,9.0,"information about our business, see the About Google and Alphabet Investor",aebf373da75fcb5e958b7f3819bfcd9c35f6537d
+google,2022,google-2022-environmental-report.pdf,1,22,244.0800018310547,529.8399658203125,321.7857971191406,541.0899658203125,9.0,Relations websites.,273597a65a11cf6a941dd3f906d5d3ab4dcdd74d
+google,2022,google-2022-environmental-report.pdf,1,23,12.095999717712402,767.7839965820312,599.7599487304688,776.5339965820312,7.0,1 Google Environmental Report 2022,b4028b0bf16900e4d8a07026c69945ad623162a1
+google,2022,google-2022-environmental-report.pdf,2,0,244.0800018310547,73.74402618408203,382.7548522949219,101.24402618408203,22.0,Our approach,f09011b0e8e18972eddae5f7c0e3a6e60b0eb3e7
+google,2022,google-2022-environmental-report.pdf,2,1,244.0800018310547,106.7760238647461,553.0429077148438,118.0260238647461,9.0,We believe that every business has the opportunity and obligation to protect,fa6d6bdbf04c0f65831fb4302297a54d928567cf
+google,2022,google-2022-environmental-report.pdf,2,2,244.0800018310547,122.7760238647461,550.850830078125,134.02603149414062,9.0,"our planet. Sustainability is one of our core values at Google, and we strive",85e5a02b44466233a574c776fbc6a4c84b6b4942
+google,2022,google-2022-environmental-report.pdf,2,3,244.0800018310547,138.77603149414062,423.1159973144531,150.02603149414062,9.0,to build sustainability into everything we do.,3227b0dff6c73edf1f8c402927e021e08e0df974
+google,2022,google-2022-environmental-report.pdf,2,4,253.0800018310547,154.77603149414062,546.3511962890625,166.02603149414062,9.0,We’ve been a leader on sustainability and climate change since Google’s,828445f00697fa98d068834a15e32abab4be79ec
+google,2022,google-2022-environmental-report.pdf,2,5,244.0800018310547,170.77603149414062,546.4135131835938,182.02603149414062,9.0,founding over 20 years ago. These are some of our key achievements over,0f5fa29a7010ee97c6d3bcf664de3928d96fb015
+google,2022,google-2022-environmental-report.pdf,2,6,244.0800018310547,186.77603149414062,334.11505126953125,198.02603149414062,9.0,the past two decades:,cea5fdf5ba09b463ff28712dbb07930f3e747fa5
+google,2022,google-2022-environmental-report.pdf,2,7,244.0800018310547,210.54000854492188,556.5518188476562,220.54000854492188,8.0,2007:  We became the first major company to be carbon neutral for our operations.,a8123d9d0cb90d4969332a260bf2af730752ed9b
+google,2022,google-2022-environmental-report.pdf,2,8,244.0800018310547,244.14010620117188,555.7758178710938,266.1401062011719,8.0,"2017:  We became the first major company to match 100% of our annual electricity  use with renewable energy, ​which we’ve achieved for five consecutive years.",1a72d73f7b5eabdbeab09747605aae74d9dcb9bf
+google,2022,google-2022-environmental-report.pdf,2,9,244.0800018310547,289.7400817871094,550.9888305664062,311.7400817871094,8.0,"2020:  We issued $5.75 billion in sustainability bonds—the largest sustainability 
+ or green bond issuance by any company in history at the time.",20338f99570bd3f4e757f4ea7510c7773a754a17
+google,2022,google-2022-environmental-report.pdf,2,10,244.0800018310547,335.340087890625,520.6932373046875,357.340087890625,8.0,"2021:  We matched 66% of our data center electricity use with regional 
+ carbon-free sources, on an hourly basis.",724ab692c92b89d50c9bade0bc016d32f325ebf2
+google,2022,google-2022-environmental-report.pdf,2,11,253.0800018310547,373.1761169433594,542.9629516601562,384.4261169433594,9.0,Our sustainability strategy is focused on three key pillars: accelerating,3afcd3ed36578a8265abd30987e0ba70a704542a
+google,2022,google-2022-environmental-report.pdf,2,12,244.0800018310547,389.1761169433594,546.9102783203125,400.4261169433594,9.0,"the transition to carbon-free energy and a circular economy, empowering",8e7f08ccf8cffa38adaf2a4c1b9c7cde920455de
+google,2022,google-2022-environmental-report.pdf,2,13,244.0800018310547,405.1761169433594,549.8053588867188,416.4261169433594,9.0,"everyone with technology, and benefiting the people and places where we",f7de4fddb1f939f7136136a015d7453967f91f5f
+google,2022,google-2022-environmental-report.pdf,2,14,244.0800018310547,421.1761169433594,334.2321472167969,432.4261169433594,9.0,operate (see Figure 1).,0469ec8e90cf9329fd03b2eb4e74e80a655d5820
+google,2022,google-2022-environmental-report.pdf,2,15,30.09600067138672,485.54400634765625,57.66200256347656,494.29400634765625,7.0,Figure 1,ef3c148391912886e200c8da65ce231cc75c34aa
+google,2022,google-2022-environmental-report.pdf,2,16,30.09600067138672,499.1159973144531,203.41799926757812,510.3659973144531,9.0,SUSTAINABILITY STRATEGY OVERVIEW,76ac18fcc198d470c9fd3d2b78237166f4379de9
+google,2022,google-2022-environmental-report.pdf,2,17,91.60240173339844,540.4600219726562,520.7368774414062,562.9600219726562,18.0,We strive to build sustainability into everything we do,1ef85558a11c33bbbe80c4a5b70998e26d788a06
+google,2022,google-2022-environmental-report.pdf,2,24,60.05379867553711,646.3510131835938,189.55551147460938,660.1010131835938,11.0,Accelerate carbon-free,e7c0bec0c674e3992754b11734264287f7041ecd
+google,2022,google-2022-environmental-report.pdf,2,18,267.90740966796875,646.3510131835938,349.2405090332031,660.1010131835938,11.0,Empower with,5bb349fa9ed6f395ad462d869ea75e59b0a51add
+google,2022,google-2022-environmental-report.pdf,2,29,451.26959228515625,646.3510131835938,533.4169921875,660.1010131835938,11.0,Benefit people,61501cb9ab815aec100483e5a42a72e61f4cf845
+google,2022,google-2022-environmental-report.pdf,2,25,90.95809936523438,658.8510131835938,156.0770263671875,672.6010131835938,11.0,and circular,d213d4babb8ee1e62cac023ef4dde91aeff38a0d
+google,2022,google-2022-environmental-report.pdf,2,19,276.0362854003906,658.8510131835938,335.9643249511719,672.6010131835938,11.0,technology,30f7a16c51a35741d235f601f42e5792efec4b16
+google,2022,google-2022-environmental-report.pdf,2,30,461.6205139160156,658.8510131835938,517.9185180664062,672.6010131835938,11.0,and places,ad18d879a0c6dd7f7bb262b0cd1851ab6e4b664a
+google,2022,google-2022-environmental-report.pdf,2,26,68.53730010986328,679.7757568359375,178.01199340820312,691.0257568359375,9.0,Decouple business growth,9f11a606a2e5551ca6094a4d65c9785809d5a3f9
+google,2022,google-2022-environmental-report.pdf,2,20,234.04080200195312,679.7757568359375,380.0495300292969,691.0257568359375,9.0,Tackle major sustainability problems,e7f7b162c8eba6366cf486fc61a1c4e52939bbae
+google,2022,google-2022-environmental-report.pdf,2,31,442.9565124511719,679.7757568359375,540.7582397460938,691.0257568359375,9.0,Share benefits with the,4704246699674d1a7785e2a2f25dbe6860c764ab
+google,2022,google-2022-environmental-report.pdf,2,27,68.17729949951172,693.7757568359375,178.3719940185547,705.0257568359375,9.0,from the growth of carbon,37f4e231517c69c9449f37c9ca1f59d1224ae6e4
+google,2022,google-2022-environmental-report.pdf,2,21,234.56320190429688,693.7757568359375,379.52520751953125,705.0257568359375,9.0,and drive net-positive impact using,50e039a00692c2eabfc449e35e2f2e0f4644ac26
+google,2022,google-2022-environmental-report.pdf,2,32,431.3642883300781,693.7757568359375,552.350341796875,705.0257568359375,9.0,"communities of our facilities,",bb0480213d428b05e17b02d45ccb1cb57203fadd
+google,2022,google-2022-environmental-report.pdf,2,28,70.8230972290039,707.7757568359375,175.72622680664062,719.0257568359375,9.0,intensity and material use,22dffdfe8efe133a323ad4574708d86db9c56585
+google,2022,google-2022-environmental-report.pdf,2,22,241.08799743652344,707.7757568359375,373.0000305175781,719.0257568359375,9.0,"Google technologies, platforms,",7a420036407b41571906dfa37ac97b9c36004c7d
+google,2022,google-2022-environmental-report.pdf,2,33,430.5455017089844,707.7757568359375,548.9927978515625,719.0257568359375,9.0,"users, partners, and suppliers",3988bacdf89d91c15d7f4af615e7aebc18694d21
+google,2022,google-2022-environmental-report.pdf,2,23,259.9610900878906,721.7757568359375,352.0391540527344,733.0257568359375,9.0,"products, and services",1a63cc7509e383921f8bedc5a2322bc3f4408515
+google,2022,google-2022-environmental-report.pdf,2,34,12.095999717712402,767.7839965820312,599.760009765625,776.5339965820312,7.0,2 Google Environmental Report 2022,cf3ad031be2815b75985dd9e17fb4133d882bffe
+google,2022,google-2022-environmental-report.pdf,3,0,244.0800018310547,76.471923828125,430.1649169921875,90.22193145751953,11.0,Accelerating carbon-free and circular,ad068aa422689fc8e4c17fadef15cc78228a7990
+google,2022,google-2022-environmental-report.pdf,3,1,244.0800018310547,94.3999252319336,547.0847778320312,105.6499252319336,9.0,"To accelerate the transition to a carbon-free and circular economy, in 2020,",b36e6ed7fc36b321527581a0a46e2243450e140c
+google,2022,google-2022-environmental-report.pdf,3,2,244.0800018310547,110.3999252319336,537.2881469726562,121.6499252319336,9.0,"we launched our third decade of climate action, and we’re now working",cc91cc7290e971c193275bae99b9065d27742811
+google,2022,google-2022-environmental-report.pdf,3,3,244.0800018310547,126.3999252319336,475.297119140625,137.64993286132812,9.0,"toward a new set of ambitious goals. By 2030, we aim to:",4826f9809bb7bd89d330c04ce8bbe536501f2bd4
+google,2022,google-2022-environmental-report.pdf,3,4,244.0800018310547,150.16397094726562,526.2446899414062,172.16397094726562,8.0,"Achieve net-zero emissions across all of our operations and value chain, 
+ including our consumer hardware products",693443dc0868e129213d2ac45157f684d0a3307a
+google,2022,google-2022-environmental-report.pdf,3,5,244.0800018310547,195.76400756835938,538.013427734375,217.76400756835938,8.0,"Become the first major company to run on carbon-free energy 24 hours a day,  seven days a week, 365 days a year",82566c9e1ee6dd6c9ccb8b1ee44015f0513125f2
+google,2022,google-2022-environmental-report.pdf,3,6,244.0800018310547,241.36392211914062,547.3599853515625,263.3639221191406,8.0,Enable 5 gigawatts of new carbon-free energy through investments in our key  manufacturing regions,73fddb31416b96655a54a6ef4767e10efeb8241d
+google,2022,google-2022-environmental-report.pdf,3,7,244.0800018310547,286.9639892578125,530.4285888671875,308.9639892578125,8.0,"Help more than 500 cities and local governments reduce an aggregate of 
+ 1 gigaton of carbon emissions annually",7a3869e9fa6a17d0f5f7bccfe3064377c80b6f1e
+google,2022,google-2022-environmental-report.pdf,3,8,253.0800018310547,324.8000183105469,558.8716430664062,336.0500183105469,9.0,"We also aim to maximize the reuse of finite resources across our operations,",0a848994f558c2bea5e1ad38cec4301d1e599849
+google,2022,google-2022-environmental-report.pdf,3,9,244.0800018310547,340.8000183105469,510.3431701660156,352.0500183105469,9.0,"products, and supply chains and to enable others to do the same.",075d3bf89b39f2040c09a47da2ef87f62b0fa900
+google,2022,google-2022-environmental-report.pdf,3,10,253.0800018310547,356.8000183105469,558.133544921875,368.0500183105469,9.0,As part of our goal to achieve net-zero emissions across all of our operations,cded31e9c234ac7251782311bdcd7243d923316f
+google,2022,google-2022-environmental-report.pdf,3,11,244.0800018310547,372.8000183105469,543.8941650390625,384.0500183105469,9.0,"and value chain by 2030, we aim to reduce the majority of our emissions",4ac5cfac3c4150f506d2d6703a71e3adccac880d
+google,2022,google-2022-environmental-report.pdf,3,12,244.0800018310547,388.8000183105469,548.9461059570312,400.0500183105469,9.0,(versus our 2019 baseline) before 2030 and plan to invest in nature-based,b74e2177ec32a3050de3798d33f65e244887ca94
+google,2022,google-2022-environmental-report.pdf,3,13,244.0800018310547,404.8000183105469,556.1333618164062,416.0500183105469,9.0,and technology-based carbon removal solutions to neutralize our remaining,1252142aea81ac81cbd17d3ff362ace2b633451a
+google,2022,google-2022-environmental-report.pdf,3,14,244.0800018310547,420.8000183105469,542.69091796875,432.0500183105469,9.0,emissions. We know this will be a challenging journey and we expect our,35772339b9076fda658ab9d604373eff05c165db
+google,2022,google-2022-environmental-report.pdf,3,15,244.0800018310547,436.8000183105469,544.718017578125,448.0500183105469,9.0,progress toward this goal to be nonlinear. While our total GHG emissions,3a72576340350f815a2a8a4e9b9da017fcb8eca2
+google,2022,google-2022-environmental-report.pdf,3,16,244.0800018310547,452.8000183105469,550.68310546875,464.0500183105469,9.0,"increased from 2020 to 2021, we’re committed to achieving GHG reductions",1320eec9cc82d6eb3bddfda76c0b45ead50e8853
+google,2022,google-2022-environmental-report.pdf,3,17,244.0800018310547,468.8000183105469,420.1010437011719,480.0500183105469,9.0,throughout our operations and value chain.,b1f54d384ee6a3d235d1570381acb8179e5a3cfa
+google,2022,google-2022-environmental-report.pdf,3,18,12.095999717712402,767.7839965820312,599.7600708007812,776.5339965820312,7.0,3 Google Environmental Report 2022,604860dcf6e3465c17bd571d524aad292149c521
+google,2022,google-2022-environmental-report.pdf,4,0,244.0800018310547,76.471923828125,437.8977966308594,90.22193145751953,11.0,Empowering everyone with technology,af2dc3dbd44ec71c17d09fa23b1880b68e30af8e
+google,2022,google-2022-environmental-report.pdf,4,1,244.0800018310547,94.3999252319336,538.928955078125,105.6499252319336,9.0,"To empower everyone with technology, we’ve committed to help 1 billion",2cd5bca86a084b22c4a0e83a7b528559c0f4d290
+google,2022,google-2022-environmental-report.pdf,4,2,244.0800018310547,110.3999252319336,551.4902954101562,121.6499252319336,9.0,people make more sustainable choices by the end of 2022 through our core,c5a0d05f3cfe21da223659bf98902ea7b3ff4ba1
+google,2022,google-2022-environmental-report.pdf,4,3,244.0800018310547,126.3999252319336,552.389404296875,137.64993286132812,9.0,"products. We introduced eco-friendly routing in Google Maps, new features",2b2e833f214739d77617b272bcb7dc80a497eaba
+google,2022,google-2022-environmental-report.pdf,4,4,244.0800018310547,142.39993286132812,542.9771118164062,153.64993286132812,9.0,"to book flights or purchase appliances that have lower carbon footprints,",e24367121cc3e9565c81eb1b102a7910c19b5df3
+google,2022,google-2022-environmental-report.pdf,4,5,244.0800018310547,158.39993286132812,546.6143798828125,169.64993286132812,9.0,"and Nest Renew, a program to support clean energy from home. And when",ccc9149a27153c766287247833a48e7a4096d643
+google,2022,google-2022-environmental-report.pdf,4,6,244.0800018310547,174.39993286132812,539.1602783203125,185.64993286132812,9.0,"people come to Google Search with questions about climate change, we",aa6e6934823dd3509fbaa2ea2e4bc3e964fb5918
+google,2022,google-2022-environmental-report.pdf,4,7,244.0800018310547,190.39993286132812,518.7485961914062,201.64993286132812,9.0,show information from authoritative sources like the United Nations.,48e18d9aaabeb4d56053097a454857d9c0bf4c1b
+google,2022,google-2022-environmental-report.pdf,4,8,244.0800018310547,213.572021484375,387.3858642578125,227.322021484375,11.0,Benefiting people and places,1a16f2b548448c165dc60c12e200b44f67964cf4
+google,2022,google-2022-environmental-report.pdf,4,9,244.0800018310547,231.50003051757812,535.8692016601562,242.75003051757812,9.0,"To benefit the people and places where we operate, we’ve set goals to",36b53de7b10cc31c7b0d7e9f91a21bed37dd693a
+google,2022,google-2022-environmental-report.pdf,4,10,244.0800018310547,247.50003051757812,556.1075439453125,258.7500305175781,9.0,replenish more water than we consume by 2030 and to support water security,bcbf6ff4a0db46855a33bb6c1f921849821faacd
+google,2022,google-2022-environmental-report.pdf,4,11,244.0800018310547,263.5000305175781,552.201416015625,274.7500305175781,9.0,in communities where we operate. We’re focused on three areas: enhancing,a0b4fee8f03c3e10014593d3a9fd48bef8b8776d
+google,2022,google-2022-environmental-report.pdf,4,12,244.0800018310547,279.5,555.3162231445312,290.75,9.0,our stewardship of water resources across Google offices and data centers;,c24f087087568b4a99b7f838364130953305edda
+google,2022,google-2022-environmental-report.pdf,4,13,244.0800018310547,295.5,558.0091552734375,306.75,9.0,replenishing our water use and improving watershed health and ecosystems,1da281761ed3e016abb13510291d3f779ba384da
+google,2022,google-2022-environmental-report.pdf,4,14,244.0800018310547,311.5,543.2462158203125,322.75,9.0,in water-stressed communities; and sharing technology and tools that help,b73d8456826793efd61c05a9cc01dd5006fca87b
+google,2022,google-2022-environmental-report.pdf,4,15,244.0800018310547,327.5,479.2203674316406,338.75,9.0,"everyone predict, prevent, and recover from water stress.",df4323effe02298b0310549bbe4d2486718c321f
+google,2022,google-2022-environmental-report.pdf,4,16,244.0800018310547,352.5,557.0613403320312,363.75,9.0,"At Google, we remain steadfast in our commitment to sustainability, and we’ll",0fb92c72a1f43e01da20731bb622ed26f81f1c9f
+google,2022,google-2022-environmental-report.pdf,4,17,244.0800018310547,368.5,555.4598999023438,379.75,9.0,continue to lead and encourage others to join us in improving the health of our,beac9945a8c0ef244e9ee994462fdd5694e7dfd9
+google,2022,google-2022-environmental-report.pdf,4,18,244.0800018310547,384.5,555.0631713867188,395.75,9.0,"planet. We’re proud of what we’ve achieved so far, and we’re energized to help",94db11deca13fa95d1017cc62c704035c028a715
+google,2022,google-2022-environmental-report.pdf,4,19,244.0800018310547,400.5,538.2349853515625,411.75,9.0,move the world closer to a more sustainable and carbon-free future for all.,fd1d650fce7ab4fd24e4ba14c84d27d9ae3741db
+google,2022,google-2022-environmental-report.pdf,4,20,12.095999717712402,767.7839965820312,599.7599487304688,776.5339965820312,7.0,4 Google Environmental Report 2022,48dae79b96ac6b51221459138bf77f2236bb8249
+google,2022,google-2022-environmental-report.pdf,5,0,244.0800018310547,73.74402618408203,473.4278564453125,101.24402618408203,22.0,Performance highlights,bae0328c74b948e762ef916250d6f03df3b853c7
+google,2022,google-2022-environmental-report.pdf,5,1,244.0800018310547,106.7760238647461,552.09423828125,118.0260238647461,9.0,The following section provides a snapshot of our performance as of the end,56e666c9a0fb56fcc5363724b8d3376dd4878db8
+google,2022,google-2022-environmental-report.pdf,5,2,244.0800018310547,122.7760238647461,548.934326171875,134.02603149414062,9.0,of 2021—demonstrating how we’re strengthening our business by reducing,bda34729b2a8895acf4a1845a9a11acba1f4c460
+google,2022,google-2022-environmental-report.pdf,5,3,244.0800018310547,138.77603149414062,552.3208618164062,150.02603149414062,9.0,the environmental impact of our operations and working to empower people,8eae2644bf85ae7eea02e57efef399fed94230cc
+google,2022,google-2022-environmental-report.pdf,5,4,244.0800018310547,154.77603149414062,392.67724609375,166.02603149414062,9.0,everywhere to live more sustainably.,e12158bbe3bbf08dd7b4d737f10d892d03a305d6
+google,2022,google-2022-environmental-report.pdf,5,5,253.0800018310547,170.77603149414062,534.7593383789062,182.02603149414062,9.0,"For a more complete overview of our performance over time, see the",fb3e15c2ab551ab7d2d699dc9cc0fef3ff09b20b
+google,2022,google-2022-environmental-report.pdf,5,6,244.0800018310547,186.77603149414062,346.3912048339844,198.02603149414062,9.0,environmental data table.,00150f19cbbd532a7c628ed10bd09c65a632731d
+google,2022,google-2022-environmental-report.pdf,5,7,34.09920120239258,257.9231262207031,197.16664123535156,268.5481262207031,8.5,DESIGNING EFFICIENT DATA CENTERS,b229cffe65b8ceddf915fac6ddd4a532fc26c8d0
+google,2022,google-2022-environmental-report.pdf,5,8,34.09920120239258,276.3905029296875,504.99267578125,285.7655029296875,7.5,Energy GHG emissions,7db253a82b7b58633a8a3699cd72e5498ec9ed00
+google,2022,google-2022-environmental-report.pdf,5,9,34.09920120239258,296.039794921875,114.09930419921875,329.893798828125,14.333333333333334,2 X as energy efficient,2f909d456d59a684cc5d347e28f3d8b8b17a8890
+google,2022,google-2022-environmental-report.pdf,5,11,172.0511932373047,296.039794921875,286.7013244628906,329.893798828125,14.333333333333334,5 X as much computing power,f40811d0bb2e916c08b5f5a7a5023efb700fbb9b
+google,2022,google-2022-environmental-report.pdf,5,13,310.0032043457031,296.039794921875,394.7200927734375,329.893798828125,14.5,1.10 average annual PUE,4bd3b8302ea2f9ce573aa7222373e50ebd69bf73
+google,2022,google-2022-environmental-report.pdf,5,15,447.9552001953125,296.039794921875,568.8522338867188,341.893798828125,12.666666666666666,0 operational GHG emissions  after compensations,cfdd9fdaef884c871dde18e8f737ad5d91246092
+google,2022,google-2022-environmental-report.pdf,5,10,34.09920120239258,334.769775390625,153.9547119140625,364.144775390625,6.84375,"On average, a Google data center 
+ is twice as energy efficient as a  typical enterprise data center. 1",9b45ab814e1033f8ec2638bca693d5a0513159d6
+google,2022,google-2022-environmental-report.pdf,5,12,172.0511932373047,334.769775390625,295.7156982421875,374.144775390625,7.5,"Compared with five years ago, 
+ we now deliver around five times  as much computing power with the  same amount of electrical power.",57fad6262eb2f6d8629f207f120d5c8b82714fd6
+google,2022,google-2022-environmental-report.pdf,5,14,310.0032043457031,334.769775390625,436.5274353027344,394.144775390625,6.916666666666667,"In 2021, the average annual PUE 2 for our global fleet of data centers  was 1.10, compared with the industry  average of 1.57 3 —meaning that  Google data centers use about 
+ six times less overhead energy.",a8d6a3fad1cb0c0f56f017a87a6ede3f01a2c53a
+google,2022,google-2022-environmental-report.pdf,5,16,447.9552001953125,346.769775390625,575.826416015625,466.144775390625,7.298076923076923,"Whether someone is using Google  at home or as part of an organization  running Google Cloud or Google  Workspace, all products in our Cloud  are carbon neutral—meaning that  the operational GHG emissions  associated with running workloads 
+ on our infrastructure have been  reduced through procurement of  renewable energy and any residual  emissions have been compensated 
+ for with high-quality carbon credits. 4",98c7150db2577c0e271cdf415dac84accd7457a0
+google,2022,google-2022-environmental-report.pdf,5,17,35.09600067138672,484.0408935546875,58.09850311279297,493.4158935546875,7.5,Waste,42316a12b62cc18c03b371ed115e8845e6f9aecb
+google,2022,google-2022-environmental-report.pdf,5,18,34.09920120239258,502.7757873535156,110.22930145263672,536.6297607421875,14.333333333333334,78 % of waste diverted,f9b9900d51f46c50f18b709f55b8de49d1f5b48b
+google,2022,google-2022-environmental-report.pdf,5,20,172.0511932373047,502.7757873535156,290.2203063964844,536.6297607421875,14.333333333333334,27 % of components refurbished,63c7ec08190956f590e0208ec36b131e98eb85a9
+google,2022,google-2022-environmental-report.pdf,5,22,310.0032043457031,502.7757873535156,393.1442565917969,536.6297607421875,12.666666666666666,"4.9  million 
+ components resold",4a13e6ad930211c2a687c18fff8ca9bcb1b7fd99
+google,2022,google-2022-environmental-report.pdf,5,19,34.09920120239258,541.5057983398438,151.84469604492188,570.8807983398438,7.5,"In 2021, we diverted 78% of waste  from our global data center  operations away from landfills.",58e65a8ef0f53354b7e7be1f1895f4ace3de9684
+google,2022,google-2022-environmental-report.pdf,5,21,172.0511932373047,541.5057983398438,281.5631408691406,570.8807983398438,7.5,"In 2021, 27% of components 
+ used for server upgrades were  refurbished inventory.",c227581ecdac1fb6a5bdd7427d20e97a845614e2
+google,2022,google-2022-environmental-report.pdf,5,23,310.0032043457031,541.5057983398438,420.3197937011719,580.8807983398438,7.5,"In 2021, we resold more than  4.9 million components into the  secondary market for reuse by 
+ other organizations.",a7da474d149ffcf56f324285d94df8880654b9d3
+google,2022,google-2022-environmental-report.pdf,5,24,12.095999717712402,767.7839965820312,599.760009765625,776.5339965820312,7.0,5 Google Environmental Report 2022,f529c703c6e9574f31d1c88f2acd5e5744661575
+google,2022,google-2022-environmental-report.pdf,6,0,34.09920120239258,59.875091552734375,191.2030487060547,70.50009155273438,8.5,ADVANCING CARBON-FREE ENERGY,c317da48b3cfb243ee4901335bcd9a2d282ee4a0
+google,2022,google-2022-environmental-report.pdf,6,1,34.09920120239258,78.34256744384766,490.51373291015625,87.71756744384766,7.5,Energy Investment,f7652ffe300e81850f6934a6dbace27ae61e957d
+google,2022,google-2022-environmental-report.pdf,6,2,34.09920120239258,97.99179077148438,122.92741394042969,131.84579467773438,12.666666666666666,"7  GW 
+ of renewable energy",107459d2356e42f33b6c099584b8bf9e92d42020
+google,2022,google-2022-environmental-report.pdf,6,4,171.87130737304688,97.99179077148438,249.47743225097656,131.84579467773438,14.333333333333334,100 % renewable energy,68fb91f01152cbfabbc3d3f43979e725e94890ab
+google,2022,google-2022-environmental-report.pdf,6,6,309.6434020996094,97.99179077148438,398.4714660644531,131.84579467773438,12.666666666666666,"73  million MWh 
+ of renewable energy",bc068597466cf0b4861ad43d66da20b7e8e55050
+google,2022,google-2022-environmental-report.pdf,6,8,448.3269958496094,97.99179077148438,514.1990356445312,143.84579467773438,12.2,"$ 3.3  billion 
+ in investment
+ commitments",392751b3c64f79060f52d4d91eb47f2b62a9f204
+google,2022,google-2022-environmental-report.pdf,6,3,34.09920120239258,136.72178649902344,139.35330200195312,226.09678649902344,7.2375,"From 2010 to 2021, we signed 
+ more than 60 agreements
+ totaling more than 7 GW of  renewable energy. Over that 
+ period, we’ve committed  approximately $6 billion 
+ to purchase clean energy 
+ from wind and solar projects 
+ globally through 2040. 5",7d7c21ce42082b5b6df834cd78279e5d7d1b31d4
+google,2022,google-2022-environmental-report.pdf,6,5,171.87130737304688,136.72178649902344,289.0061950683594,186.09678649902344,7.5,"In 2021, we matched 100% 
+ of the electricity consumption of 
+ our operations with renewable  energy purchases for the fifth  consecutive year.",5c2341748e70b182fa6c748ba852f55757d14b33
+google,2022,google-2022-environmental-report.pdf,6,7,309.6434020996094,136.72178649902344,434.9788818359375,226.09678649902344,7.0227272727272725,"Over the past decade, Google 
+ purchased more renewable 
+ energy than any other company. 6 From 2010 to 2021, we purchased 
+ a total of more than 73 million MWh 
+ of renewable energy through PPAs,  via on-site generation, and from 
+ the electric grids where our 
+ facilities are located. 7",0d2ade609b8c725d389963172ed7ffc69e2130b7
+google,2022,google-2022-environmental-report.pdf,6,9,448.3269958496094,148.72178649902344,574.5392456054688,238.09678649902344,7.5,"From 2010 to 2021, we made  commitments to invest nearly 
+ $3.3 billion in renewable energy  projects with an expected combined  capacity of approximately 8.7 GW.  These targeted investments 
+ go beyond our purchases of 
+ renewable energy for our 
+ own operational footprint.",7987c2719919ed77300f566e415bbd8960136896
+google,2022,google-2022-environmental-report.pdf,6,10,34.09920120239258,262.9505920410156,91.13670349121094,272.3255920410156,7.5,GHG emissions,6756d29d8f20456adef08182947da9750443faef
+google,2022,google-2022-environmental-report.pdf,6,11,34.09920120239258,282.59979248046875,121.1103286743164,328.45379638671875,13.0,"65 % cumulative GHG 
+ emissions reduction",815b2929928a3e4596ac034d3baf8825212b1742
+google,2022,google-2022-environmental-report.pdf,6,13,171.87130737304688,282.59979248046875,252.34840393066406,328.45379638671875,13.0,"81 % decrease 
+ in carbon intensity",f36314eb316f076f2f28e046e3dade3af0a39691
+google,2022,google-2022-environmental-report.pdf,6,15,309.6434020996094,282.59979248046875,395.94342041015625,316.45379638671875,12.666666666666666,"15  years 
+ of carbon neutrality",83a5457e66f878ff705953912f23ccef11fda962
+google,2022,google-2022-environmental-report.pdf,6,16,309.6434020996094,321.3298034667969,423.8935852050781,400.7048034667969,7.5,"Google has been carbon neutral 
+ for our operations since 2007.  Because of our purchases 
+ of renewable energy and 
+ procurement of high-quality
+ carbon credits, we have  compensated for all our 
+ operational GHG emissions.",a799c346e23c611bd592b2ad148ff420f72c9eec
+google,2022,google-2022-environmental-report.pdf,6,12,34.09920120239258,333.3298034667969,157.38644409179688,402.7048034667969,7.5,"From 2011 to 2021, our renewable  energy purchasing resulted in a  cumulative 65% reduction in our  Scope 1 and Scope 2 emissions, as  compared with a business-as-usual  scenario in which we didn’t procure  renewable energy via PPAs.",a7e0440a3790f664122d23fba2970cf766b45ab9
+google,2022,google-2022-environmental-report.pdf,6,14,171.87130737304688,333.3298034667969,276.39508056640625,362.7048034667969,7.5,"From 2011 to 2021, our carbon  intensity per unit of revenue 
+ decreased by 81%.",759e8a0f66619910dee7b57fb70a7bfbf2f168ee
+google,2022,google-2022-environmental-report.pdf,6,17,34.09920120239258,418.9790954589844,202.96533203125,429.6040954589844,8.5,CREATING SUSTAINABLE WORKPLACES,02f9b43bfdcee3d57355855e8380419098ce8182
+google,2022,google-2022-environmental-report.pdf,6,18,34.09920120239258,437.44659423828125,477.5277404785156,446.82159423828125,7.5,Certifications Waste Ecology,caaaf2b5781eb1aaff6e8c6b253dbc9c519bd3d3
+google,2022,google-2022-environmental-report.pdf,6,19,34.09920120239258,457.0957946777344,100.1550064086914,490.9497985839844,10.962499976158142,18  million ft 2 LEED-certified,a5d462c6dc39a4df24318cd35d269a4be04332bf
+google,2022,google-2022-environmental-report.pdf,6,21,172.0511932373047,457.0957946777344,234.4923095703125,490.9497985839844,14.333333333333334,26 % LEED Platinum,efe033b508dec67ec410088bf95725687a8d0b6b
+google,2022,google-2022-environmental-report.pdf,6,23,310.0032043457031,457.0957946777344,381.0932312011719,490.9497985839844,14.333333333333334,64 % landfill diversion,c4792c0d5a880bf93f80dbe528c9962dcf8b348e
+google,2022,google-2022-environmental-report.pdf,6,25,447.9552001953125,457.0957946777344,548.0262451171875,502.9497985839844,11.75,"15  acres 
+ of native habitat on 
+ our Bay Area campuses",3346c31a20b4a983e935b6926dfc056b34132b4a
+google,2022,google-2022-environmental-report.pdf,6,20,34.09920120239258,495.8257751464844,130.37721252441406,535.2008056640625,6.84375,"From 2009 to 2021, over 
+ 1.7 million m 2  (18 million ft 2 ) 
+ of Google office facilities 
+ achieved LEED certification.",7eda843e9704b11b07792092807bfd3f95bef91b
+google,2022,google-2022-environmental-report.pdf,6,22,172.0511932373047,495.8257751464844,288.658203125,525.2008056640625,7.5,26% of our LEED-certified square  footage has achieved a Platinum  rating and 60% a Gold rating.,85d1cb8bd188b4c110ab3b4516666131dabe0955
+google,2022,google-2022-environmental-report.pdf,6,24,310.0032043457031,495.8257751464844,426.67242431640625,525.2008056640625,7.5,"In 2021, we reached a 64% landfill  diversion rate for waste from 
+ our offices globally.",fe234e7b7c06445cf2623381bc5b4b201a17669a
+google,2022,google-2022-environmental-report.pdf,6,26,447.9552001953125,507.8257751464844,575.9592895507812,547.2008056640625,7.5,"From 2014 to 2021, we restored and  created 15 acres of native habitat on  our Bay Area campuses to support  wildlife and our communities.",a2909669df42c40bd55444f6c3b06d9f4083db74
+google,2022,google-2022-environmental-report.pdf,6,27,34.09920120239258,563.91064453125,77.88346099853516,573.28564453125,7.5,Commuting,32ae4259f73e654a1173e4ac4afbcb25adcbacd3
+google,2022,google-2022-environmental-report.pdf,6,28,35.09600067138672,583.559814453125,116.19400024414062,629.4137573242188,12.666666666666666,"4,000 EV charging ports 
+ at our offices",af1af27b4c150650a58de1bdee78121e08ccd4f2
+google,2022,google-2022-environmental-report.pdf,6,29,35.09600067138672,634.289794921875,147.66351318359375,663.664794921875,7.5,"We have nearly 4,000 EV 
+ charging ports at our offices 
+ in the United States and Canada.",f10b590cca10ca2a26ce1e99f2a9023172859055
+google,2022,google-2022-environmental-report.pdf,6,30,12.095999717712402,767.7839965820312,599.7599487304688,776.5339965820312,7.0,6 Google Environmental Report 2022,53b128c6a67a636b5c4ec6806b7a96cb70da2110
+google,2022,google-2022-environmental-report.pdf,7,0,34.09920120239258,59.875091552734375,215.91847229003906,70.50009155273438,8.5,BUILDING BETTER DEVICES AND SERVICES,e2afce3a933c3aa82afd882759bec599a7a2fd14
+google,2022,google-2022-environmental-report.pdf,7,1,34.09920120239258,78.34256744384766,198.0987091064453,87.71756744384766,7.5,GHG emissions  Energy,a510ac4c6f06e5864897f2ab99efcfee0e0d180e
+google,2022,google-2022-environmental-report.pdf,7,2,34.09920120239258,97.99179077148438,110.63420104980469,143.84579467773438,13.0,"100 % of shipments are 
+ carbon neutral",1e9bfaaebd847835005282f5d01d2476042de376
+google,2022,google-2022-environmental-report.pdf,7,4,172.0511932373047,97.99179077148438,248.46929931640625,131.84579467773438,12.666666666666666,"86  billion kWh 
+ of energy savings",9e5af209d7fc412b8e76666c15b4cf44ac5e22ba
+google,2022,google-2022-environmental-report.pdf,7,6,310.0032043457031,97.99179077148438,386.4212646484375,131.84579467773438,12.666666666666666,"21  billion kWh 
+ of energy savings",8450749722255915f20852f97071609897988800
+google,2022,google-2022-environmental-report.pdf,7,8,447.9552001953125,97.99179077148438,526.9498901367188,131.84579467773438,15.4,10 %– 15 % energy savings,9040512948d8c30866f835c53fe420eb06af46d7
+google,2022,google-2022-environmental-report.pdf,7,5,172.0511932373047,136.72178649902344,280.177978515625,206.09678649902344,7.5,"From 2011 to 2021, Nest 
+ thermostats helped customers  cumulatively save more than 
+ 86 billion kWh of energy—
+ enough to power all of 
+ San Francisco’s electricity 
+ consumption for over 17 years.",0ced3a7e7f2e7a0a0a2303c8932877daee1c6b0a
+google,2022,google-2022-environmental-report.pdf,7,7,310.0032043457031,136.72178649902344,431.3403015136719,176.09678649902344,7.5,"In 2021 alone, Nest thermostats  helped customers save more than 
+ 21 billion kWh of energy—more  energy than Google used in 2021.",6ef5d26d5cccb92f2f06e4eeee42ea6a3c9eb57d
+google,2022,google-2022-environmental-report.pdf,7,9,447.9552001953125,136.72178649902344,574.3609008789062,186.09678649902344,6.84375,"On average, Nest thermostats 
+ have proven energy savings of 
+ 10%–12% for heating and 15% for  cooling, 9  which means they can pay 
+ for themselves in under two years. 10",bd2ad31c0134b628a934bbfb59a83e06d54d010f
+google,2022,google-2022-environmental-report.pdf,7,3,34.09920120239258,148.72178649902344,142.1269989013672,198.09678649902344,7.0625,"All shipments of Google 
+ consumer hardware products 
+ to and from direct customers 
+ are carbon neutral and have 
+ been since 2019. 8",7c281806606f257b9cca1564b9fa201d968232b1
+google,2022,google-2022-environmental-report.pdf,7,10,34.09920120239258,222.92662048339844,333.00567626953125,232.30162048339844,7.5,Materials Waste,fb8c231d2f3d3a6f5b4c40358e21336c13730450
+google,2022,google-2022-environmental-report.pdf,7,11,34.09920120239258,242.57577514648438,148.33531188964844,288.4298095703125,13.0,100 % of Nest and Pixel devices  contain recycled materials,ad0b0ccdef79006767eb2a7d4b5be96b8dd942dd
+google,2022,google-2022-environmental-report.pdf,7,13,172.0511932373047,242.57577514648438,264.89398193359375,300.4298095703125,12.2,"100 % recycled aluminum 
+ in the housing of the 
+ Pixel 6 and Pixel 6 Pro",dcc75e549d9b39bf6c26f127924b1728a018c90c
+google,2022,google-2022-environmental-report.pdf,7,15,310.0032043457031,242.57577514648438,397.833251953125,288.4298095703125,13.0,"100 % 
+ of countries with 
+ take-back programs",5da192c3cd6b498660c5baddbbd3573928f6fe25
+google,2022,google-2022-environmental-report.pdf,7,12,34.09920120239258,293.3057861328125,135.12550354003906,322.6807861328125,6.84375,"All Nest and Pixel devices 
+ launched since 2020 include 
+ recycled materials. 11",92a128d6dde85472bf824a8ea62057e8fbca5fe3
+google,2022,google-2022-environmental-report.pdf,7,16,310.0032043457031,293.3057861328125,432.6568603515625,362.6807861328125,7.5,"In 2021, we offered our take-back  program in all countries where we  ship Google consumer hardware  products, allowing customers to  responsibly recycle old and unused  devices for free—whether made 
+ by Google or not.",3f5f4a7afdd30a07b10110be815c3543ff6fe895
+google,2022,google-2022-environmental-report.pdf,7,14,172.0511932373047,305.3057861328125,290.67919921875,354.6807861328125,7.0625,"Pixel 6 and Pixel 6 Pro are 
+ designed with recycled aluminum 
+ to reduce their carbon footprint. 
+ The aluminum in the housing 
+ is 100% recycled content. 12",4c9f383f29dd89ab8ead819131e3369003fdb5df
+google,2022,google-2022-environmental-report.pdf,7,17,34.09920120239258,378.9991149902344,214.18106079101562,389.6241149902344,8.5,EMPOWERING USERS WITH TECHNOLOGY,0dbdc7d8d4752aeb1675d527e7f4127ce0ccc01a
+google,2022,google-2022-environmental-report.pdf,7,18,34.09920120239258,397.4665832519531,329.30072021484375,406.8415832519531,7.5,Products Tools,49f3974c9b83dbbd74faae08a54609764bebd45d
+google,2022,google-2022-environmental-report.pdf,7,19,34.09920120239258,417.1158142089844,109.81510162353516,462.9698181152344,11.75,"1  billion km 
+ of transit results 
+ on Google Maps",b4abfeb7781c7425580f4d01fa38b7a0d4876086
+google,2022,google-2022-environmental-report.pdf,7,21,172.0511932373047,417.1158142089844,269.70928955078125,462.9698181152344,12.666666666666666,"200,000 EV charging locations 
+ on Google Maps",906c0c68272b5955f8d4706c87e0ca2496849c32
+google,2022,google-2022-environmental-report.pdf,7,23,310.0032043457031,417.1158142089844,390.552001953125,474.9698181152344,11.75,"42,000 cities and regions 
+ on Environmental 
+ Insights Explorer",db0de9f396f93e1067624b1179357b9fb88c91aa
+google,2022,google-2022-environmental-report.pdf,7,25,447.9552001953125,417.1158142089844,528.9180297851562,462.9698181152344,11.75,"52  petabytes 
+ of freely available 
+ geospatial data",1a31c3b069503bd326b7b32111c12bab6bf74ce5
+google,2022,google-2022-environmental-report.pdf,7,20,34.09920120239258,467.8457946777344,151.47930908203125,547.2208251953125,7.5,"Google Maps provides, on 
+ average, more than 1 billion  kilometers’ (621 million miles’) 
+ worth of transit results per day,  helping to limit carbon emissions 
+ by giving people access to mass  transit options, bike routes, 
+ and traffic information.",b4dab3b948fd7974451f59940d9867203e878f44
+google,2022,google-2022-environmental-report.pdf,7,22,172.0511932373047,467.8457946777344,286.418701171875,497.2207946777344,7.5,"By the end of 2021, Google Maps  contained nearly 200,000 EV  charging locations globally.",90d024a3bd9dea9bf7232d7abbd7ee8bceefd2c6
+google,2022,google-2022-environmental-report.pdf,7,26,447.9552001953125,467.8457946777344,562.136474609375,537.2208251953125,7.171875,"Earth Engine has enabled tens 
+ of thousands of active users 
+ around the world to easily 
+ analyze over 52 petabytes 13 of freely available geospatial  information, resulting in a deeper  understanding of the planet.",518939d21d932cb144b0f3ab7397b2c6ac0cbf72
+google,2022,google-2022-environmental-report.pdf,7,24,310.0032043457031,479.8457946777344,429.4831848144531,549.2208251953125,7.5,"By the end of 2021, nearly 42,000  cities and regions worldwide were  covered by the Environmental  Insights Explorer, a tool that  empowers city planners and  policymakers with actionable data 
+ to help reduce global emissions.",a60dd3e53b9c9e035905dcfa011267fd04e1b1a9
+google,2022,google-2022-environmental-report.pdf,7,27,34.09920120239258,566.4266357421875,69.86670684814453,575.8016357421875,7.5,Programs,ab14d0a7db8a3f7096a9e83f624f84232485a23c
+google,2022,google-2022-environmental-report.pdf,7,28,34.09920120239258,586.0758056640625,125.64720916748047,631.9298095703125,12.2,"€ 10  million 
+ Google.org Impact 
+ Challenge on Climate",711eb2dbc0591d9a252fbb31f7313f7532804e05
+google,2022,google-2022-environmental-report.pdf,7,29,34.09920120239258,636.8057861328125,160.7592315673828,716.1807861328125,7.5,"In 2021, 11 organizations across  Europe were selected to receive  Google.org funding via the Impact  Challenge on Climate, which  provided €10 million to fund bold  ideas that use technology to  accelerate Europe’s progress toward  a greener, more resilient future.",a6ccb7fd966ff8189f06fa2321525f19b8d53d65
+google,2022,google-2022-environmental-report.pdf,7,30,12.095999717712402,767.7839965820312,599.7598876953125,776.5339965820312,7.0,7 Google Environmental Report 2022,bfd6f46e2cf190fe8e3a82399afd7926f8a684fb
+google,2022,google-2022-environmental-report.pdf,8,17,244.0800018310547,73.74402618408203,484.5685729980469,101.24402618408203,22.0,Progress against targets,371433754af7e805f26732b8f5d41fb5f005e0cd
+google,2022,google-2022-environmental-report.pdf,8,18,244.0800018310547,106.7760238647461,547.1981201171875,118.0260238647461,9.0,"As a data-driven company, we believe it is critical to regularly track progress",07aae937c65a297b6555ea2e64d7f93c170ce8b1
+google,2022,google-2022-environmental-report.pdf,8,19,244.0800018310547,122.7760238647461,540.0197143554688,134.02603149414062,9.0,toward our commitments and share updates with our stakeholders. The,91b8c331d5be768dfc8048f69bd83f85b0dde96a
+google,2022,google-2022-environmental-report.pdf,8,20,244.0800018310547,138.77603149414062,540.9406127929688,150.02603149414062,9.0,following section provides an overview of our 2021 progress toward our,1740decab2c375d881a33f2d2846c5e9b7cd14f6
+google,2022,google-2022-environmental-report.pdf,8,21,244.0800018310547,154.77603149414062,371.0610656738281,166.02603149414062,9.0,various environmental targets.,6355b7f927ed0508f3084a0113865d0819e9dd29
+google,2022,google-2022-environmental-report.pdf,8,22,253.0800018310547,170.77603149414062,537.6392822265625,182.02603149414062,9.0,"For a more complete overview of our performance over time, see the",fb3e15c2ab551ab7d2d699dc9cc0fef3ff09b20b
+google,2022,google-2022-environmental-report.pdf,8,23,244.0800018310547,186.77603149414062,347.47119140625,198.02603149414062,9.0,environmental data table.,00150f19cbbd532a7c628ed10bd09c65a632731d
+google,2022,google-2022-environmental-report.pdf,8,0,34.09920120239258,257.2751159667969,199.1556396484375,267.9001159667969,8.5,DESIGNING EFFICIENT DATA CENTERS,b229cffe65b8ceddf915fac6ddd4a532fc26c8d0
+google,2022,google-2022-environmental-report.pdf,8,1,34.09920120239258,276.6568908691406,576.1109619140625,286.0318908691406,7.5,Target Deadline 2021 progress Status,2b14d40b073d0fa03882a3cbed1e294215555969
+google,2022,google-2022-environmental-report.pdf,8,2,34.09920120239258,293.74249267578125,60.146697998046875,303.11749267578125,7.5,Energy,437bcb15112715dc73cb38b85f0830f3ce457ded
+google,2022,google-2022-environmental-report.pdf,8,3,34.09600067138672,311.27508544921875,215.11880493164062,332.40008544921875,8.5,"Maintain or improve average annual fleet-wide 
+ PUE across Google data centers year over year.",d05d776f4be1af39075db01e71790b4f0186df84
+google,2022,google-2022-environmental-report.pdf,8,4,265.21600341796875,311.27508544921875,296.9634704589844,332.40008544921875,8.5,2021  (Annual),e2d62d70410b7c34ab5bc26e7417206a39404d52
+google,2022,google-2022-environmental-report.pdf,8,5,319.21600341796875,311.27508544921875,532.1300048828125,353.40008544921875,8.5,"In 2021, the average annual PUE for our global fleet 
+ of data centers was 1.10. Since 2012, our average annual 
+ fleet-wide PUE has stayed at or below 1.12, even as  demand for our products has dramatically risen.",dd0a84a94338cdacc96cdbac6a5c7e07dc03170b
+google,2022,google-2022-environmental-report.pdf,8,6,34.09920120239258,365.24249267578125,85.87844848632812,374.61749267578125,7.5,Certifications,b65e36f73b8a3eb61a2d245a5d6b374d57548128
+google,2022,google-2022-environmental-report.pdf,8,7,34.09600067138672,382.77508544921875,221.64857482910156,414.40008544921875,8.5,"Maintain ISO 50001 energy management system  certification for Google-owned data centers 
+ that meet certain operational milestones.",28dc82504498ed6534185dc543e0c46877ec342b
+google,2022,google-2022-environmental-report.pdf,8,8,265.21600341796875,382.77508544921875,296.9634704589844,403.90008544921875,8.5,2021  (Annual),e2d62d70410b7c34ab5bc26e7417206a39404d52
+google,2022,google-2022-environmental-report.pdf,8,9,319.21600341796875,382.77508544921875,530.7386474609375,435.40008544921875,8.5,"In 2021, we maintained our ISO 50001 certification for 
+ our operational European data centers. We were the 
+ first major internet company to achieve a multi-site 
+ energy management system certification to ISO 50001,  which we first attained in 2013.",73464af041b3d61f690acef0147ece07631d4d19
+google,2022,google-2022-environmental-report.pdf,8,10,34.09920120239258,449.24249267578125,57.10170364379883,458.61749267578125,7.5,Waste,42316a12b62cc18c03b371ed115e8845e6f9aecb
+google,2022,google-2022-environmental-report.pdf,8,11,35.09600067138672,466.77508544921875,207.10899353027344,487.90008544921875,8.5,"Achieve Zero Waste to Landfill for our global 
+ data center operations.",313ce740fed7b00390e78a6d7c0fce79b902f9d2
+google,2022,google-2022-environmental-report.pdf,8,12,266.21600341796875,466.77508544921875,305.12054443359375,487.90008544921875,8.5,Not  applicable,7d5a9f35a5b522f0e9fed442c07f6b9ee6a0d89b
+google,2022,google-2022-environmental-report.pdf,8,13,320.21600341796875,466.77508544921875,530.0545043945312,487.90008544921875,8.5,"In 2021, our global landfill diversion rate for data center  operations was 78%.",d6572669b200e1bacde825926ba39f12e6bceb7e
+google,2022,google-2022-environmental-report.pdf,8,14,34.09920120239258,500.24249267578125,56.51669692993164,509.61749267578125,7.5,Water,de9b1be49dae27efd757dc48f1ad55ec95a5e9e5
+google,2022,google-2022-environmental-report.pdf,8,15,35.09600067138672,517.775146484375,219.70579528808594,570.400146484375,8.5,"Replenish 120% of the water we consume, 
+ on average, across our offices and data centers, 
+ and help restore and improve the quality of 
+ water and health of ecosystems in the 
+ communities where we operate.",00d1e680a42e55ce208d086dfac0d236a01760ed
+google,2022,google-2022-environmental-report.pdf,8,16,266.21600341796875,517.775146484375,517.8654174804688,580.900146484375,8.5,"2030 We’re working toward this target. By the end 
+ of 2021, we had supported 13 water stewardship  projects spanning 10 river basins where we operate  and/or source water. Examples of these projects  include wetland restoration, rainwater harvesting, 
+ and land conservation.",4eaac9532d035185724665c066411fc6855a49ae
+google,2022,google-2022-environmental-report.pdf,8,24,41.040000915527344,744.2052001953125,178.57278442382812,754.2052001953125,8.0,Achieved Missed  In progress,5c2b9ad2f2f07252915dd57df5172370560a453d
+google,2022,google-2022-environmental-report.pdf,8,25,12.095999717712402,767.7839965820312,599.760009765625,776.5339965820312,7.0,8 Google Environmental Report 2022,696059cb489dcce283365bcde5064d4b6c25b6c1
+google,2022,google-2022-environmental-report.pdf,9,0,34.09920120239258,58.939117431640625,191.2030487060547,69.56411743164062,8.5,ADVANCING CARBON-FREE ENERGY,c317da48b3cfb243ee4901335bcd9a2d282ee4a0
+google,2022,google-2022-environmental-report.pdf,9,1,34.09920120239258,78.3208999633789,576.1109619140625,87.6958999633789,7.5,Target Deadline 2021 progress Status,2b14d40b073d0fa03882a3cbed1e294215555969
+google,2022,google-2022-environmental-report.pdf,9,2,34.09920120239258,95.4064712524414,60.146697998046875,104.7814712524414,7.5,Energy,437bcb15112715dc73cb38b85f0830f3ce457ded
+google,2022,google-2022-environmental-report.pdf,9,3,35.09600067138672,112.93911743164062,226.5738067626953,134.06411743164062,8.5,Match 100% of the electricity consumption of our  operations with renewable energy purchases.,93565c3c82e8f3f283be9c9fbae514dda6f9823b
+google,2022,google-2022-environmental-report.pdf,9,4,266.21600341796875,112.93911743164062,297.9634704589844,134.06411743164062,8.5,2021  (Annual),e2d62d70410b7c34ab5bc26e7417206a39404d52
+google,2022,google-2022-environmental-report.pdf,9,5,320.21600341796875,112.93911743164062,533.7868041992188,176.06411743164062,8.075000013623919,"In 2021, we purchased enough renewable energy, from  sources such as wind and solar, to match 100% of the  electricity consumption of our data centers and offices.  We were the first company of our size to reach this  milestone back in 2017, and we’ve achieved it for five  consecutive years. 14",e6e471264262a3d9b393747eab822654ef9d6b6a
+google,2022,google-2022-environmental-report.pdf,9,6,35.09600067138672,188.00308227539062,508.89697265625,219.62808227539062,8.00416668256124,"Operate on carbon-free energy 24/7 by 2030. 2030 In 2021, on an hourly basis, 66% of our data 
+ center electricity use was matched with regional 
+ carbon-free sources. 15",97b512697a178ab2ae3ca76993ec35ef8aaeb8c8
+google,2022,google-2022-environmental-report.pdf,9,7,35.09600067138672,230.00308227539062,242.49595642089844,251.12808227539062,8.5,Enable 5 GW of new carbon-free energy through  investments in our key manufacturing regions by 2030.,cddeeebe5b44ac6ed2779bcb76c7eaf857aeecec
+google,2022,google-2022-environmental-report.pdf,9,8,266.21600341796875,230.00308227539062,446.7893981933594,240.62808227539062,8.5,2030 We’re working toward this target.,358e65fa08c0561f54a2a8be11729ce454a8afcb
+google,2022,google-2022-environmental-report.pdf,9,9,34.09920120239258,264.4706115722656,91.13670349121094,273.8456115722656,7.5,GHG emissions,6756d29d8f20456adef08182947da9750443faef
+google,2022,google-2022-environmental-report.pdf,9,10,35.09600067138672,282.00311279296875,207.80560302734375,313.62811279296875,8.5,"Achieve net-zero emissions across all of 
+ our operations and value chain, including our 
+ consumer hardware products, by 2030.",8a9902abe26c4ffb4cfdae5557db4b6ecc507de0
+google,2022,google-2022-environmental-report.pdf,9,11,266.21600341796875,282.00311279296875,532.18798828125,334.62811279296875,8.5,"2030 We’re working toward this target. We aim to reduce the  majority of our emissions (versus our 2019 baseline)  before 2030 and plan to invest in nature-based and  technology-based carbon removal solutions to 
+ neutralize our remaining emissions.",a67d071c1a891f89d5566388b0ab524bde62c0b0
+google,2022,google-2022-environmental-report.pdf,9,12,35.09600067138672,346.00311279296875,297.9634704589844,367.12811279296875,8.5,Maintain carbon neutrality for our operations. 2021  (Annual),ea8bd9f6f30db682f70eb5d720166312ac7fcd05
+google,2022,google-2022-environmental-report.pdf,9,13,320.21600341796875,346.00311279296875,543.3060302734375,388.12811279296875,7.905000019073486,"In 2021, we purchased enough renewable energy and high- quality carbon credits to compensate for all our operational  GHG emissions. Google has been carbon neutral for our  operations since 2007—for 15 consecutive years. 16",85ad7e0425e33cbce8c576aa862c126ef1b984bb
+google,2022,google-2022-environmental-report.pdf,9,14,34.09920120239258,398.00311279296875,202.96533203125,408.62811279296875,8.5,CREATING SUSTAINABLE WORKPLACES,02f9b43bfdcee3d57355855e8380419098ce8182
+google,2022,google-2022-environmental-report.pdf,9,15,34.09920120239258,417.3848876953125,576.1109619140625,426.7598876953125,7.5,Target Deadline 2021 progress Status,2b14d40b073d0fa03882a3cbed1e294215555969
+google,2022,google-2022-environmental-report.pdf,9,16,34.09920120239258,434.4704895019531,77.88346099853516,443.8454895019531,7.5,Commuting,32ae4259f73e654a1173e4ac4afbcb25adcbacd3
+google,2022,google-2022-environmental-report.pdf,9,17,35.09600067138672,452.00311279296875,222.88429260253906,483.62811279296875,7.905000019073486,"Reduce single-occupancy vehicle commuting at 
+ our Bay Area headquarters 17  to 45% of workers  commuting on any given day.",2aba98fb11adb3f42aa77d3865b94c62115138e1
+google,2022,google-2022-environmental-report.pdf,9,18,266.21600341796875,452.00311279296875,305.12054443359375,473.12811279296875,8.5,Not  applicable,7d5a9f35a5b522f0e9fed442c07f6b9ee6a0d89b
+google,2022,google-2022-environmental-report.pdf,9,19,320.21600341796875,452.00311279296875,448.1487121582031,462.62811279296875,8.5,We’re working toward this target.,e417b5278cd8abe462f098758c0a969964713537
+google,2022,google-2022-environmental-report.pdf,9,20,35.09600067138672,493.9390869140625,208.41786193847656,515.0640869140625,8.5,"Provide EV charging stations for 10% of total 
+ parking spaces at our Bay Area headquarters.",dc4a4cbac2c6faf620c569d8acc3eae06c052de1
+google,2022,google-2022-environmental-report.pdf,9,21,266.21600341796875,493.9390869140625,305.12054443359375,515.0640869140625,8.5,Not  applicable,7d5a9f35a5b522f0e9fed442c07f6b9ee6a0d89b
+google,2022,google-2022-environmental-report.pdf,9,22,320.21600341796875,493.9390869140625,504.3177490234375,525.5640869140625,8.5,"Of the total parking spaces at our Bay Area  headquarters, more than 7% were designated 
+ EV parking spaces with charging stations in 2021.",806c9d5c009139eca159731dd39dfd3309a34023
+google,2022,google-2022-environmental-report.pdf,9,23,34.09920120239258,537.342529296875,85.87844848632812,546.717529296875,7.5,Certifications,b65e36f73b8a3eb61a2d245a5d6b374d57548128
+google,2022,google-2022-environmental-report.pdf,9,24,35.09600067138672,554.8751220703125,244.279296875,597.0001220703125,8.5,"Pursue the ILFI Living Building Challenge Certification 
+ for our Charleston East and Bay View campuses—two 
+ of Google’s first ground-up development projects at 
+ our Bay Area headquarters.",489a343bd65645436b857a7dbaea6a45d0c14c54
+google,2022,google-2022-environmental-report.pdf,9,25,266.21600341796875,554.8751220703125,522.8635864257812,618.0001220703125,8.5,"2023 At our Charleston East campus, we’re working to 
+ achieve the Living Building Challenge Materials Petal  (which includes Red List Free materials and net-zero  waste), and at our Bay View campus, we’re working 
+ to achieve the Living Building Challenge Water Petal  (which includes net-positive water use).",230b79652f470a7294a592dd680cb67b351cd609
+google,2022,google-2022-environmental-report.pdf,9,26,34.09920120239258,630.2785034179688,76.72920227050781,639.6535034179688,7.5,Food waste,502f7fee1eb5f424e2be74710734f481693b67cf
+google,2022,google-2022-environmental-report.pdf,9,27,35.09600067138672,647.8111572265625,423.0481262207031,658.4361572265625,8.5,Reduce food waste per Googler by 50% by 2025. 2025 This target was set in 2022.,ad9b06a0631502ed7b933115e1c9613b0e43879b
+google,2022,google-2022-environmental-report.pdf,9,28,35.09600067138672,667.7470703125,424.1956481933594,678.3721313476562,8.5,Send zero food waste to the landfill by 2025. 2025 This target was set in 2022.,231f16e9f17d10ebd92ff418b6a60d2c9fac6906
+google,2022,google-2022-environmental-report.pdf,9,29,41.040000915527344,744.2052001953125,178.57278442382812,754.2052001953125,8.0,Achieved Missed  In progress,5c2b9ad2f2f07252915dd57df5172370560a453d
+google,2022,google-2022-environmental-report.pdf,9,30,12.095999717712402,767.7839965820312,599.7599487304688,776.5339965820312,7.0,9 Google Environmental Report 2022,1beaa10bf9fbdcf7087973c86a2256d24d486081
+google,2022,google-2022-environmental-report.pdf,10,0,34.09920120239258,58.939117431640625,215.91847229003906,69.56411743164062,8.5,BUILDING BETTER DEVICES AND SERVICES,e2afce3a933c3aa82afd882759bec599a7a2fd14
+google,2022,google-2022-environmental-report.pdf,10,1,34.09920120239258,78.3210220336914,576.1109619140625,87.6960220336914,6.975,Target Deadline 2021 progress 18 Status,c1c5f67bd6e3d36e28e0f1a147dee91857fe7e72
+google,2022,google-2022-environmental-report.pdf,10,2,34.09920120239258,95.4065933227539,91.13670349121094,104.7815933227539,7.5,GHG emissions,6756d29d8f20456adef08182947da9750443faef
+google,2022,google-2022-environmental-report.pdf,10,3,35.09600067138672,112.93911743164062,221.5417938232422,134.06411743164062,7.5083333651224775,"Publish product environmental reports for 100% 
+ of new flagship consumer hardware products. 19",ee8f8854dba08102e0dcf5e363cf487e2bbec716
+google,2022,google-2022-environmental-report.pdf,10,4,266.21600341796875,112.93911743164062,297.9634704589844,134.06411743164062,8.5,"2021
+ (Annual)",a9d4e603ea679e9b95369d25c729555c8c8160d2
+google,2022,google-2022-environmental-report.pdf,10,5,320.21600341796875,112.93911743164062,507.9367980957031,144.56411743164062,8.5,"We published product environmental reports for 
+ each of our flagship Nest and Pixel products that  launched in 2021.",a3cf49ee588123219af81a960fdff1222fed5650
+google,2022,google-2022-environmental-report.pdf,10,6,34.09920120239258,156.40660095214844,68.61345672607422,165.78160095214844,7.5,Materials,2402ea36326521031913159d888f39afcb2f4700
+google,2022,google-2022-environmental-report.pdf,10,7,35.09600067138672,173.93911743164062,232.4385986328125,205.56411743164062,7.756250023841858,"Use recycled or renewable material in at least 
+ 50% of plastic used across our consumer hardware 
+ product portfolio by 2025. 20",5f917bf5a0b84447b6fe3f77fe8450249f6e89b6
+google,2022,google-2022-environmental-report.pdf,10,8,266.21600341796875,173.93911743164062,520.3546142578125,195.06411743164062,7.756250023841858,"2025 In 2021, we used recycled content across numerous 
+ plastic parts in Nest and Pixel products. 21",46d3d9f83cbc78de4e6dea1fec1f3fcead5e85ba
+google,2022,google-2022-environmental-report.pdf,10,9,35.09600067138672,216.93911743164062,201.72019958496094,238.06411743164062,8.5,"Eliminate plastic from packaging and make 
+ packaging 100% recyclable by 2025.",415687c555145668d6267786df22b95c61376d75
+google,2022,google-2022-environmental-report.pdf,10,10,266.21600341796875,216.93911743164062,515.8667602539062,259.0641174316406,8.5,"2025 In 2021, we designed Nest and Pixel packaging 
+ to minimize the use of plastic. The retail packaging 
+ for the Pixel 6, Pixel 6 Pro, and Pixel 5a (5G) use 
+ 98% paper- and fiber-based materials.",53a89e4cbcfce24f870eae9da4a5129aa546df40
+google,2022,google-2022-environmental-report.pdf,10,11,35.09600067138672,270.4391174316406,212.9990997314453,302.0640869140625,8.5,"Include recycled materials in 100% of Google 
+ consumer hardware products launching in 
+ 2022 and every year after.",30802bb5a8bf976c11cec7c989112f9f9d9ea9db
+google,2022,google-2022-environmental-report.pdf,10,12,266.21600341796875,270.4391174316406,510.913818359375,291.5640869140625,7.756250023841858,2022 We met this target early. All Nest and Pixel devices  launched since 2020 include recycled materials. 22,8c8a5bd68b952ed03bb8a3f49c5909cf2f17b693
+google,2022,google-2022-environmental-report.pdf,10,13,34.09920120239258,313.9065856933594,57.10170364379883,323.2815856933594,7.5,Waste,42316a12b62cc18c03b371ed115e8845e6f9aecb
+google,2022,google-2022-environmental-report.pdf,10,14,35.09600067138672,331.4390869140625,203.26699829101562,363.0640869140625,8.5,"Achieve UL 2799 Zero Waste to Landfill 
+ certification at all final assembly consumer 
+ hardware manufacturing sites by 2022.",ddb8ba16f047a4e58bf0881ccd53a66f7b632f87
+google,2022,google-2022-environmental-report.pdf,10,15,266.21600341796875,331.4390869140625,509.6531982421875,363.0640869140625,8.5,"2022 In 2021, we achieved certification to the UL 2799 
+ Zero Waste to Landfill certification standard for 
+ several final assembly manufacturing sites.",080ffe542f73023a99164cb86f4f869d1619cca9
+google,2022,google-2022-environmental-report.pdf,10,16,34.09920120239258,374.6890869140625,214.18106079101562,385.3140869140625,8.5,EMPOWERING USERS WITH TECHNOLOGY,0dbdc7d8d4752aeb1675d527e7f4127ce0ccc01a
+google,2022,google-2022-environmental-report.pdf,10,17,34.09920120239258,394.07098388671875,576.1109619140625,403.44598388671875,7.5,Target Deadline 2021 progress Status,2b14d40b073d0fa03882a3cbed1e294215555969
+google,2022,google-2022-environmental-report.pdf,10,18,34.09920120239258,411.1565856933594,53.39669418334961,420.5315856933594,7.5,Tools,4fa8cc860c52b268dc6a3adcde7305e9415db5bb
+google,2022,google-2022-environmental-report.pdf,10,19,35.09600067138672,428.6890869140625,226.9810028076172,460.3140869140625,8.5,"Help more than 500 cities and local governments 
+ globally reduce an aggregate of 1 gigaton of 
+ carbon emissions annually by 2030.",267c323b7be819dcf6ba4e012a969bd1537760d0
+google,2022,google-2022-environmental-report.pdf,10,20,266.21600341796875,428.6890869140625,500.13287353515625,460.3140869140625,8.5,"2030 In 2021, over 40 cities used the Environmental 
+ Insights Explorer tool in their climate action 
+ planning or for monitoring city climate targets.",b21cade31766323093a69a34c189b4ecd1fe912d
+google,2022,google-2022-environmental-report.pdf,10,21,34.09920120239258,471.79669189453125,67.75920867919922,481.17169189453125,7.5,Products,fe0a091fdbfb3e9c31b7a1bd7975974938e702fa
+google,2022,google-2022-environmental-report.pdf,10,22,35.09600067138672,488.9693908691406,206.2760009765625,510.0943908691406,8.5,"Help 1 billion people make more sustainable 
+ choices through our core products by 2022.",4f27b3970115178c2fd22196e4d00f917bd6ebdb
+google,2022,google-2022-environmental-report.pdf,10,23,266.21600341796875,488.9693908691406,495.8760070800781,541.5944213867188,8.5,"2022 We’re working toward this target. In 2021, 
+ we shared several new ways people can use 
+ Google products—such as Google Flights, 
+ Google Maps, Google Search, and Google 
+ Shopping—to make more sustainable choices.",65afb87be9647562a07c68badc7e3b1a1e2bc7f9
+google,2022,google-2022-environmental-report.pdf,10,24,41.040000915527344,744.2052001953125,178.57278442382812,754.2052001953125,8.0,Achieved Missed  In progress,5c2b9ad2f2f07252915dd57df5172370560a453d
+google,2022,google-2022-environmental-report.pdf,10,25,12.095999717712402,767.7839965820312,599.7600708007812,776.5339965820312,7.0,10 Google Environmental Report 2022,02f45f3ec90c00a177a1acee10ca08a4ae1b40c4
+google,2022,google-2022-environmental-report.pdf,11,29,244.0800018310547,73.74402618408203,433.7793884277344,101.24402618408203,22.0,Environmental data,806afb4f702327f2dd55c2359a1ba369d5e02398
+google,2022,google-2022-environmental-report.pdf,11,30,244.0800018310547,106.7760238647461,550.1854248046875,118.0260238647461,9.0,The following table provides an overview of our performance over time and,dfc094c30831f56961bfbe94d00d1815f4de87ec
+google,2022,google-2022-environmental-report.pdf,11,31,244.0800018310547,122.7760238647461,560.088134765625,134.02603149414062,9.0,includes both environmental data for our global operations (including our data,2c1c746935a3b33d29ad737fdda63c497cfac5fa
+google,2022,google-2022-environmental-report.pdf,11,32,244.0800018310547,138.77603149414062,558.8757934570312,150.02603149414062,9.0,"centers, offices, networking infrastructure, and other facilities) and data beyond",dda87233e2fdb3e071874467d0de4ccc0805f37b
+google,2022,google-2022-environmental-report.pdf,11,33,244.0800018310547,154.77603149414062,558.2728881835938,166.02603149414062,9.0,our operations (including our investments and technology). The majority of our,343d950b3f178bd86e6a1ffd917b8b803391b72c
+google,2022,google-2022-environmental-report.pdf,11,34,244.0800018310547,170.77603149414062,534.2670288085938,182.02603149414062,9.0,"environmental data covers Alphabet Inc. and its subsidiaries, including",da333694182d8b679d81b0d4a034a5eabd6af60a
+google,2022,google-2022-environmental-report.pdf,11,35,244.0800018310547,186.77603149414062,552.4889526367188,198.02603149414062,9.0,Google LLC. All reported data is global and annual unless otherwise specified.,352b4aff2dca2fa548b752c7261e45ec6831c59d
+google,2022,google-2022-environmental-report.pdf,11,36,253.0800018310547,202.77603149414062,560.087646484375,214.02603149414062,9.0,"We obtain third-party assurance from an independent, accredited auditor for",f8ec801269af3b5056c3fa5dff6816f38594a053
+google,2022,google-2022-environmental-report.pdf,11,37,244.0800018310547,218.77603149414062,554.2709350585938,230.02603149414062,9.0,"specific environmental data as part of our Independent Accountants’ Review,",695007d9f60441621aaf37dd425f1cc44a5c4b3c
+google,2022,google-2022-environmental-report.pdf,11,38,244.0800018310547,234.77603149414062,557.22509765625,246.02603149414062,9.0,"including select GHG emissions, energy, and water metrics as indicated in the",81a20901f474ce0c48b2a2e852529cd88780ba24
+google,2022,google-2022-environmental-report.pdf,11,39,244.0800018310547,250.77603149414062,293.4179992675781,262.0260314941406,9.0,table below.,384bd4807060c0a9de891626d2df9e57744c299f
+google,2022,google-2022-environmental-report.pdf,11,40,253.0800018310547,266.7760314941406,557.9197998046875,278.0260314941406,9.0,"For more information on our energy use and GHG emissions, see Alphabet’s",48cc6eebbf398fd12eefafd074ad8b0d02efb6c4
+google,2022,google-2022-environmental-report.pdf,11,41,244.0800018310547,282.7760009765625,529.5310668945312,294.0260009765625,9.0,CDP Climate Change Response on Google’s sustainability reports page.,82b2a4a7a551a60a101cfa8f42f3244d5aa2c40f
+google,2022,google-2022-environmental-report.pdf,11,3,390.03851318359375,323.4998779296875,464.2966003417969,332.8748779296875,6.1875,Fiscal year 24,7722f95ee42372ae38607f5b747f2229262075a0
+google,2022,google-2022-environmental-report.pdf,11,1,227.18409729003906,326.2267761230469,261.5259094238281,335.6017761230469,7.5,Assured,994ea2559d48f590fe2123b77f630c78513131f0
+google,2022,google-2022-environmental-report.pdf,11,0,34.096099853515625,334.22998046875,134.3786163330078,343.60498046875,7.5,Key performance indicator,218743b4b13d21e3f05203e90530e77a1f58ba15
+google,2022,google-2022-environmental-report.pdf,11,2,224.58180236816406,334.2267761230469,315.9862060546875,343.6017761230469,6.625,for 2021 23 Unit,bcbe0e29bb7f2b90e2b990ab95223ec361133131
+google,2022,google-2022-environmental-report.pdf,11,4,350.7215881347656,334.2267761230469,574.86279296875,343.6017761230469,7.5,2017 2018 2019 2020 2021,fb3ef1130a20e13b7bf1c9a2910ead1fcc458d40
+google,2022,google-2022-environmental-report.pdf,11,5,34.099300384521484,349.4631042480469,111.89556121826172,360.0881042480469,8.5,OUR OPERATIONS,4350f453399c2b3e5cea548b04e1a6cf0e2e183c
+google,2022,google-2022-environmental-report.pdf,11,6,34.099300384521484,367.4631042480469,105.42279815673828,378.0881042480469,8.5,GHG EMISSIONS,a753897502fa3226ffab151204d2abd2dfd3e024
+google,2022,google-2022-environmental-report.pdf,11,7,34.099300384521484,385.93060302734375,122.9459457397461,395.30560302734375,6.1875,"Emissions inventory 25,26",dc0c24e4cf01cf3641d46dd3cf63549514fc6054
+google,2022,google-2022-environmental-report.pdf,11,8,43.096099853515625,402.3249816894531,574.8630981445312,412.6805419921875,6.9247499942779545,"Scope 1 tCO 2 e  27 66,549 63,521 66,686 38,694 45,073",669dc7cc33db9248e9c6bc8c16e8bb3a3a41ecdb
+google,2022,google-2022-environmental-report.pdf,11,9,43.096099853515625,416.7874755859375,574.8631591796875,427.1430358886719,6.9247499942779545,"Scope 2 (market-based) 28,29  tCO 2 e 509,334 684,236 794,267 911,415 1,823,132",25ee779196016f962a3c54b69c3b0a8656145310
+google,2022,google-2022-environmental-report.pdf,11,10,43.096099853515625,431.1875,574.8631591796875,441.5430603027344,7.152499993642171,"Scope 2 (location-based) tCO 2 e 3,301,392 4,344,686 5,116,949 5,865,095 6,576,239",45b0e8177e596a7019fd17d57834da5092f0ec0b
+google,2022,google-2022-environmental-report.pdf,11,11,43.096099853515625,445.5874938964844,574.86328125,455.94305419921875,6.738409085707231,"Scope 3 (total) 30  tCO 2 e 2,719,024 12,900,467 31  11,669,000 9,376,000 9,503,000",1eab4246ba5551ef87ce8c8deaf48579272c5945
+google,2022,google-2022-environmental-report.pdf,11,12,52.096099853515625,459.8074035644531,574.8632202148438,478.1824035644531,6.801874995231628,"Scope 3 (business travel and employee 
+ commuting, including teleworking) 32 tCO 2 e 356,060 463,467 542,000 213,000 33  136,000",f350e2276242245469d5b54357313040e2325b20
+google,2022,google-2022-environmental-report.pdf,11,13,52.096099853515625,483.0274963378906,574.8631591796875,493.383056640625,7.152499993642171,"Scope 3 (other) tCO 2 e 2,362,964 12,437,000 11,127,000 9,163,000 9,367,000",5fe804eeb4796d4ba7fe4f5ff0449844be7d80f3
+google,2022,google-2022-environmental-report.pdf,11,14,43.096099853515625,497.427490234375,574.8633422851562,507.7830505371094,6.9247499942779545,"Total (Scope 1, 2 [market-based], and 3 [total]) tCO 2 e 3,294,907 13,648,224 34  12,529,953 10,326,109 11,371,205",bafd489f77b27ed8d485f32e932642cabd6fdd28
+google,2022,google-2022-environmental-report.pdf,11,15,43.096099853515625,511.8274841308594,574.863037109375,522.1830444335938,7.109062492847443,"Biogenic emissions tCO 2 14,708 22,862 21,905 5,417 3,797",587152bf5888e9d7560fe62497fca4a0622f46e9
+google,2022,google-2022-environmental-report.pdf,11,16,34.099300384521484,527.7706298828125,131.80484008789062,537.1456298828125,6.1875,"Operational emissions 35,36",4f454535fb92a1b32106c163f9a647e3d2385f80
+google,2022,google-2022-environmental-report.pdf,11,17,43.096099853515625,543.9849853515625,574.8632202148438,562.3599853515625,7.187249994277954,"Scope 1, 2 (market-based), and 3 (business travel 
+ and employee commuting, including teleworking) tCO 2 e 931,943 1,211,224 1,402,953 1,163,109 2,004,205",39ca93403db50aef121e311e752a4dfcedb9c160
+google,2022,google-2022-environmental-report.pdf,11,18,43.096099853515625,567.0875244140625,574.8631591796875,585.4625244140625,7.187249994277954,"Scope 1, 2 (location-based), and 3 (business travel  and employee commuting, including teleworking) tCO 2 e 3,724,001 4,871,674 5,725,635 6,116,789 6,757,312",87612d12132edb28d97e4e314c1ed214fba348dd
+google,2022,google-2022-environmental-report.pdf,11,19,34.099300384521484,591.8505859375,257.6809997558594,601.2255859375,7.5,Emissions reductions and compensations for our operations,a7b169b4ab8c7e57b85c3a89b84530f9ad6b72f5
+google,2022,google-2022-environmental-report.pdf,11,20,43.096099853515625,608.0650024414062,574.8623046875,626.4400024414062,7.187249994277954,"Total emissions reduced by renewable energy 
+ PPAs and compensated for by carbon credits tCO 2 e -3,724,001 -4,871,674 -5,725,635 -6,116,789 -6,757,312",4d0f383b113ac0070d8e0556443478af1e9a9f71
+google,2022,google-2022-environmental-report.pdf,11,21,52.096099853515625,631.3475341796875,574.8639526367188,641.7030639648438,6.9247499942779545,"Emissions reduced by renewable energy PPAs 37 tCO 2 e -2,792,058 -3,660,450 -4,322,682 -4,953,680 -4,753,107",efe05151012b2af152fa8758988fb3e728b0554c
+google,2022,google-2022-environmental-report.pdf,11,22,52.096099853515625,645.7474975585938,574.8633422851562,656.10302734375,7.152499993642171,"Emissions compensated for by carbon credits tCO 2 e -931,943 -1,211,224 -1,402,953 -1,163,109 -2,004,205",cf8d386788f126e0929ee36d6f2a24a77326e0ee
+google,2022,google-2022-environmental-report.pdf,11,23,43.096099853515625,659.967529296875,574.8628540039062,678.342529296875,7.020624995231628,Total operational GHG emissions (after emissions  reductions and compensations) 38 tCO 2 e 0 0 0 0 0,b2d3a759a12ffb99364284539bcbfa5548664e05
+google,2022,google-2022-environmental-report.pdf,11,24,34.099300384521484,684.7305908203125,103.30075073242188,694.1055908203125,6.1875,Carbon intensity 39,3503cd4adb1cdccbe7c7c3ba0141519ca6548fb6
+google,2022,google-2022-environmental-report.pdf,11,25,43.096099853515625,700.2250366210938,317.7261047363281,714.1000366210938,6.718124985694885,Carbon intensity per unit of revenue tCO 2 e/,4fdab422c484cd91a47e924a6b076f97753c75cc
+google,2022,google-2022-environmental-report.pdf,11,26,279.5513000488281,704.7250366210938,574.8628540039062,718.6000366210938,7.5,million US$ 5.19 5.47 5.32 5.21 7.25,d589f3f54a564f04f8a99b9fa42f08f28250afab
+google,2022,google-2022-environmental-report.pdf,11,27,43.096099853515625,722.7874145507812,574.8630981445312,733.1429443359375,7.152499993642171,Carbon intensity per FTE employee tCO 2 e/FTE 7.60 8.36 7.96 7.49 12.87,b72ff14b3ab9c960ee2cb82cb34dc63ee5a93967
+google,2022,google-2022-environmental-report.pdf,11,28,43.096099853515625,737.0075073242188,574.8630981445312,755.3825073242188,7.187249994277954,"Carbon intensity per megawatt-hour 
+ of energy consumed tCO 2 e/MWh 0.0717 0.0707 0.0675 0.0615 0.1006",0e36bf89c25726173eee7580480fe06f271df842
+google,2022,google-2022-environmental-report.pdf,11,42,12.095999717712402,767.7839965820312,599.7600708007812,776.5339965820312,7.0,11 Google Environmental Report 2022,67717cda183d5b893d1c6dee331ca4a0d47a130d
+google,2022,google-2022-environmental-report.pdf,12,2,395.90069580078125,60.69602584838867,456.6799621582031,70.0710220336914,7.5,Fiscal year,6ce9c8453938abf98285ac0509472d9f68bdd591
+google,2022,google-2022-environmental-report.pdf,12,1,227.18409729003906,63.42277145385742,315.9862060546875,80.79776763916016,7.5,"Assured 
+ for 2021 Unit",7b88e18740a8b0c9e3714dffca449d6037aebd40
+google,2022,google-2022-environmental-report.pdf,12,0,34.096099853515625,71.4261245727539,134.3786163330078,80.8011245727539,7.5,Key performance indicator,218743b4b13d21e3f05203e90530e77a1f58ba15
+google,2022,google-2022-environmental-report.pdf,12,3,350.7215881347656,71.42276763916016,574.86279296875,80.79776763916016,7.5,2017 2018 2019 2020 2021,fb3ef1130a20e13b7bf1c9a2910ead1fcc458d40
+google,2022,google-2022-environmental-report.pdf,12,4,34.099300384521484,86.65908813476562,69.20939636230469,97.28408813476562,8.5,ENERGY,b3eb6065b291f33b7f1e749fac990e4a1746b988
+google,2022,google-2022-environmental-report.pdf,12,5,34.099300384521484,105.12662506103516,75.18429565429688,114.50162506103516,7.5,Energy use,c337a880fdc540417667373c896e207d76cdf8dd
+google,2022,google-2022-environmental-report.pdf,12,6,43.096099853515625,121.5209732055664,574.8631591796875,130.89598083496094,7.171875,"Energy consumption 40 MWh 8,029,409 10,572,485 12,749,458 15,439,538 18,571,659",72f519b2366ad18f55993baf741f303e61f6fb2c
+google,2022,google-2022-environmental-report.pdf,12,7,43.096099853515625,135.98338317871094,574.8630981445312,145.35838317871094,7.5,"Total electricity consumption MWh 7,609,089 10,104,295 12,237,198 15,138,543 18,287,143",d971d809c55f59aaf5d3b927be136d80f5c26239
+google,2022,google-2022-environmental-report.pdf,12,8,52.096099853515625,150.38352966308594,574.862548828125,159.75852966308594,7.5,"Electricity consumption (U.S.) MWh 5,533,783 7,085,620 8,489,242 10,789,194 12,903,398",01a37a85d2a205d1cec0a5a81f91a46ade91416e
+google,2022,google-2022-environmental-report.pdf,12,9,52.096099853515625,164.78343200683594,574.8631591796875,174.15843200683594,7.5,"Electricity consumption (international) MWh 2,075,306 3,018,675 3,747,956 4,349,349 5,383,745",f13b14c6e3f31834de1b0300f4f6c2d288d242ea
+google,2022,google-2022-environmental-report.pdf,12,10,34.099300384521484,180.7264862060547,99.73930358886719,190.1014862060547,7.5,Energy efficiency,748c3b27e405c2234a4bb25c5b8ed2bb34e31801
+google,2022,google-2022-environmental-report.pdf,12,11,43.096099853515625,196.94078063964844,574.8629760742188,215.31578063964844,7.5,"Average annual fleet-wide PUE across 
+ Google data centers PUE 1.11 1.11 1.10 1.10 1.10",87d5d303072a02b97d9f45dd5656d3ceac8b7602
+google,2022,google-2022-environmental-report.pdf,12,12,34.099300384521484,221.7664031982422,102.72428894042969,231.1414031982422,7.5,Renewable energy,a0a3b7b96dd3b5f1090734584715450b60ef2c85
+google,2022,google-2022-environmental-report.pdf,12,13,43.096099853515625,238.1606903076172,574.8629150390625,247.5356903076172,7.5,"Renewable energy contracts (cumulative) MW 2,960 3,837 5,401 5,746 7,233",a07eb8febe41cdc94b5e5f552f148e0fd48ffb72
+google,2022,google-2022-environmental-report.pdf,12,14,43.096099853515625,252.62327575683594,574.8630981445312,261.9982604980469,7.5,"Total renewable electricity purchased MWh 7,609,089 10,104,295 12,237,198 15,138,543 18,287,143",3107b3b3d0a19d3cddf5df225e0a0ee7d9994994
+google,2022,google-2022-environmental-report.pdf,12,15,52.096099853515625,267.0232849121094,574.8631591796875,276.3982849121094,7.5,"Renewable electricity (PPAs and on-site) MWh 6,244,788 8,246,508 9,721,283 12,076,382 14,118,248",bea17bffabffeb1a887de5c71294911d2340a9b8
+google,2022,google-2022-environmental-report.pdf,12,16,52.096099853515625,281.42327880859375,574.8630981445312,290.79827880859375,7.5,"Renewable electricity (grid) MWh 1,364,301 1,857,787 2,515,915 3,062,161 4,168,895",34652e5f2f1a5ce43c35d64a96d615959b1bce2c
+google,2022,google-2022-environmental-report.pdf,12,17,43.096099853515625,295.82330322265625,574.863037109375,305.19830322265625,7.171875,"Electricity purchased from renewable sources 41,42 % 100 100 100 100 100",56e592d59c9d72d5f0614ab8744d8b5e6390f494
+google,2022,google-2022-environmental-report.pdf,12,18,43.096099853515625,310.04327392578125,574.8628540039062,328.41827392578125,7.208333333333333,"Carbon-free energy across Google data 
+ centers (hourly) 43  % – – 61 67 66",15c80a65535cbc8ab7a3ff08e2d8a05746720414
+google,2022,google-2022-environmental-report.pdf,12,19,34.099300384521484,334.3388977050781,64.07879638671875,344.9638977050781,8.5,WASTE,acbf0b83847cc6a9ce08cdb68db95adce1d17801
+google,2022,google-2022-environmental-report.pdf,12,20,34.099300384521484,352.8062744140625,97.6843032836914,362.1812744140625,7.5,Waste generated,ec992a8a848855a80be5a30290cbb55f7b05161f
+google,2022,google-2022-environmental-report.pdf,12,21,43.096099853515625,369.2007751464844,574.8630981445312,378.5757751464844,7.5,"Waste generated Metric tons 53,363 57,113 48,126 28,864 28,153",b5105e5fb3c003930c32eeae1447cd81b893a138
+google,2022,google-2022-environmental-report.pdf,12,22,34.099300384521484,385.2063903808594,93.64930725097656,394.5813903808594,7.5,Waste diversion,240bc7e3b1c0622dd76fb3312bf713c4aafa32c2
+google,2022,google-2022-environmental-report.pdf,12,23,43.096099853515625,401.6007995605469,574.8629760742188,410.9757995605469,7.171875,Total landfill diversion rate 44  % 83 80 77 77 77,647494a84c029c5195735d4ba94948f011461d2b
+google,2022,google-2022-environmental-report.pdf,12,24,52.096099853515625,416.06329345703125,574.86279296875,425.43829345703125,7.5,Landfill diversion rate (data centers) % 91 87 90 81 78,1d838f871dbbf513f6b71c4891a8de8a4d19c53e
+google,2022,google-2022-environmental-report.pdf,12,25,52.096099853515625,430.4632873535156,574.8629150390625,439.8382873535156,7.5,Landfill diversion rate (offices) % 78 76 71 71 64,c74a3f92eb973b722e681efaca40a527bde6f2d0
+google,2022,google-2022-environmental-report.pdf,12,26,43.096099853515625,444.6831970214844,582.2041015625,463.0581970214844,6.975,"Pre-consumer food waste prevented in cafés  (cumulative) kg 1,990,868 3,019,252 4,152,872 4,439,479 45  4,439,479 46",f2ce2e0c74ccce635a8611f15834aad3745f42ce
+google,2022,google-2022-environmental-report.pdf,12,27,34.099300384521484,469.4463806152344,209.28355407714844,478.8213806152344,7.5,Data center hardware refurbishment and reuse,3222e7d6c5c71ed55072f8dc6fb5987bd387310e
+google,2022,google-2022-environmental-report.pdf,12,28,43.096099853515625,485.6606750488281,574.8628540039062,504.0356750488281,7.5,"Components used for server upgrades 
+ that were refurbished inventory % 11 19 19 23 27",409b502d0075b3a28f6c96e6b1b89fc7b950e399
+google,2022,google-2022-environmental-report.pdf,12,29,43.096099853515625,508.0433044433594,317.72613525390625,521.9183349609375,7.5,Components resold into the secondary market Million,80210b181f4704bba52fdb876ee3cbebe9b61779
+google,2022,google-2022-environmental-report.pdf,12,30,273.27398681640625,512.5433349609375,582.0675659179688,526.4183349609375,7.125,components 2.1 3.4 9.9 8.2 4.9 47,9c76656ed69b995d4c4bc60bddf1801f84654e12
+google,2022,google-2022-environmental-report.pdf,12,31,34.099300384521484,531.618896484375,65.38984680175781,542.243896484375,8.5,WATER,f4a1a28697eb860517e499d710314e4ddfaf099b
+google,2022,google-2022-environmental-report.pdf,12,32,34.099300384521484,550.0863037109375,117.62519836425781,559.4613037109375,6.1875,"Operational water 48,49",95b5eba2e5864eda227ee63e0dd90c286cc8b41c
+google,2022,google-2022-environmental-report.pdf,12,33,43.096099853515625,566.4808349609375,574.8629760742188,575.8558349609375,7.5,"Water withdrawal Million gallons 3,071 4,170 5,161 5,689 6,297",6fff656b5efd32e6aa551dd512cac0fcaeb23db5
+google,2022,google-2022-environmental-report.pdf,12,34,52.096099853515625,580.9432983398438,574.8629760742188,590.3182983398438,7.5,"Water consumption  Million gallons – – 3,412 3,749 4,562",fb21771ed657323225d996b04e98264a145039cb
+google,2022,google-2022-environmental-report.pdf,12,35,52.096099853515625,595.3432006835938,574.8630981445312,604.7182006835938,7.5,"Water discharge Million gallons – – 1,749 1,940 1,735",4ee5b65caf1844aaee434a5f86b567f290fa9ff7
+google,2022,google-2022-environmental-report.pdf,12,36,12.095999717712402,767.7839965820312,599.7601318359375,776.5339965820312,7.0,12 Google Environmental Report 2022,1561651f4042c247b887020deaee28f7adb4015c
+google,2022,google-2022-environmental-report.pdf,13,2,396.40069580078125,61.19578170776367,457.1799621582031,70.5707778930664,7.5,Fiscal year,6ce9c8453938abf98285ac0509472d9f68bdd591
+google,2022,google-2022-environmental-report.pdf,13,1,227.68409729003906,63.92271041870117,316.4862060546875,81.2977066040039,7.5,"Assured 
+ for 2021 Unit",7b88e18740a8b0c9e3714dffca449d6037aebd40
+google,2022,google-2022-environmental-report.pdf,13,0,34.596099853515625,71.9258804321289,134.8786163330078,81.3008804321289,7.5,Key performance indicator,218743b4b13d21e3f05203e90530e77a1f58ba15
+google,2022,google-2022-environmental-report.pdf,13,3,351.2215881347656,71.9227066040039,575.36279296875,81.2977066040039,7.5,2017 2018 2019 2020 2021,fb3ef1130a20e13b7bf1c9a2910ead1fcc458d40
+google,2022,google-2022-environmental-report.pdf,13,4,34.599300384521484,87.15902709960938,95.48480224609375,97.78402709960938,8.5,WORKPLACES,bc0101bc4db7b024f45d63c5c01c80ec5488a33a
+google,2022,google-2022-environmental-report.pdf,13,5,34.599300384521484,105.62650299072266,142.3878173828125,115.00150299072266,7.5,Green building certifications,390e015077aee7fc7cfa1f8ecb3e1883a26a95c2
+google,2022,google-2022-environmental-report.pdf,13,6,43.596099853515625,122.02091217041016,575.3632202148438,131.3959197998047,6.916666666666667,"LEED-certified office space (cumulative) m 2 1,034,875 1,294,161 50  1,438,257 1,557,606 1,704,922",c266c5d86508aa51525253c43f037e44be2d12b1
+google,2022,google-2022-environmental-report.pdf,13,7,52.596099853515625,136.48338317871094,575.3629150390625,145.85838317871094,7.5,Platinum (cumulative) % 28 29 29 27 26,9ca6e2ba4cf39f91bbf7226545e41bb66ef3d122
+google,2022,google-2022-environmental-report.pdf,13,8,52.596099853515625,150.88340759277344,575.3629150390625,160.25840759277344,7.5,Gold (cumulative) % 56 57 56 58 60,d72c7333e7e870e22b44cdb4f251d950056bc1b6
+google,2022,google-2022-environmental-report.pdf,13,9,52.596099853515625,165.28343200683594,575.3628540039062,174.65843200683594,7.5,Certified and Silver (cumulative) % 16 14 15 15 14,946c752490fac996e191e5b13c6d8f65317fb804
+google,2022,google-2022-environmental-report.pdf,13,10,34.599300384521484,181.2264862060547,122.24430084228516,190.6014862060547,7.5,Sustainable commuting,be964ee9853bbf32764f792c9636ded617a34181
+google,2022,google-2022-environmental-report.pdf,13,11,43.596099853515625,197.44090270996094,575.3629760742188,215.81590270996094,7.208333333333333,"EV charging ports at offices in the 
+ United States and Canada (cumulative) 51 Ports 2,077 2,722 3,419 3,617 3,998",41274f41e0888a1ef2f21ed99d7fd76b9476c074
+google,2022,google-2022-environmental-report.pdf,13,12,43.596099853515625,220.5433807373047,575.3629760742188,238.9183807373047,6.977045449343595,"Emissions avoided due to employee EV commuting 
+ in the United States and Canada 52  tCO 2 e 2,891 4,103 6,258 1,892 3,468",336c94bf231500a2c0892ee62884d3ab1f142638
+google,2022,google-2022-environmental-report.pdf,13,13,43.596099853515625,243.76341247558594,575.3628540039062,253.13841247558594,7.171875,Employee shuttle commuting trips in the Bay Area 53 Million trips 3.8 4.0 4.3 0.7 0.1,7c31efab20f037546de178bbec6cd2f187d157d1
+google,2022,google-2022-environmental-report.pdf,13,14,43.596099853515625,257.9833679199219,575.3629760742188,276.3583679199219,7.208333333333333,"Employee shuttle riders in the Bay Area 
+ (peak daily) 54 Unique riders 10,000 11,000 11,900 11,700 1,664",cae994af2ba141e68472af6a1debe479d081fac8
+google,2022,google-2022-environmental-report.pdf,13,15,43.596099853515625,281.02337646484375,575.3629150390625,299.39837646484375,6.977045449343595,"Emissions avoided due to employee shuttle 
+ trips in the Bay Area 55 tCO 2 e 33,241 40,309 43,242 7,000 881",c1750b2504c2facc15c79e8af5a9b64bfa6d4693
+google,2022,google-2022-environmental-report.pdf,13,16,34.599300384521484,305.7864990234375,88.84679412841797,315.1614990234375,7.5,Urban ecology,53b91cdeca4c091cee1962f46131afc5718580ff
+google,2022,google-2022-environmental-report.pdf,13,17,43.596099853515625,322.0008850097656,575.3630981445312,340.3758850097656,7.208333333333333,"Native trees planted on our Bay Area campuses  (cumulative) Trees 1,411 1,602 2,191 2,191 56  2,509",04091da1fba0a0e11996241b18d425df29cb41df
+google,2022,google-2022-environmental-report.pdf,13,20,523.58740234375,342.76129150390625,575.3629760742188,354.61090087890625,6.1875,57  15,49d0ec3aaa6a4e9012d543ccf83a1a5a546cdfc7
+google,2022,google-2022-environmental-report.pdf,13,18,43.596099853515625,345.23590087890625,190.31690979003906,363.61090087890625,7.5,"Native habitat restored and created on our 
+ Bay Area campuses (cumulative)",a945ff6f85fa8ffef4fa1d6aeca77b4957e5ecdd
+google,2022,google-2022-environmental-report.pdf,13,19,297.1288146972656,345.23590087890625,523.5875854492188,354.61090087890625,7.5,Acres 7 9 12 12,de39774f38519e4341e0b3b5c7c96451be7e6cee
+google,2022,google-2022-environmental-report.pdf,13,21,34.599300384521484,374.56298828125,151.17852783203125,385.18798828125,8.5,BEYOND OUR OPERATIONS,5df39a2e0772ce48b59df39332dbe470d685767a
+google,2022,google-2022-environmental-report.pdf,13,22,34.599300384521484,392.56298828125,95.57319641113281,403.18798828125,8.5,INVESTMENTS,4e54ddb6d5533be69b7efff97f29e70945a8a26c
+google,2022,google-2022-environmental-report.pdf,13,23,34.599300384521484,411.0304870605469,191.32144165039062,420.4054870605469,6.1875,Equity investments in renewable energy 58,26baaaae35b3df0a30e17c307cbbeaaed0b7fd01
+google,2022,google-2022-environmental-report.pdf,13,24,43.596099853515625,427.2449035644531,575.3629760742188,445.6199035644531,7.5,"Combined renewable energy capacity 
+ (cumulative) GW 3.7 3.7 3.7 3.7 3.7",f18fd0de2ed39dac111096f7d849a20345f94f7e
+google,2022,google-2022-environmental-report.pdf,13,25,34.599300384521484,451.6029968261719,96.26848602294922,462.2279968261719,8.5,TECHNOLOGY,4db8f338c72bd50008e046503324c79f5e853fd0
+google,2022,google-2022-environmental-report.pdf,13,26,34.599300384521484,470.07049560546875,53.896793365478516,479.44549560546875,7.5,Tools,4fa8cc860c52b268dc6a3adcde7305e9415db5bb
+google,2022,google-2022-environmental-report.pdf,13,27,43.596099853515625,486.2848815917969,209.8090057373047,504.6598815917969,6.625,"Cities and regions covered by the Environmental 
+ Insights Explorer (cumulative) 59,60",0a41008779e4eff339fe694d409757c27360f882
+google,2022,google-2022-environmental-report.pdf,13,28,282.65399169921875,486.2848815917969,318.2264709472656,495.6598815917969,7.5,Cities and,de30ecb6c1382e7b3ea4dc1e3afd3523a90f4f73
+google,2022,google-2022-environmental-report.pdf,13,29,291.39129638671875,490.7848815917969,575.363037109375,504.6598815917969,7.5,"regions – 5 117 3,000 41,700",58a411a6624fdc3e13a87f2a4e32a57b8ac0c534
+google,2022,google-2022-environmental-report.pdf,13,30,34.599300384521484,511.1105041503906,68.2593002319336,520.4855346679688,7.5,Products,fe0a091fdbfb3e9c31b7a1bd7975974938e702fa
+google,2022,google-2022-environmental-report.pdf,13,31,43.596099853515625,527.324951171875,575.3630981445312,545.699951171875,7.5,"Household energy saved by Nest thermostat 
+ customers (cumulative) GWh 17,480 29,894 47,020 65,153 86,711",d5e8d2458fe0e55676132585973f6e134b00ee5f
+google,2022,google-2022-environmental-report.pdf,13,32,12.095999717712402,767.7839965820312,599.7601928710938,776.5339965820312,7.0,13 Google Environmental Report 2022,ef53d6f74316e6758285dfdc82452e40bd49fc4e
+google,2022,google-2022-environmental-report.pdf,14,0,54.0,73.74402618408203,153.6820068359375,101.24402618408203,22.0,Appendix,f3f60044b06335eb6c4230e3c39f5e0218445878
+google,2022,google-2022-environmental-report.pdf,14,1,54.0,105.8480224609375,100.54100799560547,119.59803009033203,11.0,Endnotes,90010140c11fc0bb2865fc9b51fcfa59f205ccef
+google,2022,google-2022-environmental-report.pdf,14,2,54.0,123.218017578125,482.03662109375,130.718017578125,6.0,"1.	 According to Google’s own analysis of our more efficient servers, power infrastructure, and cooling systems, compared with data center industry averages.",66349513bdaecdb26a0757aa1faa2532a2f3b9d5
+google,2022,google-2022-environmental-report.pdf,14,3,54.0,133.51800537109375,549.869873046875,141.01800537109375,6.0,2.	 PUE is a standard industry ratio that compares the amount of non-computing overhead energy (used for things like cooling and power distribution) to the amount of energy used to,4ce277317878c4e28f39fc4fcc4bdb14cab3122a
+google,2022,google-2022-environmental-report.pdf,14,4,64.80000305175781,141.5679931640625,548.1426391601562,157.11798095703125,6.0,"power IT equipment. A PUE of 2.0 means that for every watt of IT power, an additional watt is consumed to cool and distribute power to the IT equipment. A PUE closer to 1.0 means  nearly all the energy is used for computing.",db160c64e3d3563faf6deb3fdb68e30ee78b1387
+google,2022,google-2022-environmental-report.pdf,14,5,54.0,159.91802978515625,433.8202209472656,167.41802978515625,6.0,"3.	 According to the Uptime Institute’s 2021 Data Center Survey, the global average PUE of respondents’ largest data centers was around 1.57.",839752b722b85092d0816bb2515b8b63402e73e8
+google,2022,google-2022-environmental-report.pdf,14,6,54.0,170.218017578125,559.392578125,177.718017578125,6.0,"4.	 Carbon credits are reductions in GHG emissions made to compensate for emissions that occur elsewhere. For each metric ton of carbon dioxide equivalent reduced, one carbon credit",218cd7614bea45756f2008c1c02486a2108f449a
+google,2022,google-2022-environmental-report.pdf,14,7,64.80000305175781,178.26800537109375,558.7033081054688,193.8179931640625,6.0,"is created. References to “carbon offsets” (as mentioned in prior reports) were updated to “carbon credits” starting in Google’s 2021 Environmental Report. For more information on our  approach to purchasing carbon credits, see our 2011 white paper,  Google’s Carbon Offsets: Collaboration and Due Diligence.",81ffa0a26a0908a05f3375508694a338c8e650ae
+google,2022,google-2022-environmental-report.pdf,14,8,54.0,196.61798095703125,546.33056640625,204.11798095703125,6.0,5.	 This estimated spend commitment is for clean energy purchased for our operations. It may fluctuate over time based on the number of contracts signed and energy market prices.,bcedd8fd6ff3f778e1d7fa6027896d3cc570b452
+google,2022,google-2022-environmental-report.pdf,14,9,54.0,206.91802978515625,341.607666015625,214.41802978515625,6.0,6.  Based on our cumulative renewable electricity purchased in megawatt-hours (MWh) from 2012 to 2021.,72f7f74088095e8b6a5670956817e866bd4fb891
+google,2022,google-2022-environmental-report.pdf,14,10,54.0,217.218017578125,247.45648193359375,224.718017578125,6.0,7.	 The first year Google signed a renewable energy contract was 2010.,d40016592fcb22e08ebeb875c6e2e87b39418c4c
+google,2022,google-2022-environmental-report.pdf,14,11,54.0,227.51800537109375,539.3231201171875,235.01800537109375,6.0,"8.	 We procure high-quality carbon credits to compensate for the carbon emissions from all Google-owned shipments of consumer hardware, including to and from retail partners,",9538dbff9608ba5cc5059f93f9751acdcca67918
+google,2022,google-2022-environmental-report.pdf,14,12,64.80000305175781,235.568115234375,544.0457763671875,251.11810302734375,6.0,"distributors, and Google Store customers. Because shipping devices to customers falls outside the scope of Google’s operations, these efforts go beyond Google’s long-standing  commitment to operational carbon neutrality.",67ce169b4975b8429bbb0880102be108b6b2c1c5
+google,2022,google-2022-environmental-report.pdf,14,13,54.0,253.9180908203125,346.8385925292969,261.4180908203125,6.0,"9.	 Energy Savings from the Nest Learning Thermostat: Energy Bill Analysis Results , Nest Labs, February 2015.",c112c0fa8330c78d6e7e92c950b91e2e73ab8cf5
+google,2022,google-2022-environmental-report.pdf,14,14,54.0,264.21807861328125,534.4739990234375,271.71807861328125,6.0,"10.	 Independent studies showed that Nest saved people an average of 10% to 12% on heating and 15% on cooling. Using typical energy costs, we’ve estimated average savings of",ddbb6c64bba9d76c4ae76b0a667c42c09b50bcdd
+google,2022,google-2022-environmental-report.pdf,14,15,64.80000305175781,272.26812744140625,431.419189453125,279.76812744140625,6.0,$131 to $145 a year. That means the Nest Learning Thermostat can pay for itself in under two years. Individual savings are not guaranteed.,d6fafadf6783b69f78e9f2cf389d908c37508ed6
+google,2022,google-2022-environmental-report.pdf,14,16,54.0,282.568115234375,545.2587890625,290.068115234375,6.0,"11.	 Nest and Pixel devices are designed with 9%–68% recycled content across their respective plastic parts in 2020 and 2021. This does not include plastics in printed circuit boards,",764539ba7cdf70b4f739864a9df3d24b6062ce83
+google,2022,google-2022-environmental-report.pdf,14,17,64.80000305175781,290.61810302734375,553.2051391601562,322.2680969238281,6.0,"labels, cables, connectors, electronic components and modules, optical components, electrostatic discharge components, electromagnetic interference components, films,  coatings, and adhesives. The aluminum in the enclosure of Pixel 5 is 100% recycled content. (Back housing only. Recycled aluminum is approximately 58% of the Pixel 5 enclosure  based on weight.) The aluminum in the housing of Pixel 6 is 100% recycled content. (Recycled aluminum (in the housing and other recycled aluminum components) is approximately  14% of product based on weight.)",eb1cfc5cba89b7e2e9c7ec118e5ac96395830d73
+google,2022,google-2022-environmental-report.pdf,14,18,54.0,325.068115234375,551.7783203125,332.568115234375,6.0,12.	 Carbon footprint reduction claim based on third-party verified life cycle assessment. Recycled aluminum (in the housing and other recycled aluminum components) is approximately,7b45903fa4bdbd865efdbf5eb441603ce2dff369
+google,2022,google-2022-environmental-report.pdf,14,19,64.80000305175781,333.11810302734375,153.1907958984375,340.61810302734375,6.0,14% of product based on weight.,7fc2752b7a106ca257d9ba9f93c96284485ac63f
+google,2022,google-2022-environmental-report.pdf,14,20,54.0,343.4180908203125,544.1943359375,350.9180908203125,5.300000031789144,"13.	 One petabyte is 10 15  bytes, or 1 million gigabytes, of digital information. It’s equal to approximately 2.5 months of uninterrupted, uncompressed, high-definition (1920 x 1080 pixels)",4a8925da276ac2d271a2e1ebd2aec52104900569
+google,2022,google-2022-environmental-report.pdf,14,21,64.80000305175781,351.4681091308594,94.6259994506836,358.9681091308594,6.0,video data.,e0d89637dd48cc1035ef36163af7b748f2ce9336
+google,2022,google-2022-environmental-report.pdf,14,22,54.0,361.7680969238281,380.45697021484375,369.2680969238281,6.0,"14.	 Google was the largest organization, in terms of electricity consumption, to achieve a 100% renewable energy match.",f2e7f07cdcdb95f6add0a6114371f8c76b0daa9f
+google,2022,google-2022-environmental-report.pdf,14,23,54.0,372.068115234375,336.9819030761719,379.568115234375,6.0,"15.	 For more details, see our 2021 white paper,  Carbon-free Energy Performance at Google Data Centers.",233c31bfe22a6b6eefe0bc42c49c7ea351018bec
+google,2022,google-2022-environmental-report.pdf,14,24,54.0,382.36810302734375,551.6883544921875,389.86810302734375,6.0,"16.	 We reach operational carbon neutrality via three steps. First, we work to reduce our total energy consumption by pursuing aggressive energy efficiency initiatives. Second, we match",de7aaa862ffd94dba42174ccb104cb3910469eee
+google,2022,google-2022-environmental-report.pdf,14,25,64.80000305175781,390.4180908203125,541.543212890625,405.9681091308594,6.0,"100% of the electricity consumption of our operations with purchases of renewable energy. Third, we buy high-quality carbon credits for any remaining operational emissions we  haven’t yet eliminated.",1262088c4a821318416db5d73b9cc066ac96602e
+google,2022,google-2022-environmental-report.pdf,14,26,54.0,408.7680969238281,335.87091064453125,416.2680969238281,6.0,"17.	 In this report, “Bay Area headquarters” refers to our operations in both Mountain View and Sunnyvale.",3d7e7328aa5c949f298b9e47d5e330631c3829f4
+google,2022,google-2022-environmental-report.pdf,14,27,54.0,419.068115234375,276.9875793457031,426.568115234375,6.0,18.	 Fitbit wearable devices were not included in the scope of these targets in 2021.,4b664535380e98b61033cc3470a11743f9cfc15b
+google,2022,google-2022-environmental-report.pdf,14,28,54.0,429.36810302734375,550.759033203125,436.86810302734375,6.0,"19.	 Flagship consumer hardware products are products that can provide their main functionality without connection to another product. For example, this does not include accessories,",afe48578f1ca54b13ff2cefbea99b7978c160b5c
+google,2022,google-2022-environmental-report.pdf,14,29,64.80000305175781,437.4180908203125,134.11737060546875,444.9180908203125,6.0,such as earbuds or cases.,e7b52f71ea00dab8425b376c369f7bc381e50323
+google,2022,google-2022-environmental-report.pdf,14,30,54.0,447.7181091308594,537.7096557617188,455.2181091308594,6.0,20.	Minimum percentage of recycled or renewable plastic content calculated as a percentage of total plastic (by weight) in all products manufactured in 2025. The following may be,541ded4f83df6ea6ab7f8987e2feb97d9ab26f71
+google,2022,google-2022-environmental-report.pdf,14,31,64.80000305175781,455.7680969238281,541.915283203125,471.318115234375,6.0,"excluded from the calculation of percentage: printed circuit boards, labels, cables, connectors, electronic components and modules, optical components, electrostatic discharge  components, electromagnetic interference components, films, coatings, and adhesives. Renewable content consists of plastic made from bio-based material.",85af0155acbc422538baf83f0426d7931e0041f9
+google,2022,google-2022-environmental-report.pdf,14,32,54.0,474.11810302734375,542.7911987304688,481.61810302734375,6.0,"21.	 This does not include plastics in printed circuit boards, labels, cables, connectors, electronic components and modules, optical components, electrostatic discharge components,",f04b7bb541f4e9cf73b69398816c4d9e1212e365
+google,2022,google-2022-environmental-report.pdf,14,33,64.80000305175781,482.1680908203125,263.9082946777344,489.6680908203125,6.0,"electromagnetic interference components, films, coatings, and adhesives.",03b9bb2fa43a017744c16481ee6805f41a6b89af
+google,2022,google-2022-environmental-report.pdf,14,34,54.0,492.4681091308594,114.50389862060547,499.9681091308594,6.0,22.	 See note 11 above.,ecdab26d2a97a9a931ecb483204d065b51fb4d2b
+google,2022,google-2022-environmental-report.pdf,14,35,54.0,502.7680969238281,554.1967163085938,510.2680969238281,6.0,"23.	 Ernst & Young LLP reviewed select quantitative performance indicators for the fiscal year ended December 31, 2021. See the related Independent Accountants’ Review Report. Prior to",62cb5d73d6c7f8f7283a0f92710d281c724bd2a1
+google,2022,google-2022-environmental-report.pdf,14,36,64.80000305175781,510.818115234375,552.49267578125,526.3681030273438,6.0,"fiscal year 2019, another third party verified the following emissions: Scope 1, Scope 2 (market-based), Scope 2 (location-based), Scope 3 (business travel and employee commuting),  and biogenic. For more information, see our prior annual Environmental Reports.",87a7f621b8030ec365679135deb11d012062d09c
+google,2022,google-2022-environmental-report.pdf,14,37,54.0,529.1680908203125,213.41812133789062,536.6680908203125,6.0,24.	 Alphabet’s fiscal year is from January 1 to December 31.,b8ce2209157c229c3b3ab7049a86c26a81e0687a
+google,2022,google-2022-environmental-report.pdf,14,38,54.0,539.4680786132812,541.6514282226562,546.9680786132812,6.0,"25.	 GHG emissions are calculated according to Greenhouse Gas Protocol standards and guidance, developed by the World Resources Institute (WRI) and the World Business Council",38d2983361fe6df7b90514379fad0ef4cb33da28
+google,2022,google-2022-environmental-report.pdf,14,39,64.80000305175781,547.5181274414062,540.8656005859375,571.1181030273438,6.0,"for Sustainable Development (WBCSD), including  A Corporate Accounting and Reporting Standard (Revised Edition) ,  Scope 2 Guidance , and the  Corporate Value Chain (Scope 3)  Accounting and Reporting Standard . For more information on our methodology, including a breakdown of Scope 3 categories, see Alphabet’s CDP Climate Change Responses on  Google’s sustainability reports page.",99cd0494566eee4ac56eea0c14c1c9aa915d20e4
+google,2022,google-2022-environmental-report.pdf,14,40,54.0,573.9180908203125,554.6897583007812,581.4180908203125,6.0,"26.	 Scope 1 emissions are direct emissions from sources we own or over which we have operational control, such as company vehicles or generators at Google’s offices and data centers.",41721b246c57d1e171d6a080cba9f34cc73692f6
+google,2022,google-2022-environmental-report.pdf,14,41,64.80000305175781,581.9680786132812,555.6612548828125,613.6181030273438,6.0,"Scope 2 emissions are indirect emissions from the production of electricity we purchase to run our operations and the production of space heating for our offices. The location-based  category reflects the average carbon intensity of the electric grids where our operations are located and thus where our energy consumption occurs. The market-based category  incorporates our procurement choices, i.e., our renewable energy purchases via contractual mechanisms like PPAs. Scope 3 emissions are indirect emissions from other sources in 
+ our value chain, such as business travel or our suppliers.",4ccf64238a69397edd59338b2a575b872d1e684a
+google,2022,google-2022-environmental-report.pdf,14,42,54.0,616.4180908203125,551.125,624.7025146484375,5.165999968846639,"27.	 CO 2 e is a quantity that describes, for a given mixture and amount of GHG, the amount of carbon dioxide that would have the same global warming potential (GWP), i.e., the ability of",a847b177e5495d7c50b5a693e6af22de155f444f
+google,2022,google-2022-environmental-report.pdf,14,43,64.80000305175781,624.4680786132812,549.330078125,640.0181274414062,6.0,"a gas to trap heat in the atmosphere when measured over a specified timescale (generally, 100 years). Some GHGs are more potent than others, as measured by their GWP. Carbon  dioxide is the baseline and thus has a GWP of 1.",b2cdecf07cec79bb4536e56b1c74974272e2d48c
+google,2022,google-2022-environmental-report.pdf,14,44,54.0,642.818115234375,553.8724365234375,650.318115234375,6.0,"28.	 Since 2010, we’ve procured renewable energy for our operations, and in 2012, we began publishing how this reduces our overall emissions. Until 2015, there was no guidance from the",3fb134df7e5ceb51c775999e14996fe4ed4c10d2
+google,2022,google-2022-environmental-report.pdf,14,45,64.80000305175781,650.8681030273438,550.596923828125,674.4680786132812,6.0,"Greenhouse Gas Protocol on how to account for these emissions reductions, so we developed our own methodology, whereby on an annual basis we assigned renewable electricity  procured against electricity consumed (in megawatt-hours) in the closest data center to the renewable energy project. In 2015, the Greenhouse Gas Protocol released updated 
+ Scope 2 guidance for the accounting of purchased electricity, steam, heat, and cooling, which we adopted, starting with 2015 data.",b083db2b6c23ac6f6b06bd0b3971c48152f349af
+google,2022,google-2022-environmental-report.pdf,14,46,54.0,677.2681274414062,537.0310668945312,684.7681274414062,6.0,"29.	 Google currently buys enough renewable energy to match our annual global electricity consumption. To achieve our 100% renewable energy match goal, we first consider both",cd34c779d0c1a6f612519c323b14897292f5262c
+google,2022,google-2022-environmental-report.pdf,14,47,64.80000305175781,685.318115234375,556.5189819335938,741.1181030273438,6.0,"our on-site renewable energy generation and the renewable energy that is already in the electric grids where our facilities are located, then procure renewable energy through PPA  contracts. We have a few facilities located in geographies where we’re not currently able to source large volumes of renewable energy, so we currently make up for this by buying  surplus renewable energy in regions where it’s abundant. For example, by buying larger amounts of wind energy in places like Europe, we compensate for our lack of renewable energy  purchases in Asia. This approach results in Google’s Scope 2 market-based emissions being greater than zero as per the Greenhouse Gas Protocol  Scope 2 Guidance , despite us  achieving our 100% renewable energy match globally. To work toward eliminating GHG emissions associated with our electricity use (Scope 2 market-based emissions), we set the  ambitious goal of achieving 24/7 carbon-free energy by 2030. To attain this, we’re evolving from matching our annual energy consumption with renewable energy to sourcing 
+ carbon-free energy every hour of every day, everywhere.",944dc1c46278a02aa51338d80c8d75f5d45d9666
+google,2022,google-2022-environmental-report.pdf,14,48,54.0,743.9180908203125,115.961181640625,751.4180908203125,6.0,30.	See note 25 above.,0af425d53695b6e033554ad9eb89963a3ffb2b26
+google,2022,google-2022-environmental-report.pdf,14,49,12.095999717712402,767.7839965820312,599.7600708007812,776.5339965820312,7.0,14 Google Environmental Report 2022,43b34ee30cce98e44320ea2bec7fafbb47b833b4
+google,2022,google-2022-environmental-report.pdf,15,0,54.0,77.71197509765625,548.2861938476562,85.21197509765625,6.0,"31.	 In 2018, to align with industry best practices for Scope 3 reporting, we extended our reporting boundaries to include emissions associated with food served in our offices, hardware",5e209bb7d0f7bd61fabbb7bcb47c98f3b786492a
+google,2022,google-2022-environmental-report.pdf,15,1,64.80000305175781,85.76202392578125,559.1112670898438,101.31201171875,6.0,"manufacturing emissions beyond Tier 1 suppliers (full upstream to the point of extraction), use of sold products, and end-of-life treatment of sold products. Google’s hardware includes  data center servers, networking equipment, and consumer hardware products. These extended categories have been reported annually from 2018 onward.",8a8b9436eaeb8c1757488e7cb236ffa3e1b0c7c7
+google,2022,google-2022-environmental-report.pdf,15,2,54.0,104.11199951171875,544.4823608398438,111.61199951171875,6.0,"32.	 In 2020, due to the global pandemic, we began to estimate and report on our emissions associated with teleworking (i.e., employees working remotely). We applied the estimation",4b10460453dcd008e4e914206516fa18de2ae51b
+google,2022,google-2022-environmental-report.pdf,15,3,64.80000305175781,112.1619873046875,551.15576171875,135.76202392578125,6.0,"methodology outlined in EcoAct’s  Homeworking Emissions Whitepaper  to our annual average workforce to estimate the GHG emissions generated by employees working remotely  from their homes. Teleworking emissions are reported as part of our Scope 3 emissions for employee commuting, per Greenhouse Gas Protocol’s  Technical Guidance for Calculating  Scope 3 Emissions (version 1.0) . For a breakdown of our operational Scope 3 emissions by category, see our 2021 Independent Accountants’ Review Report.",5ddbf9522dbabc0e8337dfe02e14af3f86ff2f98
+google,2022,google-2022-environmental-report.pdf,15,4,54.0,138.56201171875,528.7392578125,146.06201171875,6.0,"33.	 In 2020, we began reporting teleworking emissions as part of our Scope 3 employee commuting emissions. Scope 3 (business travel and employee commuting) emissions",c5125f530ba383672ee7a2e207794d916611ec43
+google,2022,google-2022-environmental-report.pdf,15,5,64.80000305175781,146.61199951171875,229.642822265625,154.11199951171875,6.0,reported prior to 2020 do not include teleworking emissions.,ce077a3e961c0e8a5616eaa8a1350f32b883f62e
+google,2022,google-2022-environmental-report.pdf,15,6,54.0,156.9119873046875,114.86328125,164.4119873046875,6.0,34.	 See note 31 above.,4c4741e280447dfc9d0a4e35cd67c81d0ef02940
+google,2022,google-2022-environmental-report.pdf,15,7,54.0,167.21209716796875,553.1463623046875,174.71209716796875,6.0,"35.	 We calculate two metrics for operational emissions, one using market-based Scope 2 and one using location-based Scope 2. The Scope 2 market-based and location-based amounts",a66e55f7d4c1aec41a7b1b6cc46a4fba50d93dda
+google,2022,google-2022-environmental-report.pdf,15,8,64.80000305175781,175.2620849609375,540.762451171875,190.8121337890625,6.0,"have been third-party assured by Ernst & Young LLP, as shown in the Schedule of Select Environmental Indicators attached to the 2021 Independent Accountants’ Review Report. 
+ In the 2021 Independent Accountants’ Review Report, the Schedule of Operational GHG emissions After Compensation Adjustments only includes the market-based metric.",daf0108610a6b5cf0f81fd5eb5d1cc688ef9e532
+google,2022,google-2022-environmental-report.pdf,15,9,54.0,193.61212158203125,516.3915405273438,201.11212158203125,6.0,"36.	 In 2016, we adopted the industry practice of including only operational emissions in our carbon neutrality commitment. For more information, see our 2017 white paper,",a8e46290760818fc95cb4ee1f2d894f7c792e890
+google,2022,google-2022-environmental-report.pdf,15,10,64.80000305175781,201.6619873046875,528.0675048828125,217.21209716796875,6.0,"10 Years of Carbon Neutrality . In 2020, we extended our operational emissions boundary to include teleworking emissions. The operational emissions included in our carbon 
+ neutrality commitment now include Scope 1, Scope 2 (market-based), and Scope 3 (business travel and employee commuting, including teleworking).",a80969b9914e1806b11ca1edfa4335c6f70f410c
+google,2022,google-2022-environmental-report.pdf,15,11,54.0,220.0120849609375,534.0850830078125,227.5120849609375,6.0,37.	 Emissions reduced by renewable energy PPAs are calculated by subtracting Scope 2 market-based method (MBM) GHG emissions from Scope 2 location-based method GHG,c87a246a528dd4df4ce89f71dc6f79a663a34e66
+google,2022,google-2022-environmental-report.pdf,15,12,64.80000305175781,228.0621337890625,362.41571044921875,235.5621337890625,6.0,"emissions, thereby representing emissions reductions from renewable energy PPAs and MBM emission factors.",548b8c61272a17ce0ddd4aebadbdb0a243882aed
+google,2022,google-2022-environmental-report.pdf,15,13,54.0,238.36212158203125,115.98518371582031,245.86212158203125,6.0,38.	 See note 36 above.,c6abcc2d9f33cd5ea2ee88f3668813ffad4742e7
+google,2022,google-2022-environmental-report.pdf,15,14,54.0,248.6619873046875,539.0226440429688,256.1619873046875,6.0,39.	 Carbon intensity metrics are based on gross global combined Scope 1 and market-based Scope 2 emissions. For more information on year-over-year changes to market-based,0c5cce35cf5e9ec28c1d9eca3361265a5d890bc1
+google,2022,google-2022-environmental-report.pdf,15,15,64.80000305175781,256.71209716796875,168.04078674316406,264.21209716796875,6.0,"Scope 2 emissions, see note 29 above.",162ab8afb007cb583b33b34b17f03d251faa1f6d
+google,2022,google-2022-environmental-report.pdf,15,16,54.0,267.0120849609375,535.60302734375,274.5120849609375,6.0,"40.	Total energy consumption includes all fuel and natural gas consumption, purchased electricity, purchased heating, and all electricity generated on-site from renewable sources.",18077305ad9cddc3442c0aea11a1fbbf0e55c861
+google,2022,google-2022-environmental-report.pdf,15,17,54.0,277.3121032714844,536.659423828125,284.8121032714844,6.0,"41.	 Percentage of renewable energy is calculated on a calendar-year basis, comparing the volume of renewable electricity (in megawatt-hours) procured for our global operations",be036f12f6d4241fe9ed8085fbc0d4abf45b5382
+google,2022,google-2022-environmental-report.pdf,15,18,64.80000305175781,285.3620910644531,553.7402954101562,308.96209716796875,6.0,"(i.e., renewable energy procured through our PPA contracts, on-site renewable energy generation, and renewable energy in the electric grids where our facilities are located) with the  total volume of electricity consumed by our operations. This metric includes all renewable energy purchased, regardless of the market in which the renewable energy was consumed.  Prior to 2016, we were not accounting for the renewable electricity purchased through grid electricity.",a54ec29dc1ce6fb82f2793abe6f150b54f5a1856
+google,2022,google-2022-environmental-report.pdf,15,19,54.0,311.7621154785156,524.8687133789062,319.2621154785156,6.0,42.	 The Greenhouse Gas Protocol’s  Scope 2 Guidance  requires energy attribute certificates to be sourced from and applied to the same market in which the reporting entity’s,5a6b32418ad6b489a51a0cbe12358a1d6bcf870a
+google,2022,google-2022-environmental-report.pdf,15,20,64.80000305175781,319.8121032714844,517.4951782226562,327.3121032714844,6.0,electricity-consuming operations are located. This guidance does not recognize existing renewable energy on the electric grids where an entity’s operations are located.,e88a18dc15bd2821567ce2482d47e0db6891651d
+google,2022,google-2022-environmental-report.pdf,15,21,54.0,330.1120910644531,557.4478149414062,337.6120910644531,6.0,43.	 Our carbon-free energy (CFE) percentage measures the degree to which our electricity consumption on a given regional grid is matched with CFE on an hourly basis. This is calculated,002fbbcbcef4704ed2f45d2432345401bbdd6df9
+google,2022,google-2022-environmental-report.pdf,15,22,64.80000305175781,338.162109375,529.6517944335938,353.71209716796875,6.0,"using both CFE under contract by Google as well as CFE coming from the overall grid mix. CFE coming from the overall grid mix is based on data obtained from a third-party,  electricityMap, and has not been assured. For more information, see our 2021 white paper,  24/7 Carbon-Free Energy: Methodologies and Metrics .",e77667806f4de17bc8f2302b570b2dac914131f4
+google,2022,google-2022-environmental-report.pdf,15,23,54.0,356.5121154785156,418.68231201171875,364.0121154785156,6.0,44.	Landfill diversion is calculated as waste diverted to a more sustainable pathway than landfill or incineration without energy recovery.,b10382b209e39ccfe1b1b91ac7f0f52588a2c848
+google,2022,google-2022-environmental-report.pdf,15,24,54.0,366.8121032714844,488.1435546875,374.3121032714844,6.0,"45.	 In 2020, pre-consumer food waste prevented in our cafés was tracked only from January to March due to limited café operations during the global pandemic.",cf0103c37c43fcff9da9ce9042827dbc235483a4
+google,2022,google-2022-environmental-report.pdf,15,25,54.0,377.1120910644531,540.534912109375,384.6120910644531,6.0,"46.	 In 2021, we continued to experience limited café operations due to the global pandemic. As a result, we were unable to update our cumulative total for pre-consumer food waste",f47126644a5c9b0ad488c560faf391800f60ddee
+google,2022,google-2022-environmental-report.pdf,15,26,64.80000305175781,385.162109375,126.61138153076172,392.662109375,6.0,prevented in our cafés.,57dcba8f68f5d125f84947e8d4eb4760be35523f
+google,2022,google-2022-environmental-report.pdf,15,27,54.0,395.46209716796875,388.0997009277344,402.96209716796875,6.0,"47.	 In 2021, there was less inventory to be resold due to market shortages and the continued impact of the global pandemic.",1c0da7242e3a3fa9af3f6f664de25e61e51e1f37
+google,2022,google-2022-environmental-report.pdf,15,28,54.0,405.7621154785156,558.21435546875,413.2621154785156,6.0,"48.	 In 2019, we aligned our water reporting with industry standards to disclose three water indicators: total water withdrawal, consumption, and discharge. Data for total water consumption",e90b509efebf2a0539196982b8667a19070fc682
+google,2022,google-2022-environmental-report.pdf,15,29,64.80000305175781,413.8121032714844,214.1874542236328,421.3121032714844,6.0,and total water discharge is not available for prior years.,3db0e7e0fce081664af78c3836261ee4c8e53779
+google,2022,google-2022-environmental-report.pdf,15,30,54.0,424.1120910644531,350.1689147949219,431.6120910644531,6.0,"49.	 Our reported water withdrawal, water consumption, and water discharge metrics do not include seawater.",6b5fbf022e4a57d6dd477733929fb9e7bbfc5649
+google,2022,google-2022-environmental-report.pdf,15,31,54.0,434.412109375,445.72357177734375,441.912109375,6.0,50.	2018 is the first year that reflects a refinement in Green Business Certification Inc.’s methodology for determining LEED-certified office space.,2068d669105a645871add2b3cec8c56715a0aa86
+google,2022,google-2022-environmental-report.pdf,15,32,54.0,444.71209716796875,526.7471313476562,452.21209716796875,6.0,"51.	 This figure indicates the number of ports for ChargePoint stations in the United States and Canada, which represent the majority of our EV charging ports in those countries.",ff10e39fde248b00779d9d8530f48acb74394ad8
+google,2022,google-2022-environmental-report.pdf,15,33,54.0,455.0121154785156,558.8963623046875,462.5121154785156,6.0,52.	 Emissions avoided are estimated using data from the reported ports for ChargePoint stations in the United States and Canada only. While Google’s total number of installed EV charging,2f90a5c954bad1a653d09f5cd68194b72df7307f
+google,2022,google-2022-environmental-report.pdf,15,34,64.80000305175781,463.0621032714844,556.1489868164062,478.6120910644531,6.0,"ports in the United States and Canada increased in 2020, the ports experienced limited use from March to December due to the global pandemic, resulting in a decrease in emissions  avoided due to employee EV commuting that year. In 2021, EV charging ports continued to experience limited use due to office closures and related decreases in employee EV commuting.",756d5a530f63674f15e17d7fccdf68eba7f8c830
+google,2022,google-2022-environmental-report.pdf,15,35,54.0,481.412109375,492.8949279785156,488.912109375,6.0,"53.	 Due to the global pandemic, our Google shuttle buses in the Bay Area were in operation only from January to March in 2020 and from July to December in 2021.",b9b97fd08780ea9850f73332e729e1b7467a0929
+google,2022,google-2022-environmental-report.pdf,15,36,54.0,491.71209716796875,116.02117919921875,499.21209716796875,6.0,54.	 See note 53 above.,b586b4a57c4e78e2c6a4f2e05781d090fee5f129
+google,2022,google-2022-environmental-report.pdf,15,37,54.0,502.0121154785156,116.02117919921875,509.5121154785156,6.0,55.	 See note 53 above.,e2f91e826beadc7342c69248153ddadf10922569
+google,2022,google-2022-environmental-report.pdf,15,38,54.0,512.3120727539062,351.4228210449219,519.8120727539062,6.0,56.	 All ecology projects that were scheduled for completion in 2020 were delayed due to the global pandemic.,f8d6c4f5b5c9335cb9957b3b4b9b54140b5a3d83
+google,2022,google-2022-environmental-report.pdf,15,39,54.0,522.6121215820312,117.54527282714844,530.1121215820312,6.0,57.	 See note 56 above.,7c31d9ad11924f94ff68303971438b10a1471600
+google,2022,google-2022-environmental-report.pdf,15,40,54.0,532.912109375,548.56298828125,540.412109375,6.0,"58.	 In addition to our renewable energy contracts, Google also invests in renewable energy projects around the world that are not used to directly mitigate our emissions. This indicator",164de5ad457641e6e09dca5075e5f10964a964dc
+google,2022,google-2022-environmental-report.pdf,15,41,64.80000305175781,540.9620971679688,485.8691711425781,548.4620971679688,6.0,"represents the expected combined capacity of contracted renewable energy projects in which we have an equity investment, even if we’re a minority owner.",567baee0a5ca7fdb643efc605d1306c62aeff9d1
+google,2022,google-2022-environmental-report.pdf,15,42,54.0,551.2620849609375,519.6742553710938,558.7620849609375,6.0,59.	 Project Sunroof metrics have been incorporated into updates for the Environmental Insights Explorer. See the tool for more information about rooftop solar potential data.,7993a4dc2fd8809c2d3a9d7682bbc0204d729c9a
+google,2022,google-2022-environmental-report.pdf,15,43,54.0,561.5620727539062,531.7330932617188,569.0620727539062,6.0,60.	We updated the unit of this key performance indicator from “cities” in prior reports to “cities and regions.” This change more accurately describes the data boundaries for the,4016b7609123c141342b70b4ff5f04b05fcbc914
+google,2022,google-2022-environmental-report.pdf,15,44,64.80000305175781,569.6121215820312,375.291015625,577.1121215820312,6.0,Environmental Insights Explorer and does not represent a change in underlying methodology or related calculations.,c0a94f9fcbdad156b0794142d8855467e90da71d
+google,2022,google-2022-environmental-report.pdf,15,45,54.012001037597656,592.6719970703125,98.06591033935547,606.4219970703125,11.0,Glossary,7427cf697be16a4ec1d916910128a59d920125e7
+google,2022,google-2022-environmental-report.pdf,15,46,54.0,611.5039672851562,124.48789978027344,619.0039672851562,6.0,CFE:  carbon-free energy,e3a70af61a8aa1c856a8b990b2dc2382cced8b33
+google,2022,google-2022-environmental-report.pdf,15,59,306.0,611.5039672851562,360.0555725097656,619.0039672851562,6.0,kWh:  kilowatt-hour,1e7a209f8e6de0fe24cb566d9201c1d8d309984a
+google,2022,google-2022-environmental-report.pdf,15,47,54.0,622.7539672851562,144.7768096923828,631.0383911132812,5.374499976634979,CO 2 e:  carbon dioxide equivalent,053df948f5f395f45754708cc2b28f87c16d2919
+google,2022,google-2022-environmental-report.pdf,15,60,306.0,622.7539672851562,332.837890625,630.2539672851562,6.0,lb:  pound,5960bc87b5e446be906ef9c9a511d8ffb7d83d4d
+google,2022,google-2022-environmental-report.pdf,15,48,54.0,634.0039672851562,107.53121948242188,641.5039672851562,6.0,EV:  electric vehicle,b8e9059d443570db83d573320467bffda3b3e728
+google,2022,google-2022-environmental-report.pdf,15,61,306.0,634.0039672851562,457.87457275390625,641.5039672851562,6.0,LEED:  Leadership in Energy and Environmental Design,553d0668dd1c41c241301a6f713140fc54801c3b
+google,2022,google-2022-environmental-report.pdf,15,49,54.0,645.2539672851562,73.63499450683594,652.7539672851562,6.0,ft:  foot,3a8896b46aaadb93f16c236558faa1f9045e95d6
+google,2022,google-2022-environmental-report.pdf,15,62,306.0,645.2539672851562,331.58160400390625,652.7539672851562,6.0,m:  meter,ec3910d92dab230148196351893f8d7c94bca724
+google,2022,google-2022-environmental-report.pdf,15,50,54.0,656.5039672851562,122.76167297363281,664.0039672851562,6.0,FTE:  full-time equivalent,ffebb961a21b2143bd4fa1b35743633a49cf8fcb
+google,2022,google-2022-environmental-report.pdf,15,63,306.0,656.5039672851562,387.440185546875,664.0039672851562,6.0,MBM:  market-based method,ad296735e532ce92d7b403776f2fc7ddc72f9c74
+google,2022,google-2022-environmental-report.pdf,15,51,54.0,667.7540283203125,117.05561065673828,675.2540283203125,6.0,GHG:  greenhouse gas,bd15d4d484bf1d965e70bd919d4d67cbd3e6af8c
+google,2022,google-2022-environmental-report.pdf,15,64,306.0,667.7540283203125,348.73553466796875,675.2540283203125,6.0,MW:  megawatt,6021dc3fd7ee8ff6a03d6f6fcc1226bc8ecc8d7f
+google,2022,google-2022-environmental-report.pdf,15,52,54.0,679.0040283203125,92.45931243896484,686.5040283203125,6.0,GW:  gigawatt,0bea2d1d377b05a14ff04b448c2e4852ecf4be8d
+google,2022,google-2022-environmental-report.pdf,15,65,306.0,679.0040283203125,368.2984313964844,686.5040283203125,6.0,MWh:  megawatt-hour,bfd7904c8e0ad7e1bef5cc6a9785423e152c16b9
+google,2022,google-2022-environmental-report.pdf,15,53,54.0,690.2540283203125,112.0204086303711,697.7540283203125,6.0,GWh:  gigawatt-hour,6ccb02d772dba07cac45024485df9814d1377ff7
+google,2022,google-2022-environmental-report.pdf,15,66,306.0,690.2540283203125,398.94696044921875,697.7540283203125,6.0,PPA:  power purchase agreement,b369772e126a24fb47b1604f10106d14f4a3f6c1
+google,2022,google-2022-environmental-report.pdf,15,54,54.0,701.5040283203125,141.49838256835938,709.0040283203125,6.0,GWP:  global warming potential,abfc14f8db108a0d49a85274e53a85ccf55e7790
+google,2022,google-2022-environmental-report.pdf,15,67,306.0,701.5040283203125,396.74365234375,709.0040283203125,6.0,PUE:  power usage effectiveness,6531ca4fa9ef5045b6b4e89cdcc1e4b916aca4ca
+google,2022,google-2022-environmental-report.pdf,15,55,54.0,712.7540283203125,165.7617645263672,720.2540283203125,6.0,ILFI:  International Living Future Institute,19055a989af59cf1d8c5c974d3fdd328ff8fb480
+google,2022,google-2022-environmental-report.pdf,15,68,306.0,712.7540283203125,405.9773864746094,721.0384521484375,5.374499976634979,tCO 2 :  metric tons of carbon dioxide,154225f2244c4bb9c85ed1e3d20d3eb6172f5dc8
+google,2022,google-2022-environmental-report.pdf,15,56,54.0,724.0040283203125,196.98101806640625,731.5040283203125,6.0,ISO:  International Organization for Standardization,6cd5ac4828f21e876948260b1dca7fc6ba01cabe
+google,2022,google-2022-environmental-report.pdf,15,69,306.0,724.0040283203125,440.3924865722656,732.2884521484375,5.374499976634979,tCO 2 e:  metric tons of carbon dioxide equivalent,a04d1d3006d9e936a0a8705ce238e3fefce0b45f
+google,2022,google-2022-environmental-report.pdf,15,57,54.0,735.2540283203125,88.96490478515625,742.7540283203125,6.0,kg:  kilogram,89e6e3b63619530da687c224fc9212d86d0599b9
+google,2022,google-2022-environmental-report.pdf,15,70,306.0,735.2540283203125,481.0249938964844,742.7540283203125,6.0,WBCSD:  World Business Council for Sustainable Development,3452d0efd3300d123b485b5225cde079f660f157
+google,2022,google-2022-environmental-report.pdf,15,58,54.0,746.5040283203125,92.92788696289062,754.0040283203125,6.0,km:  kilometer,65bbe8d89ca4949a0631ea628f94d190f55eb413
+google,2022,google-2022-environmental-report.pdf,15,71,306.0,746.5040283203125,393.46044921875,754.0040283203125,6.0,WRI:  World Resources Institute,74c106f552e31c742f46edabd2873dcab0c9676e
+google,2022,google-2022-environmental-report.pdf,15,72,12.095999717712402,767.7839965820312,599.7601318359375,776.5339965820312,7.0,15 Google Environmental Report 2022,3204018bf0e4082ceac12d5d62bc3b463e433490
+google,2022,google-2022-environmental-report.pdf,16,0,53.477699279785156,77.46409606933594,170.81797790527344,96.21409606933594,7.0,Google Environmental Report 2022 June 2022,9560911c9c6952617a89623b21ec14b01e71f727
+google,2022,google-2022-environmental-report.pdf,16,1,53.477699279785156,106.82408142089844,211.529296875,139.71807861328125,8.0,"On the cover: Google Earth image of Azores, Portugal
+ © 2022 CNES / Airbus, Maxar Technologies, SRHT",fe119c0f083bc3d315a82680b3e0c230c26b5414

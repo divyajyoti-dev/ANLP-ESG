@@ -1,0 +1,98 @@
+"opt-in for available energy-saving features. To calculate the total","59 
+Based on the average annual irrigation of golf courses in the","workdays in a month.","105 These emissions savings represent the cumulative impact of PPAs"
+"Nest savings, we applied the savings percentages to the actual","southwest U.S. of 459 acre-ft or around 150 million gallons. Source:","80 
+See endnote 8 above.","and market-based emissions factors from 2012 to 2023 (i.e., the"
+"heating and cooling hours of all Nest thermostats in use in 2023.","“How Much Water Does Golf Use and Where Does It Come From?”","81 
+“The Contribution of Global Aviation to Anthropogenic Climate","difference between our Scope 2 location-based emissions, which"
+"44 
+“Data Centres and Data Transmission Networks,” IEA, July 2023,","U.S. Golf Association, November 2012.","Forcing for 2000 to 2018,” Atmospheric Environment, January","don’t take into account our CFE procurement, and our Scope 2"
+"accessed May 2024. This metric covers global final electricity","60 
+See endnote 24 above.","2021. Calculated using Supplementary data to compare the global","market-based emissions). For the amounts from each year, see the"
+"demand. Although this statistic is based on a 2022 dataset, we","61 
+See endnote 16 above.","warming potential (GWP100) of contrails to the total global warming","Environmental data table in the Appendix for 2019-2023, the"
+"believe this is the best and most applicable proxy for comparison","62 
+See endnote 31 above.","potential of the three primary aviation pollutants (CO2, NOx, and","2019 Google Environmental Report data table for 2013-2018,"
+"to Google’s 2023 data center energy consumption. More recent","63 
+This sector categorization—energy; transportation; buildings;","contrails).","and the 2018 Google Environmental Report data table for 2012."
+"statistics include activity like cryptocurrency mining, which is not","forests, land use, and agriculture; and industrial—references the","82  See endnote 42 above.","106  “Greenhouse Gas Equivalencies Calculator,” U.S. Environmental"
+"relevant to Google.","work of leading climate expert organizations, including the IPCC’s","83 
+“Aviation Contrail Climate Effects in the North Atlantic from 2016 to","Protection Agency, March 2024, accessed May 2024."
+"45  The IEA estimates that global data center electricity consumption is","Clsimate Change 2023 Synthesis Report, Project Drawdown’s","2021,” Atmospheric Chemistry and Physics, vol. 22, iss. 16, August","107  See endnote 3 above."
+"240–340 TWh, or around 1–1.3% of global final electricity demand","Drawdown Foundations, and the U.S. EPA’s Sources of Greenhouse","2022.","108  According to Google’s platform-neutral measurement for CPU"
+"(roughly 25,000 TWh). In 2023, Google’s data centers consumed","Gas Emissions.","84 
+We estimated a cost efficiency range based on our trial’s results","resources analyzed over a five-year period from 2018–2023."
+"over 24 TWh of electricity, translating to 7-10% of the estimated","64  According to the IPCC’s Climate Change 2023 Synthesis Report, the","in combination with published contrail literature. There is inherent","109  See endnote 4 above."
+"240–340 TWh consumed by data centers globally, and less than 0.1%","energy sector (34%) and transport (15%) accounted for a combined","uncertainty for this cost range due to estimations of the impact","110   Energy Attribute Certificates (EACs) are tradable instruments issued"
+"of the estimated 25,000 TWh of total global electricity demand. See","49%—or roughly half—of global emissions in 2019.","of contrails to the climate system. For more detail, see the Project","to a unit of generation (generally, one MWh) which are used to"
+"endnote 44 for more information on the IEA statistic.","65 
+See endnote 8 above.","Contrails website.","aggregate and track energy attributes. Depending on the system"
+"46 
+“Aligning Artificial Intelligence with Climate Change Mitigation,”","66  The Solar API estimates the rooftop solar potential of buildings","85 
+“Global Forest Resources Assessment 2020 - Key Findings,” Food","that issues them and the market where they are used, corporate"
+"Nature Climate Change, June 2022. We believe this continues to be","around the world using high-resolution, 3D models of individual","and Agriculture Organization of the United Nations, 2020.","buyers may purchase them bundled with or unbundled from the"
+"an appropriate proxy for 2023 activity.","roofs from our aerial imagery in Google Maps. We’ve counted the","86 
+“Land Area - Hungary,” The World Bank Data, accessed May 2024.","underlying generation to secure the property rights to energy"
+"47  See endnote 44 above.","number of individual buildings for which we have data, and which","87 
+“Feeding the Future Global Population,” Nature Communications,","attributes. EACs are often interchangeably referred to as Renewable"
+"48  See endnote 9 above.","can be queried via a lat-long in Google Maps Platform.","January 2024.","Energy Certificates (RECs)."
+"49  PUE is a standard industry ratio that compares the amount of non-","67 
+“Japan’s Greenhouse Gas Emissions Fall 2.5% in FY22/23 to Record","88 
+“2023 Was the World’s Warmest Year on Record, by Far,” NOAA,","111 
+For example, research by Princeton University, TU Berlin, and"
+"computing overhead energy (used for things like cooling and power","Low,” Reuters, April 2024.","January 2024.","the International Energy Agency has shown that local and hourly"
+"distribution) to the amount of energy used to power IT equipment. A","68 
+See endnote 6 above.","89 
+See endnote 34 above.","carbon-free energy matching goals have a greater impact on grid-"
+"PUE of 2.0 means that for every watt of IT power, an additional watt","69  See endnote 43 above.","90 
+“NASA Clocks July 2023 as Hottest Month on Record Ever Since","level decarbonization than the prevailing approach of 100% annual"
+"is consumed to cool and distribute power to the IT equipment. A PUE","70 
+The enabled emissions reductions are calculated based on these","1880,” NASA, August 2023.","renewable energy matching."
+"closer to 1.0 means nearly all the energy is used for computing.","energy savings, applying standard emission factors for fossil","91 
+See endnote 7 above.","112 
+Carbon-free energy is any type of electricity generation that doesn’t"
+"50  See endnote 3 above.","fuels, and using U.S. EPA AVERT marginal emissions for the 95% of","92 
+“Spreading Like Wildfire: the Rising Threat of Extraordinary","directly emit carbon dioxide, including (but not limited to) solar,"
+"51 
+See endnote 2 above.","electricity savings that occur in the U.S., with an adjusted value for","Landscape Fires,” UNEP, February 2022.","wind, geothermal, hydropower, and nuclear. Sustainable biomass"
+"52 
+This estimate is based on our internal analysis comparing the","the 5% of electricity savings outside the U.S.","93 
+See endnote 31 above.","and carbon capture and storage (CCS) are special cases considered"
+"BFLOAT16 / INT8 model step time ratio measured on the MLPerf","71 
+“Sixth Assessment Report: Chapter 9: Buildings,” IPCC, 2022.","94 
+“Canada’s Record-Breaking Wildfires in 2023: A Fiery Wake-up Call,”","on a case-by-case basis, but are often also considered carbon-free"
+"3.1 GPT-3 175B model. The results (11,798ms / 8,431ms = 139%) can","72 
+See endnote 43 above.","Natural Resources Canada, May 2024, accessed May 2024.","energy sources."
+"be interpreted as a 39% speed improvement and, in turn, training","73 
+See endnote 70 above.","95 
+“Is climate change increasing the risk of disasters?,” WWF, April","113 
+For more details about our energy policy and ecosystem advocacy"
+"efficiency.","74 
+“Solar PV,” IEA, July 2023, accessed May 2024.","2024.","work, see the Public policy and advocacy section in the Appendix."
+"53 
+“Gemini 1.5: Unlocking Multimodal Understanding Across Millions of","75  See endnote 66 above.","96  See endnote 7 above.","114  The total GW figure includes generation capacity from targeted"
+"Tokens of Context,” Google, 2024.","76 
+Tapestry refined the baseline GraphCast models, outperforming","97  See endnote 7 above.","renewable energy investments. Actual amounts funded and"
+"54 
+“TPU v4: An Optically Reconfigurable Supercomputer for Machine","HRES by 15.1% with a 96-hour lead time, and by 18.4% with a","98 
+“Climate Change Impacts on Air Quality,” U.S. Environmental","generation capacity developed may vary from the amounts"
+"Learning with Hardware Support for Embeddings,” In Proceedings","120-hour (5-day) lead-time (both location and wind weighted).","Protection Agency, April 2024, accessed May 2024.","anticipated when the agreements were signed."
+"of the 50th Annual International Symposium on Computer","HRES is the weather model of the ECMWF (European Centre for","99 
+Includes only Google-owned and -operated data center locations.","115  See endnote 11 above."
+"Architecture, June 2023.","Medium-Range Weather Forecasts) and is considered the state-","Some of our locations have more than one data center campus.","116 
+Solar panels equivalency based on “How Much Power is 1"
+"55 
+According to “What Nvidia’s new Blackwell chip says about AI’s","of-the art model for weather predictions. Testing was performed","100 See endnote 11 above.","Gigawatt?,” Office of Energy Efficiency and Renewable Energy,"
+"carbon footprint problem,” Nvidia compared the total power needed","by generating the forecasts for 2021 and comparing the accuracy","101   See endnote 9 above.","August 2023, accessed May 2024."
+"to train the latest ultra-large AI models using the new Blackwell","with GraphCast predictions. Note that these results are shown","102 See endnote 23 above.","117  This estimated spend is based on contracts signed to purchase"
+"GPUs (4 megawatts) to the power required with older GPUs (15","for pressure level PL1000, where a majority of the wind farms are","103  Although 2020 was the most recent emissions inventory available","clean energy for our operations, and includes some targeted"
+"megawatts) and found the new GPUs use roughly 25% of the power","located.","at the time the target was set, 2020 was deemed to not be","renewable energy investments where we also receive EACs."
+"(or 75% less) of the older ones.","“Sixth Assessment Report: Chapter 10: Transport,” IPCC, 2022.
+77","representative of a typical year, because operations were impacted","Actual spend may vary from these estimates based on changes in"
+"This calculation is based on internal data, as of March 31, 2024.
+56","78 
+See endnote 6 above.","by the COVID-19 pandemic. The next most recent year with","renewable electricity output from operational projects, the number"
+"57 
+See endnote 49 above.","79 
+This is based on estimated daily car rides at the intersections where","representative data, 2019, was selected as the base year.","of contracts signed, project terminations, and energy market prices"
+"58 
+See endnote 4 above.","Green Light has been implemented, multiplied by the average","104 See endnote 9 above.",""

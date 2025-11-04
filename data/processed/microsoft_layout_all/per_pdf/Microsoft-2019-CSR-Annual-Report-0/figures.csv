@@ -1,0 +1,13 @@
+company,year,pdf_file,page,img_idx,xref,bbox_x0,bbox_y0,bbox_x1,bbox_y1,img_sha1,img_ext,caption,ocr_text
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,0,0,2591,0.0,0.0,0.0,0.0,3f47395522ae64e9e76459cd23110df7c7130c58,jpeg,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,2,0,17,0.0,0.0,0.0,0.0,d8b0ed651e7e07d851634303f78e34a08193d3dc,jpeg,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,5,0,67,0.0,0.0,0.0,0.0,22bda9e7a7896c252ca2b514dab30fb72c29e19c,jpeg,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,5,1,68,0.0,0.0,0.0,0.0,2e6b3713c9ab38eba458a3c3a519e44b5a0c1bc5,png,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,5,2,545,0.0,0.0,0.0,0.0,70a8e047835e5f14358d9dc7e1f2e47abac8fc3b,png,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,22,0,265,0.0,0.0,0.0,0.0,b88b18af090feebeb2a9fc023e22f34214ecb7b1,jpeg,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,22,1,266,0.0,0.0,0.0,0.0,52ed44d275024b5d0a0f23f5616345bdb11beaea,png,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,22,2,545,0.0,0.0,0.0,0.0,70a8e047835e5f14358d9dc7e1f2e47abac8fc3b,png,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,22,3,267,0.0,0.0,0.0,0.0,94047844de1eed8e0e5bd4b60b57626a8b478f68,png,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,32,0,383,0.0,0.0,0.0,0.0,1518d6ef0d96879e601eac6377eafd9f4055adb7,jpeg,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,32,1,384,0.0,0.0,0.0,0.0,5bfa277decf11e363ede317bcde62ccda168a5e8,png,,
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,36,0,431,0.0,0.0,0.0,0.0,a2c2c86e894062f8ed178a3640356312278c212b,jpeg,,

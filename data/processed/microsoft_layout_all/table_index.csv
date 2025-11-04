@@ -1,0 +1,935 @@
+company,year,pdf_file,page,flavor,rows,cols,csv_file
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,1,stream,6,1,tables/table_p1_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,2,stream,43,12,tables/table_p2_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,3,stream,18,6,tables/table_p3_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,4,stream,50,4,tables/table_p4_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,5,stream,66,4,tables/table_p5_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,6,stream,68,4,tables/table_p6_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,7,stream,10,4,tables/table_p7_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,8,stream,30,4,tables/table_p8_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,9,stream,23,7,tables/table_p9_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,10,stream,52,5,tables/table_p10_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,11,stream,25,5,tables/table_p11_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,11,stream,6,1,tables/table_p11_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,12,stream,22,9,tables/table_p12_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,13,lattice,1,3,tables/table_p13_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,14,stream,54,4,tables/table_p14_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,15,stream,55,4,tables/table_p15_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,15,stream,23,4,tables/table_p15_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,16,stream,39,4,tables/table_p16_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,17,stream,68,4,tables/table_p17_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,18,stream,69,4,tables/table_p18_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,19,lattice,5,3,tables/table_p19_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,20,stream,59,5,tables/table_p20_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,21,stream,22,3,tables/table_p21_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,21,stream,20,3,tables/table_p21_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,22,stream,61,7,tables/table_p22_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,23,stream,40,4,tables/table_p23_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,24,stream,56,5,tables/table_p24_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,25,stream,22,5,tables/table_p25_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,26,lattice,1,6,tables/table_p26_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,27,stream,37,2,tables/table_p27_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,28,lattice,1,4,tables/table_p28_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,29,stream,31,4,tables/table_p29_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,30,stream,51,4,tables/table_p30_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,31,stream,60,11,tables/table_p31_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,32,stream,17,3,tables/table_p32_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,32,stream,65,4,tables/table_p32_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,33,stream,44,4,tables/table_p33_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,34,stream,69,8,tables/table_p34_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,34,stream,69,8,tables/table_p34_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,35,stream,29,3,tables/table_p35_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,36,stream,34,6,tables/table_p36_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,37,lattice,13,1,tables/table_p37_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,38,stream,80,4,tables/table_p38_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,39,lattice,1,6,tables/table_p39_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,40,lattice,9,1,tables/table_p40_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,41,stream,57,4,tables/table_p41_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,42,stream,48,4,tables/table_p42_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,43,lattice,1,9,tables/table_p43_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,44,lattice,2,6,tables/table_p44_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,45,lattice,2,2,tables/table_p45_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,46,stream,18,3,tables/table_p46_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,47,lattice,3,3,tables/table_p47_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,48,stream,20,3,tables/table_p48_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,48,stream,53,4,tables/table_p48_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,49,stream,47,5,tables/table_p49_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,50,stream,59,4,tables/table_p50_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,51,stream,34,3,tables/table_p51_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,51,stream,14,4,tables/table_p51_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,52,stream,39,3,tables/table_p52_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,53,stream,51,4,tables/table_p53_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,54,stream,43,5,tables/table_p54_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,55,stream,35,3,tables/table_p55_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,56,stream,23,4,tables/table_p56_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,57,stream,12,3,tables/table_p57_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,58,stream,12,3,tables/table_p58_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,59,stream,65,4,tables/table_p59_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,60,stream,57,4,tables/table_p60_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,61,stream,67,4,tables/table_p61_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,62,stream,62,5,tables/table_p62_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,63,stream,62,4,tables/table_p63_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,64,stream,64,4,tables/table_p64_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,65,stream,67,4,tables/table_p65_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,66,stream,60,4,tables/table_p66_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,67,lattice,3,3,tables/table_p67_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,68,stream,75,4,tables/table_p68_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,69,stream,22,4,tables/table_p69_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,70,stream,12,3,tables/table_p70_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,70,stream,6,1,tables/table_p70_stream_1.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,71,stream,25,4,tables/table_p71_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,72,stream,60,4,tables/table_p72_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,73,stream,54,4,tables/table_p73_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,74,stream,63,4,tables/table_p74_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,75,stream,53,4,tables/table_p75_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,76,lattice,3,1,tables/table_p76_lattice_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,77,stream,73,4,tables/table_p77_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,78,stream,67,4,tables/table_p78_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,79,stream,70,4,tables/table_p79_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,80,stream,62,4,tables/table_p80_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,81,stream,43,4,tables/table_p81_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,82,stream,57,4,tables/table_p82_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,83,stream,26,4,tables/table_p83_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,84,stream,12,5,tables/table_p84_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,85,stream,83,4,tables/table_p85_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,86,stream,61,4,tables/table_p86_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,87,stream,19,7,tables/table_p87_stream_0.csv
+microsoft,2024,Microsoft-2024-Environmental-Sustainability-Report.pdf,88,stream,6,1,tables/table_p88_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,1,stream,5,1,tables/table_p1_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,2,stream,27,12,tables/table_p2_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,3,stream,3,2,tables/table_p3_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,3,stream,8,2,tables/table_p3_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,4,stream,64,5,tables/table_p4_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,5,lattice,3,5,tables/table_p5_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,5,lattice,1,3,tables/table_p5_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,5,lattice,1,3,tables/table_p5_lattice_2.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,5,lattice,2,5,tables/table_p5_lattice_3.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,6,stream,53,8,tables/table_p6_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,7,stream,74,8,tables/table_p7_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,8,stream,77,5,tables/table_p8_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,9,stream,49,6,tables/table_p9_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,10,stream,74,4,tables/table_p10_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,11,stream,23,7,tables/table_p11_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,12,stream,20,6,tables/table_p12_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,13,stream,12,3,tables/table_p13_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,13,stream,19,4,tables/table_p13_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,14,stream,37,5,tables/table_p14_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,15,lattice,1,2,tables/table_p15_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,15,lattice,2,1,tables/table_p15_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,16,lattice,1,43,tables/table_p16_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,17,stream,46,4,tables/table_p17_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,17,stream,88,4,tables/table_p17_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,18,stream,93,4,tables/table_p18_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,19,stream,79,5,tables/table_p19_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,20,stream,42,5,tables/table_p20_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,21,stream,62,7,tables/table_p21_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,22,stream,28,3,tables/table_p22_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,22,stream,21,3,tables/table_p22_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,23,stream,67,5,tables/table_p23_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,24,stream,26,4,tables/table_p24_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,24,stream,22,4,tables/table_p24_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,24,stream,16,1,tables/table_p24_stream_2.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,25,stream,68,5,tables/table_p25_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,25,stream,53,5,tables/table_p25_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,26,stream,57,4,tables/table_p26_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,27,lattice,1,4,tables/table_p27_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,28,stream,72,4,tables/table_p28_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,29,lattice,3,3,tables/table_p29_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,30,stream,31,2,tables/table_p30_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,31,lattice,2,2,tables/table_p31_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,32,lattice,2,3,tables/table_p32_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,33,lattice,5,4,tables/table_p33_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,34,lattice,2,2,tables/table_p34_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,35,lattice,1,12,tables/table_p35_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,35,lattice,3,14,tables/table_p35_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,36,stream,48,4,tables/table_p36_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,37,stream,71,5,tables/table_p37_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,38,stream,50,4,tables/table_p38_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,39,stream,14,2,tables/table_p39_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,39,stream,24,2,tables/table_p39_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,40,stream,54,5,tables/table_p40_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,41,stream,55,4,tables/table_p41_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,42,stream,56,5,tables/table_p42_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,43,stream,15,1,tables/table_p43_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,44,lattice,1,2,tables/table_p44_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,44,lattice,3,4,tables/table_p44_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,45,lattice,4,3,tables/table_p45_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,46,lattice,2,3,tables/table_p46_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,47,lattice,2,5,tables/table_p47_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,48,stream,52,4,tables/table_p48_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,49,stream,33,3,tables/table_p49_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,49,stream,56,5,tables/table_p49_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,50,stream,75,4,tables/table_p50_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,51,stream,59,5,tables/table_p51_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,52,stream,57,2,tables/table_p52_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,53,stream,38,3,tables/table_p53_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,54,stream,52,3,tables/table_p54_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,55,lattice,2,1,tables/table_p55_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,56,stream,27,2,tables/table_p56_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,57,stream,12,3,tables/table_p57_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,58,lattice,3,3,tables/table_p58_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,59,lattice,1,11,tables/table_p59_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,60,stream,40,4,tables/table_p60_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,61,stream,62,4,tables/table_p61_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,62,stream,44,4,tables/table_p62_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,63,stream,62,5,tables/table_p63_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,64,stream,23,2,tables/table_p64_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,65,stream,36,2,tables/table_p65_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,65,stream,63,3,tables/table_p65_stream_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,66,stream,46,4,tables/table_p66_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,67,lattice,3,4,tables/table_p67_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,68,stream,13,9,tables/table_p68_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,69,stream,10,2,tables/table_p69_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,70,stream,32,7,tables/table_p70_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,71,stream,42,3,tables/table_p71_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,72,stream,61,4,tables/table_p72_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,73,stream,23,6,tables/table_p73_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,74,stream,39,10,tables/table_p74_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,75,stream,12,10,tables/table_p75_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,76,stream,28,6,tables/table_p76_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,77,stream,22,10,tables/table_p77_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,78,stream,18,10,tables/table_p78_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,79,stream,29,10,tables/table_p79_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,80,stream,25,10,tables/table_p80_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,81,stream,13,5,tables/table_p81_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,82,stream,48,7,tables/table_p82_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,83,lattice,4,4,tables/table_p83_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,84,stream,72,8,tables/table_p84_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,85,lattice,1,5,tables/table_p85_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,86,lattice,1,5,tables/table_p86_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,86,lattice,1,5,tables/table_p86_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,87,lattice,1,5,tables/table_p87_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,88,lattice,1,5,tables/table_p88_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,88,lattice,1,5,tables/table_p88_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,88,lattice,1,5,tables/table_p88_lattice_2.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,89,lattice,1,5,tables/table_p89_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,89,lattice,1,5,tables/table_p89_lattice_1.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,90,lattice,1,5,tables/table_p90_lattice_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,91,stream,26,4,tables/table_p91_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,92,stream,22,4,tables/table_p92_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,93,stream,21,4,tables/table_p93_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,94,stream,20,4,tables/table_p94_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,95,stream,9,7,tables/table_p95_stream_0.csv
+microsoft,2020,Microsoft-Environmental-Sustainability-Report-2020.pdf,96,stream,7,2,tables/table_p96_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,1,lattice,3,2,tables/table_p1_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,2,stream,27,4,tables/table_p2_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,3,stream,36,7,tables/table_p3_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,4,stream,41,4,tables/table_p4_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,5,stream,11,9,tables/table_p5_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,6,stream,51,4,tables/table_p6_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,7,stream,24,3,tables/table_p7_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,8,lattice,2,3,tables/table_p8_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,9,lattice,3,3,tables/table_p9_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,9,lattice,3,3,tables/table_p9_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,9,lattice,7,5,tables/table_p9_lattice_2.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,10,stream,31,2,tables/table_p10_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,11,lattice,8,2,tables/table_p11_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,12,stream,10,4,tables/table_p12_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,13,stream,30,2,tables/table_p13_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,14,lattice,3,7,tables/table_p14_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,14,lattice,5,9,tables/table_p14_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,15,stream,39,3,tables/table_p15_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,16,lattice,7,2,tables/table_p16_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,16,lattice,8,2,tables/table_p16_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,16,lattice,13,3,tables/table_p16_lattice_2.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,17,lattice,3,9,tables/table_p17_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,17,lattice,5,11,tables/table_p17_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,18,stream,32,3,tables/table_p18_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,19,stream,36,5,tables/table_p19_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,20,stream,7,2,tables/table_p20_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,21,stream,33,3,tables/table_p21_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,22,lattice,5,4,tables/table_p22_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,22,lattice,6,4,tables/table_p22_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,23,stream,36,4,tables/table_p23_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,24,stream,58,3,tables/table_p24_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,25,stream,70,4,tables/table_p25_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,26,stream,47,4,tables/table_p26_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,27,lattice,11,6,tables/table_p27_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,28,stream,23,3,tables/table_p28_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,29,stream,29,5,tables/table_p29_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,30,stream,38,3,tables/table_p30_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,31,lattice,3,2,tables/table_p31_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,32,stream,27,6,tables/table_p32_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,33,stream,31,3,tables/table_p33_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,34,stream,26,3,tables/table_p34_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,35,lattice,3,4,tables/table_p35_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,35,lattice,5,4,tables/table_p35_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,36,stream,30,2,tables/table_p36_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,37,lattice,3,4,tables/table_p37_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,37,lattice,5,4,tables/table_p37_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,38,stream,21,2,tables/table_p38_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,39,stream,7,2,tables/table_p39_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,40,stream,44,2,tables/table_p40_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,41,stream,24,3,tables/table_p41_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,42,stream,35,4,tables/table_p42_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,43,stream,33,4,tables/table_p43_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,44,stream,31,3,tables/table_p44_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,45,stream,40,4,tables/table_p45_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,46,stream,36,3,tables/table_p46_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,47,stream,13,4,tables/table_p47_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,48,stream,45,2,tables/table_p48_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,49,lattice,3,9,tables/table_p49_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,50,stream,46,4,tables/table_p50_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,51,lattice,4,7,tables/table_p51_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,51,lattice,8,7,tables/table_p51_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,51,lattice,9,7,tables/table_p51_lattice_2.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,51,lattice,8,7,tables/table_p51_lattice_3.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,51,lattice,9,7,tables/table_p51_lattice_4.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,51,lattice,35,19,tables/table_p51_lattice_5.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,52,stream,45,7,tables/table_p52_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,53,stream,72,4,tables/table_p53_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,54,stream,52,3,tables/table_p54_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,55,stream,38,6,tables/table_p55_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,56,stream,30,4,tables/table_p56_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,57,stream,21,5,tables/table_p57_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,58,stream,9,4,tables/table_p58_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,59,stream,53,4,tables/table_p59_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,60,stream,60,4,tables/table_p60_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,61,stream,21,3,tables/table_p61_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,61,stream,44,5,tables/table_p61_stream_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,62,stream,66,4,tables/table_p62_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,63,lattice,1,3,tables/table_p63_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,63,lattice,3,5,tables/table_p63_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,64,stream,51,4,tables/table_p64_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,5,2,tables/table_p65_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,6,2,tables/table_p65_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,7,2,tables/table_p65_lattice_2.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,10,2,tables/table_p65_lattice_3.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,4,2,tables/table_p65_lattice_4.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,7,2,tables/table_p65_lattice_5.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,65,lattice,31,5,tables/table_p65_lattice_6.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,66,lattice,6,7,tables/table_p66_lattice_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,66,lattice,10,9,tables/table_p66_lattice_1.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,67,stream,56,4,tables/table_p67_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,68,stream,30,3,tables/table_p68_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,69,stream,29,3,tables/table_p69_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,70,stream,26,4,tables/table_p70_stream_0.csv
+microsoft,2015,Microsoft 2015 Citizenship Report.pdf,71,stream,9,1,tables/table_p71_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,1,stream,4,5,tables/table_p1_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,2,stream,13,2,tables/table_p2_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,3,stream,5,3,tables/table_p3_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,4,stream,33,2,tables/table_p4_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,5,stream,31,2,tables/table_p5_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,6,stream,41,2,tables/table_p6_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,7,stream,17,2,tables/table_p7_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,7,stream,11,2,tables/table_p7_stream_1.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,8,stream,27,1,tables/table_p8_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,9,stream,45,2,tables/table_p9_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,10,stream,53,3,tables/table_p10_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,11,stream,53,3,tables/table_p11_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,12,stream,50,2,tables/table_p12_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,13,stream,46,3,tables/table_p13_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,14,stream,16,3,tables/table_p14_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,15,stream,7,2,tables/table_p15_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,16,stream,35,2,tables/table_p16_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,17,stream,34,4,tables/table_p17_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,18,stream,30,2,tables/table_p18_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,19,stream,32,2,tables/table_p19_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,20,stream,35,2,tables/table_p20_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,21,stream,19,2,tables/table_p21_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,21,stream,11,2,tables/table_p21_stream_1.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,22,stream,7,1,tables/table_p22_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,22,stream,7,1,tables/table_p22_stream_1.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,23,stream,41,2,tables/table_p23_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,24,stream,10,4,tables/table_p24_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,25,stream,26,2,tables/table_p25_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,26,stream,31,2,tables/table_p26_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,27,stream,42,3,tables/table_p27_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,28,stream,39,2,tables/table_p28_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,29,stream,29,3,tables/table_p29_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,30,stream,29,2,tables/table_p30_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,31,stream,38,2,tables/table_p31_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,32,stream,7,3,tables/table_p32_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,32,stream,12,2,tables/table_p32_stream_1.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,33,stream,37,2,tables/table_p33_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,34,stream,39,2,tables/table_p34_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,35,stream,6,3,tables/table_p35_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,36,stream,28,2,tables/table_p36_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,37,stream,11,2,tables/table_p37_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,38,stream,11,3,tables/table_p38_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,39,stream,38,2,tables/table_p39_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,40,stream,25,2,tables/table_p40_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,41,stream,11,2,tables/table_p41_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,41,stream,11,2,tables/table_p41_stream_1.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,42,stream,44,2,tables/table_p42_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,43,stream,40,2,tables/table_p43_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,44,stream,14,3,tables/table_p44_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,45,stream,24,2,tables/table_p45_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,45,stream,11,2,tables/table_p45_stream_1.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,46,stream,30,2,tables/table_p46_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,47,stream,32,2,tables/table_p47_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,48,stream,3,3,tables/table_p48_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,49,stream,36,1,tables/table_p49_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,50,stream,45,2,tables/table_p50_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,51,stream,43,3,tables/table_p51_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,52,stream,21,2,tables/table_p52_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,53,stream,6,3,tables/table_p53_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,54,stream,29,2,tables/table_p54_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,55,stream,18,2,tables/table_p55_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,56,stream,10,1,tables/table_p56_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,57,stream,25,3,tables/table_p57_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,58,stream,41,1,tables/table_p58_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,59,stream,37,4,tables/table_p59_stream_0.csv
+microsoft,2018,NASDAQ_MSFT_2018.pdf,60,stream,14,4,tables/table_p60_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,1,stream,2,1,tables/table_p1_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,2,stream,21,3,tables/table_p2_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,3,stream,36,8,tables/table_p3_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,4,stream,43,4,tables/table_p4_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,5,stream,8,12,tables/table_p5_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,6,stream,33,4,tables/table_p6_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,7,stream,56,3,tables/table_p7_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,8,lattice,3,3,tables/table_p8_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,8,lattice,6,5,tables/table_p8_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,9,lattice,3,3,tables/table_p9_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,9,lattice,4,3,tables/table_p9_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,10,stream,7,2,tables/table_p10_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,11,stream,28,2,tables/table_p11_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,12,lattice,3,7,tables/table_p12_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,12,lattice,5,9,tables/table_p12_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,13,stream,62,4,tables/table_p13_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,14,stream,30,3,tables/table_p14_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,15,stream,48,4,tables/table_p15_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,16,stream,7,2,tables/table_p16_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,17,stream,51,6,tables/table_p17_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,18,stream,48,4,tables/table_p18_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,19,stream,62,4,tables/table_p19_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,19,stream,62,4,tables/table_p19_stream_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,20,lattice,3,3,tables/table_p20_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,21,lattice,7,3,tables/table_p21_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,22,stream,20,3,tables/table_p22_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,23,stream,43,5,tables/table_p23_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,24,stream,47,3,tables/table_p24_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,25,lattice,3,2,tables/table_p25_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,26,stream,24,6,tables/table_p26_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,27,stream,55,3,tables/table_p27_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,28,lattice,3,4,tables/table_p28_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,28,lattice,5,4,tables/table_p28_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,29,stream,30,2,tables/table_p29_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,30,lattice,3,4,tables/table_p30_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,30,lattice,5,4,tables/table_p30_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,31,stream,44,4,tables/table_p31_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,31,stream,47,4,tables/table_p31_stream_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,32,stream,7,2,tables/table_p32_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,33,stream,45,4,tables/table_p33_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,34,stream,43,2,tables/table_p34_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,35,stream,25,4,tables/table_p35_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,36,stream,15,4,tables/table_p36_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,36,stream,41,3,tables/table_p36_stream_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,37,stream,57,6,tables/table_p37_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,38,stream,5,2,tables/table_p38_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,39,stream,19,2,tables/table_p39_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,40,lattice,3,9,tables/table_p40_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,41,stream,30,4,tables/table_p41_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,42,lattice,6,3,tables/table_p42_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,42,lattice,7,3,tables/table_p42_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,42,lattice,7,3,tables/table_p42_lattice_2.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,42,lattice,8,3,tables/table_p42_lattice_3.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,42,lattice,9,3,tables/table_p42_lattice_4.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,42,lattice,33,7,tables/table_p42_lattice_5.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,43,stream,28,3,tables/table_p43_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,44,stream,29,3,tables/table_p44_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,45,stream,37,3,tables/table_p45_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,45,stream,46,3,tables/table_p45_stream_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,46,stream,27,5,tables/table_p46_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,47,stream,44,3,tables/table_p47_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,48,stream,7,2,tables/table_p48_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,49,stream,50,3,tables/table_p49_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,50,stream,51,3,tables/table_p50_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,51,lattice,1,3,tables/table_p51_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,51,lattice,3,5,tables/table_p51_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,52,stream,22,4,tables/table_p52_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,52,stream,10,1,tables/table_p52_stream_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,5,2,tables/table_p53_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,6,2,tables/table_p53_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,7,2,tables/table_p53_lattice_2.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,10,2,tables/table_p53_lattice_3.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,4,2,tables/table_p53_lattice_4.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,6,2,tables/table_p53_lattice_5.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,53,lattice,28,5,tables/table_p53_lattice_6.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,54,lattice,8,7,tables/table_p54_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,54,lattice,8,6,tables/table_p54_lattice_1.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,54,lattice,6,7,tables/table_p54_lattice_2.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,54,lattice,15,13,tables/table_p54_lattice_3.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,55,stream,41,6,tables/table_p55_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,56,stream,55,4,tables/table_p56_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,57,stream,45,2,tables/table_p57_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,58,stream,39,2,tables/table_p58_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,59,stream,7,10,tables/table_p59_stream_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,60,lattice,8,2,tables/table_p60_lattice_0.csv
+microsoft,2014,Microsoft_2014_Citizenship_Report.pdf,61,stream,9,1,tables/table_p61_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,1,stream,4,1,tables/table_p1_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,2,lattice,3,2,tables/table_p2_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,3,stream,7,1,tables/table_p3_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,4,stream,58,6,tables/table_p4_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,5,stream,63,5,tables/table_p5_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,6,stream,56,5,tables/table_p6_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,7,stream,50,8,tables/table_p7_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,8,stream,43,4,tables/table_p8_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,9,lattice,2,16,tables/table_p9_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,10,stream,9,5,tables/table_p10_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,10,stream,41,3,tables/table_p10_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,11,stream,31,3,tables/table_p11_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,12,stream,40,9,tables/table_p12_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,13,stream,11,10,tables/table_p13_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,14,stream,52,6,tables/table_p14_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,15,lattice,1,4,tables/table_p15_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,16,stream,76,4,tables/table_p16_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,17,stream,59,5,tables/table_p17_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,18,stream,41,4,tables/table_p18_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,19,stream,55,4,tables/table_p19_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,20,stream,76,4,tables/table_p20_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,21,stream,36,5,tables/table_p21_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,21,stream,26,5,tables/table_p21_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,22,stream,69,4,tables/table_p22_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,23,stream,52,4,tables/table_p23_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,24,stream,62,4,tables/table_p24_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,25,stream,57,4,tables/table_p25_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,25,stream,71,4,tables/table_p25_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,26,stream,55,4,tables/table_p26_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,26,stream,66,4,tables/table_p26_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,27,stream,10,1,tables/table_p27_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,27,stream,34,5,tables/table_p27_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,28,stream,24,3,tables/table_p28_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,29,stream,31,3,tables/table_p29_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,30,lattice,2,2,tables/table_p30_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,31,stream,78,5,tables/table_p31_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,32,stream,77,4,tables/table_p32_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,33,stream,21,2,tables/table_p33_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,33,stream,55,5,tables/table_p33_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,34,lattice,2,2,tables/table_p34_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,35,stream,44,6,tables/table_p35_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,36,stream,58,3,tables/table_p36_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,37,stream,34,4,tables/table_p37_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,38,stream,52,6,tables/table_p38_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,39,stream,11,2,tables/table_p39_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,39,stream,28,4,tables/table_p39_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,40,stream,32,3,tables/table_p40_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,41,stream,45,3,tables/table_p41_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,42,stream,19,4,tables/table_p42_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,42,stream,65,4,tables/table_p42_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,43,stream,57,9,tables/table_p43_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,44,stream,57,5,tables/table_p44_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,45,stream,36,6,tables/table_p45_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,46,stream,51,5,tables/table_p46_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,47,stream,46,3,tables/table_p47_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,48,stream,27,3,tables/table_p48_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,49,lattice,4,4,tables/table_p49_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,50,stream,54,6,tables/table_p50_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,51,stream,47,5,tables/table_p51_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,52,stream,60,5,tables/table_p52_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,53,stream,55,5,tables/table_p53_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,54,stream,43,3,tables/table_p54_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,55,stream,42,7,tables/table_p55_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,56,stream,44,3,tables/table_p56_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,57,stream,12,3,tables/table_p57_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,57,stream,9,1,tables/table_p57_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,58,stream,45,6,tables/table_p58_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,59,stream,20,2,tables/table_p59_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,59,stream,38,3,tables/table_p59_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,60,stream,44,5,tables/table_p60_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,61,stream,59,6,tables/table_p61_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,62,stream,49,4,tables/table_p62_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,63,stream,34,8,tables/table_p63_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,64,stream,62,5,tables/table_p64_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,65,stream,51,8,tables/table_p65_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,66,stream,26,11,tables/table_p66_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,67,stream,27,7,tables/table_p67_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,67,stream,7,1,tables/table_p67_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,68,stream,41,7,tables/table_p68_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,69,stream,21,8,tables/table_p69_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,69,stream,9,1,tables/table_p69_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,70,stream,45,5,tables/table_p70_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,71,stream,52,4,tables/table_p71_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,72,stream,13,5,tables/table_p72_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,72,stream,6,2,tables/table_p72_stream_1.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,73,stream,56,4,tables/table_p73_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,74,stream,36,5,tables/table_p74_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,75,stream,57,7,tables/table_p75_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,76,stream,67,4,tables/table_p76_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,77,stream,48,4,tables/table_p77_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,78,stream,73,4,tables/table_p78_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,79,stream,63,4,tables/table_p79_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,80,stream,67,4,tables/table_p80_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,81,lattice,1,7,tables/table_p81_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,82,stream,70,4,tables/table_p82_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,83,stream,67,4,tables/table_p83_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,84,stream,50,3,tables/table_p84_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,85,stream,34,8,tables/table_p85_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,86,lattice,3,3,tables/table_p86_lattice_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,87,stream,4,2,tables/table_p87_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,88,stream,85,4,tables/table_p88_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,89,stream,63,5,tables/table_p89_stream_0.csv
+microsoft,2025,2025-Microsoft-Environmental-Sustainability-Report.pdf,90,stream,6,1,tables/table_p90_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,1,stream,3,1,tables/table_p1_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,2,stream,20,2,tables/table_p2_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,3,stream,15,3,tables/table_p3_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,4,stream,12,4,tables/table_p4_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,4,stream,10,4,tables/table_p4_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,5,stream,18,1,tables/table_p5_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,6,stream,10,2,tables/table_p6_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,7,stream,15,3,tables/table_p7_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,7,stream,16,2,tables/table_p7_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,8,stream,29,2,tables/table_p8_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,8,stream,10,3,tables/table_p8_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,9,stream,28,2,tables/table_p9_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,10,stream,15,4,tables/table_p10_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,11,stream,7,2,tables/table_p11_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,12,stream,24,2,tables/table_p12_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,13,stream,15,2,tables/table_p13_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,13,stream,19,2,tables/table_p13_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,14,stream,11,2,tables/table_p14_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,15,stream,20,2,tables/table_p15_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,16,stream,23,2,tables/table_p16_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,16,stream,11,2,tables/table_p16_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,17,stream,26,2,tables/table_p17_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,18,stream,9,2,tables/table_p18_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,18,stream,8,2,tables/table_p18_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,19,stream,20,2,tables/table_p19_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,20,stream,11,2,tables/table_p20_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,20,stream,7,2,tables/table_p20_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,20,stream,11,1,tables/table_p20_stream_2.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,21,stream,14,2,tables/table_p21_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,21,stream,21,2,tables/table_p21_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,22,stream,26,3,tables/table_p22_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,23,lattice,1,3,tables/table_p23_lattice_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,23,lattice,3,11,tables/table_p23_lattice_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,24,stream,11,2,tables/table_p24_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,25,stream,15,2,tables/table_p25_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,25,stream,10,2,tables/table_p25_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,26,stream,22,2,tables/table_p26_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,26,stream,13,2,tables/table_p26_stream_1.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,27,stream,14,2,tables/table_p27_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,28,stream,14,2,tables/table_p28_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,29,stream,20,2,tables/table_p29_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,30,stream,11,2,tables/table_p30_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,31,stream,15,1,tables/table_p31_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,32,stream,18,3,tables/table_p32_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,33,stream,5,2,tables/table_p33_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,34,stream,37,1,tables/table_p34_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,35,stream,7,2,tables/table_p35_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,36,stream,39,2,tables/table_p36_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,37,stream,4,2,tables/table_p37_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,38,stream,33,3,tables/table_p38_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,39,stream,28,3,tables/table_p39_stream_0.csv
+microsoft,2019,Microsoft-2019-CSR-Annual-Report-0.pdf,40,stream,11,3,tables/table_p40_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,1,stream,6,1,tables/table_p1_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,2,lattice,3,10,tables/table_p2_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,3,stream,14,4,tables/table_p3_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,4,stream,79,4,tables/table_p4_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,5,stream,94,4,tables/table_p5_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,6,stream,19,3,tables/table_p6_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,6,stream,67,4,tables/table_p6_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,7,stream,55,5,tables/table_p7_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,8,stream,47,6,tables/table_p8_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,9,stream,12,4,tables/table_p9_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,10,stream,23,5,tables/table_p10_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,11,stream,48,2,tables/table_p11_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,11,stream,67,3,tables/table_p11_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,12,lattice,3,5,tables/table_p12_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,13,lattice,7,1,tables/table_p13_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,13,lattice,10,5,tables/table_p13_lattice_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,14,stream,36,4,tables/table_p14_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,15,stream,23,2,tables/table_p15_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,15,stream,58,4,tables/table_p15_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,16,stream,49,4,tables/table_p16_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,17,stream,79,4,tables/table_p17_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,18,stream,74,7,tables/table_p18_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,19,stream,21,3,tables/table_p19_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,19,stream,21,4,tables/table_p19_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,20,stream,61,4,tables/table_p20_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,21,stream,72,5,tables/table_p21_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,22,stream,53,4,tables/table_p22_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,23,lattice,4,4,tables/table_p23_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,24,stream,48,4,tables/table_p24_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,25,stream,20,2,tables/table_p25_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,25,stream,46,2,tables/table_p25_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,26,stream,31,5,tables/table_p26_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,27,stream,10,2,tables/table_p27_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,28,lattice,1,7,tables/table_p28_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,28,lattice,1,5,tables/table_p28_lattice_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,28,lattice,2,13,tables/table_p28_lattice_2.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,29,stream,28,9,tables/table_p29_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,30,stream,48,4,tables/table_p30_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,30,stream,18,2,tables/table_p30_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,31,stream,55,5,tables/table_p31_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,32,stream,45,4,tables/table_p32_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,33,stream,58,4,tables/table_p33_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,34,stream,22,2,tables/table_p34_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,34,stream,53,3,tables/table_p34_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,35,stream,45,4,tables/table_p35_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,36,stream,45,4,tables/table_p36_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,37,stream,10,4,tables/table_p37_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,37,stream,18,2,tables/table_p37_stream_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,38,lattice,3,4,tables/table_p38_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,39,lattice,5,3,tables/table_p39_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,40,stream,26,9,tables/table_p40_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,41,stream,58,4,tables/table_p41_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,42,stream,71,4,tables/table_p42_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,43,stream,70,4,tables/table_p43_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,44,stream,61,3,tables/table_p44_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,45,stream,36,2,tables/table_p45_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,46,stream,16,5,tables/table_p46_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,47,lattice,3,3,tables/table_p47_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,47,lattice,5,5,tables/table_p47_lattice_1.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,48,lattice,14,36,tables/table_p48_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,49,lattice,17,36,tables/table_p49_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,50,stream,26,2,tables/table_p50_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,51,lattice,15,36,tables/table_p51_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,52,stream,12,3,tables/table_p52_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,53,stream,18,3,tables/table_p53_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,54,lattice,11,36,tables/table_p54_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,55,lattice,14,48,tables/table_p55_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,56,stream,87,4,tables/table_p56_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,57,lattice,14,16,tables/table_p57_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,58,lattice,11,48,tables/table_p58_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,59,stream,60,4,tables/table_p59_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,60,stream,66,4,tables/table_p60_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,61,lattice,31,49,tables/table_p61_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,62,lattice,31,79,tables/table_p62_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,63,stream,64,4,tables/table_p63_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,64,lattice,13,47,tables/table_p64_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,65,stream,16,3,tables/table_p65_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,66,stream,25,5,tables/table_p66_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,67,stream,73,4,tables/table_p67_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,68,lattice,45,51,tables/table_p68_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,69,stream,35,4,tables/table_p69_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,70,lattice,21,36,tables/table_p70_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,71,lattice,37,35,tables/table_p71_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,72,stream,60,4,tables/table_p72_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,73,lattice,37,34,tables/table_p73_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,74,stream,60,4,tables/table_p74_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,75,lattice,22,31,tables/table_p75_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,76,lattice,21,29,tables/table_p76_lattice_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,77,stream,58,2,tables/table_p77_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,78,stream,5,5,tables/table_p78_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,79,stream,75,4,tables/table_p79_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,80,stream,27,3,tables/table_p80_stream_0.csv
+microsoft,2022,2022 Microsoft Environmental Sustainability Report_23111723080904.pdf,81,stream,7,4,tables/table_p81_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,1,stream,4,5,tables/table_p1_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,2,stream,20,3,tables/table_p2_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,3,stream,5,3,tables/table_p3_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,4,stream,33,5,tables/table_p4_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,5,stream,10,2,tables/table_p5_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,6,stream,43,5,tables/table_p6_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,7,stream,49,5,tables/table_p7_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,8,stream,52,5,tables/table_p8_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,9,stream,7,5,tables/table_p9_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,9,stream,27,2,tables/table_p9_stream_1.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,10,stream,33,2,tables/table_p10_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,11,stream,31,2,tables/table_p11_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,11,stream,11,2,tables/table_p11_stream_1.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,12,stream,17,2,tables/table_p12_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,12,stream,8,2,tables/table_p12_stream_1.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,13,stream,45,1,tables/table_p13_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,14,stream,19,2,tables/table_p14_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,15,stream,5,3,tables/table_p15_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,16,stream,39,1,tables/table_p16_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,17,stream,40,2,tables/table_p17_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,18,stream,13,5,tables/table_p18_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,19,stream,38,1,tables/table_p19_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,20,stream,35,5,tables/table_p20_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,21,stream,31,2,tables/table_p21_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,22,stream,35,1,tables/table_p22_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,23,stream,46,1,tables/table_p23_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,24,stream,31,2,tables/table_p24_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,25,stream,5,3,tables/table_p25_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,26,stream,35,1,tables/table_p26_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,27,stream,17,5,tables/table_p27_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,27,stream,11,2,tables/table_p27_stream_1.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,28,stream,34,2,tables/table_p28_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,29,stream,29,2,tables/table_p29_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,30,stream,33,1,tables/table_p30_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,31,stream,34,2,tables/table_p31_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,32,stream,34,2,tables/table_p32_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,33,stream,41,2,tables/table_p33_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,34,stream,26,2,tables/table_p34_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,35,stream,3,3,tables/table_p35_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,36,stream,38,2,tables/table_p36_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,37,stream,42,2,tables/table_p37_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,38,stream,41,4,tables/table_p38_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,39,stream,27,2,tables/table_p39_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,40,stream,5,3,tables/table_p40_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,41,stream,34,2,tables/table_p41_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,42,stream,13,5,tables/table_p42_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,43,stream,19,5,tables/table_p43_stream_0.csv
+microsoft,2017,Microsoft-2017-CSR-Annual-Report.pdf,44,stream,14,5,tables/table_p44_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,1,stream,2,1,tables/table_p1_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,2,stream,6,6,tables/table_p2_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,3,stream,6,2,tables/table_p3_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,4,stream,53,3,tables/table_p4_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,5,stream,19,3,tables/table_p5_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,6,stream,33,2,tables/table_p6_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,7,stream,24,3,tables/table_p7_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,8,stream,28,2,tables/table_p8_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,9,stream,6,2,tables/table_p9_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,10,stream,22,3,tables/table_p10_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,11,stream,53,2,tables/table_p11_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,12,stream,34,2,tables/table_p12_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,13,stream,5,7,tables/table_p13_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,14,stream,19,7,tables/table_p14_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,15,stream,32,3,tables/table_p15_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,16,stream,23,2,tables/table_p16_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,17,stream,33,3,tables/table_p17_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,18,stream,34,2,tables/table_p18_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,19,stream,30,2,tables/table_p19_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,20,stream,49,3,tables/table_p20_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,21,stream,17,3,tables/table_p21_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,22,stream,16,9,tables/table_p22_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,23,stream,24,3,tables/table_p23_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,24,stream,23,2,tables/table_p24_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,25,stream,30,2,tables/table_p25_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,26,stream,42,2,tables/table_p26_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,27,stream,48,2,tables/table_p27_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,28,stream,19,2,tables/table_p28_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,29,stream,26,4,tables/table_p29_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,30,stream,15,2,tables/table_p30_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,31,lattice,1,9,tables/table_p31_lattice_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,32,stream,6,2,tables/table_p32_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,33,stream,44,3,tables/table_p33_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,34,stream,17,5,tables/table_p34_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,35,stream,22,2,tables/table_p35_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,36,stream,20,2,tables/table_p36_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,37,stream,25,3,tables/table_p37_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,38,stream,48,2,tables/table_p38_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,39,stream,19,3,tables/table_p39_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,40,stream,13,2,tables/table_p40_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,41,stream,7,2,tables/table_p41_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,42,stream,18,2,tables/table_p42_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,43,stream,49,3,tables/table_p43_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,44,stream,37,3,tables/table_p44_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,45,stream,53,3,tables/table_p45_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,46,stream,39,3,tables/table_p46_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,47,stream,30,3,tables/table_p47_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,48,stream,48,3,tables/table_p48_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,49,stream,25,2,tables/table_p49_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,50,stream,6,2,tables/table_p50_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,51,stream,12,3,tables/table_p51_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,52,stream,7,9,tables/table_p52_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,53,stream,12,7,tables/table_p53_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,54,stream,15,7,tables/table_p54_stream_0.csv
+microsoft,2016,Microsoft-2016-Corporate-Social-Responsibility-0.pdf,55,stream,9,1,tables/table_p55_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,1,stream,5,1,tables/table_p1_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,2,stream,41,10,tables/table_p2_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,3,stream,9,2,tables/table_p3_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,4,lattice,2,1,tables/table_p4_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,5,lattice,2,1,tables/table_p5_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,5,lattice,4,6,tables/table_p5_lattice_1.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,6,stream,12,5,tables/table_p6_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,7,stream,78,7,tables/table_p7_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,8,stream,40,2,tables/table_p8_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,9,stream,71,3,tables/table_p9_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,10,stream,28,3,tables/table_p10_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,11,lattice,2,1,tables/table_p11_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,12,lattice,2,1,tables/table_p12_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,13,lattice,3,3,tables/table_p13_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,14,stream,13,3,tables/table_p14_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,15,stream,18,4,tables/table_p15_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,16,stream,50,4,tables/table_p16_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,17,stream,44,3,tables/table_p17_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,18,lattice,7,1,tables/table_p18_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,18,lattice,2,4,tables/table_p18_lattice_1.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,19,stream,15,2,tables/table_p19_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,19,stream,21,9,tables/table_p19_stream_1.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,20,stream,42,3,tables/table_p20_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,21,stream,73,4,tables/table_p21_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,22,lattice,3,2,tables/table_p22_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,23,stream,71,3,tables/table_p23_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,24,lattice,5,5,tables/table_p24_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,25,stream,43,4,tables/table_p25_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,26,lattice,2,1,tables/table_p26_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,27,stream,58,4,tables/table_p27_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,28,stream,60,4,tables/table_p28_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,29,stream,75,4,tables/table_p29_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,30,lattice,3,3,tables/table_p30_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,31,lattice,4,6,tables/table_p31_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,32,stream,70,4,tables/table_p32_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,33,stream,48,4,tables/table_p33_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,34,stream,64,4,tables/table_p34_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,34,stream,67,4,tables/table_p34_stream_1.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,35,lattice,3,2,tables/table_p35_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,36,stream,68,4,tables/table_p36_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,37,stream,38,4,tables/table_p37_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,38,lattice,3,2,tables/table_p38_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,39,stream,72,4,tables/table_p39_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,40,stream,50,4,tables/table_p40_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,41,stream,38,5,tables/table_p41_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,42,stream,48,7,tables/table_p42_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,43,stream,43,3,tables/table_p43_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,44,stream,20,4,tables/table_p44_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,45,stream,35,4,tables/table_p45_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,46,stream,8,2,tables/table_p46_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,47,lattice,9,1,tables/table_p47_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,48,stream,50,4,tables/table_p48_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,49,stream,66,4,tables/table_p49_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,50,stream,56,4,tables/table_p50_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,51,stream,40,5,tables/table_p51_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,52,lattice,3,1,tables/table_p52_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,53,stream,34,4,tables/table_p53_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,54,stream,57,3,tables/table_p54_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,55,stream,35,3,tables/table_p55_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,56,stream,53,4,tables/table_p56_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,57,lattice,2,2,tables/table_p57_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,58,stream,32,5,tables/table_p58_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,59,stream,54,4,tables/table_p59_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,60,stream,42,3,tables/table_p60_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,61,stream,15,4,tables/table_p61_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,62,stream,55,4,tables/table_p62_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,63,stream,10,3,tables/table_p63_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,64,stream,9,2,tables/table_p64_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,65,stream,57,4,tables/table_p65_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,66,stream,68,4,tables/table_p66_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,67,lattice,6,4,tables/table_p67_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,68,stream,58,4,tables/table_p68_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,69,lattice,2,1,tables/table_p69_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,70,stream,61,4,tables/table_p70_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,71,stream,50,4,tables/table_p71_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,72,lattice,2,3,tables/table_p72_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,73,stream,55,4,tables/table_p73_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,74,stream,55,5,tables/table_p74_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,75,stream,25,7,tables/table_p75_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,76,stream,37,2,tables/table_p76_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,77,lattice,3,1,tables/table_p77_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,78,stream,20,4,tables/table_p78_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,79,stream,46,4,tables/table_p79_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,80,lattice,2,2,tables/table_p80_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,81,stream,58,4,tables/table_p81_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,82,stream,40,4,tables/table_p82_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,83,lattice,3,3,tables/table_p83_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,84,stream,44,4,tables/table_p84_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,85,lattice,4,1,tables/table_p85_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,86,stream,70,4,tables/table_p86_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,87,stream,42,5,tables/table_p87_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,88,stream,36,7,tables/table_p88_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,89,lattice,2,1,tables/table_p89_lattice_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,90,stream,20,2,tables/table_p90_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,91,stream,87,4,tables/table_p91_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,92,stream,34,8,tables/table_p92_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,93,stream,6,3,tables/table_p93_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,94,stream,48,4,tables/table_p94_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,95,stream,48,7,tables/table_p95_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,96,stream,29,3,tables/table_p96_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,97,stream,51,3,tables/table_p97_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,98,stream,39,8,tables/table_p98_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,99,stream,46,12,tables/table_p99_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,100,stream,15,12,tables/table_p100_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,101,stream,24,12,tables/table_p101_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,102,stream,10,6,tables/table_p102_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,103,stream,36,9,tables/table_p103_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,104,stream,84,4,tables/table_p104_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,105,stream,54,4,tables/table_p105_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,106,stream,36,5,tables/table_p106_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,106,stream,36,5,tables/table_p106_stream_1.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,107,stream,42,6,tables/table_p107_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,108,stream,66,6,tables/table_p108_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,109,stream,21,3,tables/table_p109_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,110,stream,67,5,tables/table_p110_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,110,stream,55,5,tables/table_p110_stream_1.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,111,stream,22,4,tables/table_p111_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,112,stream,34,2,tables/table_p112_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,113,stream,12,8,tables/table_p113_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,114,stream,30,12,tables/table_p114_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,115,stream,17,13,tables/table_p115_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,116,stream,39,8,tables/table_p116_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,117,stream,30,4,tables/table_p117_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,118,stream,17,4,tables/table_p118_stream_0.csv
+microsoft,2021,2021-Environmental-Sustainability-Report.pdf,119,stream,4,1,tables/table_p119_stream_0.csv

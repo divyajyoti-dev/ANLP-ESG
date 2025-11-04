@@ -1,0 +1,154 @@
+"","","","","","","","","","1","Due to recalculations, the following GHG emissions"
+"GHG EMISSIONS","","","ENERGY","","","","","","",""
+"","","","","","","","","","","metrics were adjusted: 2019 Impact of PPAs and market-"
+"","","","","","","","","","","based emissions factors; 2019-2022 Scope 3 (total)"
+"Carbon intensity1","Unit","2019
+2020
+2021
+2022
+2023","Energy consumption3","Unit","2019","2020","2021","2022
+2023","",""
+"","","","","","","","","","","emissions; 2019-2022 Total emissions; and all 2019-2021"
+"Carbon intensity per unit of","tCO2e/million","","Fuel","MWh","366,400","181,800","205,200","374,800","301,200",""
+"","","","","","","","","","",""
+"","","5.67
+5.30
+7.33
+9.13
+11.40","","","","","","","","Carbon intensity metrics."
+"revenue","USD ($)","","","","","","","","",""
+"","","","","","","","","","2","“Total renewable energy allocated” includes renewable"
+"","","","Purchased electricity4","MWh","12,226,200","15,125,700","18,238,400","21,685,300","25,252,600",""
+"Carbon intensity per FTE","","","","","","","","","","electricity generation from contractual instruments (i.e.,"
+"","tCO2e/FTE","8.48
+7.62
+13.00
+14.76
+19.02","","","","","","","",""
+"","","","","","","","","","",""
+"employee","","","Purchased heat5","MWh","150,500","124,900","119,300","219,100","278,500","EACs), which have been used in the calculation of Scope"
+"","","","","","","","","","","2 market-based emissions per the Greenhouse Gas"
+"Carbon intensity per megawatt-","","","","","","","","","",""
+"","","","Purchased steam","MWh","17,600","17,600","22,600","23,500
+14,500","",""
+"","","0.0717
+0.0624
+0.1012
+0.1155
+0.1352","","","","","","","","Protocol Scope 2 Quality Criteria."
+"","tCO2e/MWh","","","","","","","","",""
+"hour of energy consumed","","","","","","","","","",""
+"","","","","","","","","","3","The following Energy consumption metrics were"
+"","","","Purchased cooling","MWh","34,900","34,800","45,600","54,800
+53,000","",""
+"","","","","","","","","","","recalculated primarily due to changes to the reporting"
+"","","","","","","","","","","boundary with the inclusion of additional activity:"
+"","","","","On-site renewable electricity MWh","6,300","7,200","8,800","9,600
+10,700","",""
+"GHG EMISSIONS","","2023","","","","","","","",""
+"","","","","","","","","","","2019-2022 Purchased steam and 2019-2022 Purchased"
+"","","","Total energy consumption","MWh","12,801,900","15,492,000","18,639,900","22,367,100","25,910,500","cooling. Due to recalculation, 2019-2022 Total energy"
+"","","Scope 2  
+Scope 2","","","","","","","",""
+"GHG emissions by type","Unit
+Scope 1","","","","","","","","",""
+"","","(market-based)
+(location-based)","","","","","","","","consumption was adjusted."
+"","","","","","","","","","4","“Purchased electricity” is electricity sourced from"
+"","54,800","3,388,000
+9,183,600","","","","","","","",""
+"CO2","tCO2e","","","","","","","","",""
+"","","","","","","","","","","an electrical grid and purchased from a local electric"
+"","","","Electricity consumption","Unit","2019","2020","2021","2022
+2023","",""
+"","200","4,800
+16,900","","","","","","","","utility company. This metric differs slightly from “Total"
+"CH4","tCO2e","","","","","","","","",""
+"","","","","Total electricity consumption6 MWh","12,237,200","15,138,500","18,287,100","21,776,200","25,307,000",""
+"","","","","","","","","","","electricity consumption,” which includes both purchased"
+"N2O","200
+tCO2e","11,300
+33,100","","","","","","","",""
+"","","","","","","","","","","and self-generated electricity."
+"","","","","","","","","","5","“Purchased heat” includes both natural gas in leased"
+"HFCs","24,200","19,300
+19,300","","","","","","","",""
+"","tCO2e","","","","","","","","",""
+"","","","","","","","","","","facilities and district heat in applicable facilities."
+"","","","ENERGY","","","","","2023","",""
+"Total","79,400
+tCO2e","3,423,400
+9,252,900","","","","","","","6","See endnote 4 above."
+"","","","","","","","","","7","See endnote 4 above."
+"","","","Energy consumption","Unit","Renewable sources","","","Non-renewable sources
+Total","",""
+"","","","","","","","","","8","See endnote 5 above."
+"","54,800","3,388,000
+9,183,600","","","","","","","",""
+"CO2","tCO2","","Fuel","MWh","68,300","","232,900","301,200","",""
+"","","","","","","","","","9","This figure represents primarily PPAs, and includes some"
+"","","","","","","","","","","generation capacity from targeted renewable energy"
+"","6","200
+700","Purchased electricity7","","","","","","",""
+"CH4","tCH4","","","MWh","15,672,000","","9,580,600","","25,252,600",""
+"","","","","","","","","","","investments where we also receive EACs."
+"","1","38
+100","Purchased heat8","MWh","0","","278,500","278,500","",""
+"N2O","tN2O","","","","","","","","",""
+"HFCs","tHFCs
+15","13
+13","Purchased steam","MWh","0","","14,500","14,500","",""
+"","","","Purchased cooling","MWh","0","","53,000","53,000","",""
+"","","Scope 2  
+Scope 2","","","","","","","",""
+"GHG emissions by region","Unit
+Scope 1","","","On-site renewable electricity MWh","10,700","","0","10,700","",""
+"","","(market-based)
+(location-based)","","","","","","","",""
+"","","","Total energy consumption","MWh","15,750,900","","10,159,600","","25,910,500",""
+"North America","54,600","1,855,700
+6,864,600","","","","","","","",""
+"","tCO2e","","","","","","","","",""
+"Europe, Middle East, & Africa","11,300","59,900
+752,400","","","","","","","",""
+"","tCO2e","","","","","","","","",""
+"Latin America","1,200","16,200
+142,000","","","","","","","",""
+"","tCO2e","","","","","","","","",""
+"","","","RENEWABLE ENERGY","","","","","","",""
+"Asia Pacific","12,300","1,491,600
+1,493,900","","","","","","","",""
+"","tCO2e","","","","","","","","",""
+"","","","Energy consumption","Unit","2019","2020","2021","2022
+2023","",""
+"Global total","79,400
+tCO2e","3,423,400
+9,252,900","","","","","","","",""
+"","","","Renewable energy contracts","","","","","","",""
+"","","","","MW","5,400","5,700","7,200","11,600","14,9009",""
+"","","","(cumulative)","","","","","","",""
+"ENERGY","","2023","","","","","","","",""
+"","","","Renewable electricity (PPAs)","MWh","9,715,000","12,069,200","14,109,400","16,693,600","19,089,200",""
+"Electricity and renewable","","Total renewable","","","","","","","",""
+"","Unit","Total electricity","","","","","","","",""
+"energy by region","","energy allocated2","","","","","","","",""
+"","","","Renewable electricity","","","","","","",""
+"","","","","MWh","6,300","7,200","8,800","9,600
+10,700","",""
+"","","","(on-site)","","","","","","",""
+"North America","MWh","18,535,300
+11,875,400","","","","","","","",""
+"Europe, Middle East, & Africa","MWh","3,547,200
+3,456,200","Renewable electricity (grid)","MWh","2,515,900","3,062,100","4,168,900","5,073,000","6,207,100",""
+"Latin America","MWh","424,900
+336,200","","","","","","","",""
+"","","","Total renewable electricity","","","","","","",""
+"","","","","MWh","12,237,200","15,138,500","18,287,100","21,776,200","25,307,000",""
+"","","","purchased","","","","","","",""
+"Asia Pacific","MWh","2,799,600
+4,100","","","","","","","",""
+"","","","Electricity purchased from","","","","","","",""
+"","","","","%","100","100","100","100
+100","",""
+"Global total","MWh","25,307,000
+15,671,900","renewable sources","","","","","","",""

@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+NMF,0,"carbon, emissions, footprint, product, scope, 2030, removal, manufacturing, climate, greenhouse, products, energy, electricity, percent, apple"
+NMF,1,"energy, renewable, solar, projects, electricity, center, project, percent, power, data, apple, 100, pv, clean, wind"
+NMF,2,"assurance, apex, information, apple, verification, scope, ghg, protocol, review, internal, independent, occupied, statement, bvna, sustainability"
+NMF,3,"fiber, packaging, plastic, footprint, review, data, fraunhofer, izm, corporate, apple, reviewed, paper, appropriate, total, product"
+NMF,4,"water, gallons, freshwater, use, stewardship, centers, aws, cooling, corporate, wastewater, million, risk, percent, watershed, discharge"
+NMF,5,"chemicals, safer, materials, chemical, products, substances, cleaners, safety, suppliers, harmful, alternatives, use, material, chemistries, used"
+NMF,6,"recycled, materials, percent, aluminum, material, products, content, iphone, 100, tin, supply, earth, gold, chains, rare"
+NMF,7,"000, emissions, year, fiscal, scope, mwh, colocation, tons, 500, metric, ca, facilities, electricity, 300, gas"
+NMF,8,"apple, communities, people, support, environment, employees, health, suppliers, business, rights, policy, climate, work, community, supplier"
+NMF,9,"waste, zero, landfill, recycling, diversion, facilities, suppliers, ul, landfills, program, composting, assembly, sites, reusable, materials"
+NMF,10,"environmental, appendix, report, contents, advocacy, engagement, initiatives, notes, progress, 14001, bond, introduction, data, statements, green"
+NMF,11,"repair, devices, iphone, products, customers, service, product, device, recycling, software, apple, durability, updates, parts, life"

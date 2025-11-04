@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+NMF,0,"renewable, energy, wind, mw, solar, electricity, power, purchasing, gw, 100, purchase, google, clean, grid, 2016"
+NMF,1,"energy, clean, cfe, grid, ai, 2024, electricity, supply, chain, data, 24, center, free, climate, asia"
+NMF,2,"carbon, offsets, emissions, free, neutrality, energy, net, intensity, 2030, zero, offset, 2020, reduce, neutral, ghg"
+NMF,3,"data, centers, pue, energy, center, waste, efficient, average, google, power, components, iso, 50001, computing, use"
+NMF,4,"water, gallons, stewardship, freshwater, cooling, potable, data, replenishment, watersheds, projects, offices, use, watershed, health, risk"
+NMF,5,"waste, bay, area, headquarters, food, million, landfill, square, leed, vehicle, office, achieved, offices, workplaces, diversion"
+NMF,6,"recycled, plastic, products, pixel, nest, materials, packaging, hardware, consumer, devices, product, content, google, 2022, 2020"
+NMF,7,"google, ai, earth, cloud, people, help, information, climate, cities, technology, maps, world, air, users, data"
+NMF,8,"nature, biodiversity, habitat, native, campuses, building, campus, design, species, view, bay, acres, urban, restoring, habitats"
+NMF,9,"sustainability, engagement, google, environmental, governance, targets, report, sustainably, strategy, climate, circular, approach, working, highlights, operating"
+NMF,10,"emissions, scope, based, category, factors, data, ghg, emission, market, reported, gas, total, calculate, methodology, tco"
+NMF,11,"000, tco, scope, cumulative, mwh, 500, 12, intensity, total, 200, employee, 900, 2014, 10, 2013"

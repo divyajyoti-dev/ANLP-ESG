@@ -1,0 +1,10 @@
+company,year,pdf_file,page,img_idx,xref,bbox_x0,bbox_y0,bbox_x1,bbox_y1,img_sha1,img_ext,caption,ocr_text
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,0,0,5025,0.0,0.0,0.0,0.0,64ddd1bf0bb374ad2e1ffb514d392e9815594b0f,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,2,0,26,0.0,0.0,0.0,0.0,87d31132738a08769e064b85fc6d3c849b4c9c84,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,6,0,162,0.0,0.0,0.0,0.0,67d70829f706da5c8929faf6eb01b0864f018fc8,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,12,0,361,0.0,0.0,0.0,0.0,5f2b2f3b15c5172e84d8772a9f1f533b2e91a89b,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,13,0,758,0.0,0.0,0.0,0.0,98722e7f6124dd85a3a4ced18e4567ceb7d3f1ea,png,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,17,0,905,0.0,0.0,0.0,0.0,7c3cea822acd9661820251e0ed45c80f0c58a6f5,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,18,0,938,0.0,0.0,0.0,0.0,0e6e43d26479823aa3606ee4371248b94f8b8437,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,20,0,1002,0.0,0.0,0.0,0.0,68d4e36caaf977a97f1d3a1fd4ba162bfa750111,jpeg,,
+nvidia,2025,NVIDIA-Sustainability-Report-Fiscal-Year-2025.pdf,25,0,1185,0.0,0.0,0.0,0.0,14f1a27f060ec45349097b6b73a36c0302f06b4d,jpeg,,

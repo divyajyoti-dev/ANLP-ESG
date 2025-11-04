@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+LDA,0,"suppliers, rba, rights, human, risk, labor, compliance, supply, chain, working, responsible, code, audits, safety, management"
+LDA,1,"employees, 000, employee, foundation, company, volunteer, g4, performance, cancer, support, efforts, time, giving, million, new"
+LDA,2,"employees, business, conduct, customers, code, training, global, including, cybersecurity, team, privacy, policies, company, work, employee"
+LDA,3,"water, safety, waste, health, employees, building, use, headquarters, facilities, management, percent, employee, emergency, ehs, program"
+LDA,4,"employees, 102, 13, employee, diversity, total, 18, years, 16, 20, workforce, 11, report, turnover, performance"
+LDA,5,"waste, suppliers, water, environmental, compliance, product, chain, supply, management, manufacturing, emissions, recycled, supplier, customer, products"
+LDA,6,"employees, 100, work, diversity, best, employee, women, inclusion, support, program, development, pay, recruiting, corporate, year"
+LDA,7,"report, governance, board, management, corporate, issues, performance, related, reporting, climate, responsibility, business, priorities, stakeholder, information"
+LDA,8,"gri, 2016, chain, suppliers, responsible, sustainability, product, conflict, supply, minerals, social, performance, energy, management, report"
+LDA,9,"energy, emissions, scope, data, environmental, ghg, use, efficiency, renewable, packaging, product, climate, electricity, gas, percent"
+LDA,10,"ai, computing, gpu, power, data, performance, world, energy, platform, accelerated, gpus, software, development, technology, systems"
+LDA,11,"ai, technology, safety, women, development, sustainable, driving, gtc, healthcare, research, autonomous, report, learning, science, conference"

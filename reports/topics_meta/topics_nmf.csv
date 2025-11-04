@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+NMF,0,"emissions, scope, category, ghg, upstream, activity, data, electricity, sold, transportation, purchased, fuel, methodology, distribution, leased"
+NMF,1,"000, total, 500, based, 2018, 2019, 2017, location, 2020, market, 2021, category, 2022, online, consumption"
+NMF,2,"water, restoration, stress, consumption, projects, meters, cubic, river, gallons, withdrawal, stewardship, regions, watersheds, 2019, 2020"
+NMF,3,"climate, change, action, misinformation, information, resilience, science, global, facebook, countries, organizations, week, employees, risks, world"
+NMF,4,"responsible, suppliers, supplier, supply, chain, labor, workers, worker, rba, minerals, program, risks, human, management, code"
+NMF,5,"data, center, leed, construction, centers, certification, materials, waste, gold, design, buildings, building, efficiency, hardware, circularity"
+NMF,6,"energy, renewable, solar, projects, mw, electricity, wind, clean, grid, new, portfolio, support, 100, storage, grids"
+NMF,7,"2021, governance, collaborate, highlights, ahead, looking, sion, vi, create, meta, operate, leadership, index, data, people"
+NMF,8,"emissions, zero, carbon, net, reduction, value, chain, 2030, targets, suppliers, operations, removal, global, reduce, set"
+NMF,9,"biodiversity, native, species, restoration, wildlife, habitat, local, projects, nature, carbon, endangered, center, habitats, landscape, plant"
+NMF,10,"ai, people, technologies, build, connect, experiences, facebook, technology, data, world, community, communities, help, america, summary"
+NMF,11,"statements, forward, financial, terms, looking, results, commitments, standards, goals, 2024, uncertainties, metrics, environmental, business, gri"

@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+LDA,0,"employees, intel, employee, diversity, work, women, health, programs, inclusion, program, safety, business, corporate, development, responsibility"
+LDA,1,"microsoft, ai, nvidia, data, customers, products, technology, security, world, business, computing, software, new, privacy, services"
+LDA,2,"energy, apple, carbon, renewable, emissions, percent, climate, suppliers, projects, use, clean, recycled, supply, 100, environmental"
+LDA,3,"products, packaging, product, apple, use, materials, data, environmental, plastic, footprint, used, fiber, life, material, recycled"
+LDA,4,"sustainability, climate, technology, global, communities, world, support, help, people, million, microsoft, impact, ai, program, community"
+LDA,5,"intel, responsibility, corporate, report, technology, performance, approach, impact, goals, education, business, com, 2010, summary, global"
+LDA,6,"suppliers, supply, chain, human, rights, supplier, business, responsible, environmental, risk, management, issues, safety, compliance, responsibility"
+LDA,7,"water, use, gallons, data, assurance, report, million, environmental, projects, information, apple, local, surface, billion, site"
+LDA,8,"energy, carbon, google, data, emissions, renewable, power, efficiency, amazon, use, solar, center, reduce, new, centers"
+LDA,9,"waste, recycling, materials, use, amazon, new, sustainability, products, building, design, reduce, recycled, zero, reuse, landfill"
+LDA,10,"report, corporate, gri, responsibility, governance, reporting, management, information, performance, sustainability, environmental, climate, nvidia, 10, g4"
+LDA,11,"emissions, 000, scope, data, energy, renewable, total, year, electricity, ghg, based, 100, carbon, metric, gas"
