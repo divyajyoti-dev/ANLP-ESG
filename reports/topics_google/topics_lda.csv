@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+LDA,0,"energy, renewable, clean, google, electricity, power, solar, carbon, grid, wind, new, mw, free, 24, global"
+LDA,1,"water, million, gallons, united, states, pue, 10, 09, 12, potable, data, county, 11, waste, energy"
+LDA,2,"energy, data, google, waste, renewable, carbon, million, centers, landfill, 2016, 2017, environmental, emissions, 2015, center"
+LDA,3,"emissions, scope, data, based, factors, category, ghg, emission, alphabet, use, energy, gas, electricity, using, calculate"
+LDA,4,"data, water, google, centers, building, use, center, new, nature, materials, design, view, bay, local, world"
+LDA,5,"google, climate, data, environmental, technology, ai, global, earth, world, help, information, cities, sustainability, cloud, change"
+LDA,6,"google, nest, products, recycled, plastic, pixel, 2022, packaging, materials, product, devices, consumer, based, energy, hardware"
+LDA,7,"ai, energy, products, google, data, emissions, help, people, use, chain, make, environmental, reduce, supply, impact"
+LDA,8,"water, sustainability, climate, engagement, environmental, google, carbon, governance, related, risks, approach, sustainably, risk, data, strategy"
+LDA,9,"carbon, google, emissions, energy, report, offsets, environmental, 2020, free, reduce, renewable, ghg, sustainability, years, neutrality"
+LDA,10,"data, water, energy, cfe, electricity, based, endnote, carbon, grid, 2024, consumption, 2023, total, year, google"
+LDA,11,"000, tco, scope, emissions, total, energy, 200, mwh, environmental, renewable, 500, data, carbon, 100, based"

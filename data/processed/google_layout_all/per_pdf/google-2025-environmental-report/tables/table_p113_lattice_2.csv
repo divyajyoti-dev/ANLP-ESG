@@ -1,0 +1,38 @@
+"Greenhouse Gas Inventories, the 2024 Climate Registry Default Emission Factors, and the 2024 Department for Environment, Food and 
+Rural Affairs (DEFRA) UK Government GHG Conversion Factors. 
+Biogenic emissions 
+“Biogenic emissions” represent direct CO2 emissions from Alphabet ’s operated vehicles and generators that consume biogenic fuels. 
+In accordance with the Corporate Standard, biogenic CO2  emissions are reported separately from other scope 1 GHG emissions. The 
+emission factors used to calculate biogenic emissions come from the 2025 EPA Emission Factors for Greenhouse Gas Inventories. 
+Scope 2 location-based and Scope 2 market-based 
+“Scope  2  location-based”  and  “Scope  2  market-based”  represent  indirect  emissions  from  natural  gas,  fugitive  emissions  from 
+refrigerant leaks at leased Global Facilities, purchased steam, hot water, and chilled water from district energy systems, and purchased 
+electricity consumption at Global Facilities. All purchased electricity includes purchased electricity for owned and operated global data 
+centers and purchased electricity related to the operation of Alphabet’s information technology assets at leased data centers and other 
+locations. Alphabet reports scope 2 emissions using both location-based and market-based methods. The location-based method reflects 
+the average carbon intensity of the electric grids where  Alphabet’s operations are  located and thus where the electricity consumption 
+occurs. The market-based method incorporates Alphabet’s procurement choices, primarily renewable energy purchases via contractual 
+instruments, such as power purchase agreements (PPAs). Alphabet uses actual data (such as third-party invoices, monthly utility bills, 
+or meter readings) to calculate scope 2 emissions. Where actual data isn’t available, Alphabet estimates electricity consumption, natural 
+gas  consumption,  and  activity  from  district  energy  systems  using  square  footage  of  our  data  centers,  offices,  and  other  assets  and 
+internally developed intensity factors by office type, based on data from the reporting period. The emission factors used to calculate scope 
+2 (location-based) emissions include the 2024 WRI/WBCSD GHG Protocol Emission Factors from Cross Sector Tools, the 2025 EPA 
+Emission Factors for Greenhouse Gas Inventories, the 2024 DEFRA UK Government GHG Conversion Factors, the 2024 International 
+Energy Agency (IEA) Emission Factors, the 2025 EPA eGRID Emission Factors, and the 2024 Climate Registry Default Emission Factors. 
+The emission factors used to calculate scope 2 (market-based) emissions are the same as scope 2 (location-based) with the addition of 
+emission factors specific to energy attribute certificates (EACs), as well as residual mix emission factors where available. Residual grid 
+mix removes the proportion of renewable energy contracted to other parties—that have the rights to claim those clean electricity attributes 
+through EACs—from  the grid  electricity mix,  and  therefore  avoids  double-counting.  Comprehensive residual mix emission factors  are 
+currently only available for Europe (European Residual Mixes 2023, Association of Issuing Bodies). Outside of Europe, residual emission 
+factors aren’t  available  from  third-party  sources  to account  for  voluntary  purchases,  and  this  may  result  in  double  counting  between 
+electricity consumers.","","","","",""
+"","Alphabet’s Schedule of GHG Emissions by Region 
+For the Year Ended December 31  2024 
+(tCO2e)","","","",""
+"","GHG emissions by region","Scope 1","Scope 2 (market-based)","Scope 2 (location-based)",""
+"","North America","53,600","1,161,200","8,293,200",""
+"","Europe, Middle East, & Africa","8,800","82,700","1,033,800",""
+"","Latin America","1,900","13,900","147,100",""
+"","Asia Pacific","8,800","1,801,300","1,809,100",""
+"","Global total","73,100","3,059,100","11,283,200",""
+"","","","","",""

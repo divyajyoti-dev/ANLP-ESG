@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+NMF,0,"intel, responsibility, education, technology, corporate, fa, impact, report, community, performance, com, approach, foundation, goals, 2008"
+NMF,1,"google, data, centers, energy, environmental, center, nest, bay, cloud, users, carbon, pue, 2018, sustainability, efficient"
+NMF,2,"water, gallons, use, cooling, replenishment, river, projects, data, waste, restoration, surface, conservation, billion, local, million"
+NMF,3,"suppliers, supplier, supply, chain, rba, audits, minerals, audit, conflict, safety, risk, labor, responsible, eicc, code"
+NMF,4,"ai, nvidia, computing, technology, data, gpu, research, learning, world, development, platform, model, software, developers, climate"
+NMF,5,"energy, renewable, solar, electricity, clean, projects, power, apple, wind, grid, percent, 100, efficiency, green, carbon"
+NMF,6,"emissions, scope, carbon, 000, ghg, data, gas, metric, greenhouse, footprint, based, tons, electricity, total, tco"
+NMF,7,"employees, employee, safety, health, diversity, inclusion, women, benefits, programs, workforce, work, career, training, 000, culture"
+NMF,8,"rights, human, report, business, corporate, responsibility, governance, issues, privacy, board, principles, policies, conduct, reporting, stakeholders"
+NMF,9,"waste, apple, materials, recycled, packaging, products, percent, product, recycling, material, plastic, use, fiber, iphone, environmental"
+NMF,10,"amazon, aws, pledge, sustainability, packaging, customers, delivery, climate, carbon, products, 2023, 2022, people, sustainable, food"
+NMF,11,"microsoft, carbon, sustainability, climate, ecosystems, global, removal, zero, solutions, environmental, technology, waste, overview, cloud, world"

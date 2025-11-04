@@ -1,0 +1,2 @@
+company,year,pdf_file,page,img_idx,xref,bbox_x0,bbox_y0,bbox_x1,bbox_y1,img_sha1,img_ext,caption,ocr_text
+google,2022,google-2022-environmental-report.pdf,0,0,3677,0.0,0.0,0.0,0.0,0a0c6110d2e41d239315f2bda26f97f1aeb58d2c,jpx,,

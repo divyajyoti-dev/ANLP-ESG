@@ -1,0 +1,73 @@
+"Product Energy Efficiency
+The vast majority of environmental impact related to the 
+use of our products pertains to energy consumption. 
+Each generation of process technology enables us to 
+build products that offer higher performance, lower cost, 
+and improved energy efficiency compared to previous 
+generations. Building energy efficiency into our products 
+not only reduces our scope 3 emissions, but also lowers 
+the scope 2 emissions of our customers by reducing their 
+energy costs and environmental impact.","","Intel announced a collaboration2 with two liquid crystal 
+display (LCD) panel manufacturers to reduce notebook 
+display power consumption by 50%. Select PCs shipping 
+with these new displays are expected to be an order of 
+magnitude more energy efficient than the 2010 notebook 
+baseline while delivering more processing performance 
+and capabilities than the configuration assumed in the 
+2020 goal. Intel also partnered with the U.S. EPA and U.S. 
+Department of Energy (DOE) to finalize November 2018 
+ENERGY STAR* 7.1 requirements focused on notebook 
+computers’ energy consumption reduction. 
+Desktop PCs continue to be an important client segment, 
+and we have enabled platform capabilities to meet the 
+new California Energy Commission Energy Efficiency 
+Standard3 requirements for computers that began on 
+January 1, 2019. We are on track to achieve 50% desk-
+top idle power reduction by 2021 from a 2017 baseline. 
+As part of our carbon footprinting efforts, we have 
+estimated that the total GHG emissions due to energy 
+consumption by Intel® processors in servers and desk-
+top and notebook computers sold in 2018 equated to 
+4,035,000 metric tonnes. This figure represents 2018 
+emissions from products sold in 2018, calculated using"
+"","goal
+PRODUCT ENERGY EFFICIENCY
+Increase the energy efficiency of notebook 
+computers and data center server products 
+25x by 2020 from 2010 levels.1
+Our Progress: At risk
+Intel continues to lead the industry in maximizing 
+the productivity and energy efficiency of data center 
+server products. While we continue to improve  
+energy efficiency in our products (8.5x for data center 
+products and 14x for notebooks since 2010), we are 
+at risk to meet our 2020 energy-efficiency targets.",""
+"We are reevaluating our data center energy-efficiency 
+goals to account for Intel server roadmap changes and 
+the server industry transition to a new active server effi-
+ciency metric based on the Server Efficiency Rating Tool 
+(SERT*). We plan to collect more data on SERT and the 
+current SPECpower_ssj2008 metric in 2019 to establish 
+new long-term energy-efficiency targets.
+For notebook computers, we are evaluating alternative 
+options that focus on our processors’ energy efficiency 
+rather than that of finished systems, due to the diversity 
+of system ingredients now available in the market.  
+Investments in the PC ecosystem have resulted in 
+advancements that improve system energy efficiency. 
+Environmental Sustainability","","the U.S. ENERGY STAR typical energy consumption  
+model for computing products and the Greenhouse  
+Gas Protocol Corporate Value Chain Accounting and  
+Reporting Standard. The lifetime emissions associated 
+with these processors is 14,931,000 metric tonnes  
+of CO2e. 
+1  Data center energy efficiency is determined by server energy efficiency 
+(as measured by SPECpower_ssj2008 or equivalent publications and 
+using a 2010 baseline of an E56xx series processor-based server 
+platform), as well as technology adoption that raises overall data center 
+work output (such as virtualization technology). Notebook computer 
+energy efficiency is determined by average battery life, battery capacity, 
+screen size, and number of recharge cycles of volume notebook 
+computers in that model year. 
+2  Pushing the Boundaries of Modern Computers at Computex.
+3  Energy Efficiency Standards for Computers and Monitors."

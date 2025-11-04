@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+LDA,0,"products, core, technology, performance, services, business, group, manufacturing, materials, corporation, new, environment, technologies, total, information"
+LDA,1,"suppliers, supplier, supply, chain, diversity, audit, goals, business, industry, diverse, eicc, risk, progress, work, global"
+LDA,2,"safety, audits, health, site, environmental, ehs, management, compliance, rate, sites, related, findings, party, information, iso"
+LDA,3,"energy, technology, environmental, efficiency, product, performance, products, industry, use, new, reduce, data, sustainability, goals, waste"
+LDA,4,"capital, business, global, world, companies, 10, index, year, network, best, 100, financial, gaap, 2022, leadership"
+LDA,5,"employees, employee, work, programs, health, inclusion, development, diversity, workforce, women, leadership, business, benefits, program, safety"
+LDA,6,"human, rights, security, business, chain, supply, privacy, ai, products, information, principles, policies, labor, responsible, conduct"
+LDA,7,"waste, minerals, supply, conflict, chain, hazardous, chemical, 100, responsible, sourcing, free, generated, manufacturing, non, recycled"
+LDA,8,"business, management, ethics, governance, policy, approach, performance, issues, public, compliance, economic, information, fa, gri, board"
+LDA,9,"emissions, energy, scope, climate, ghg, use, gas, 000, greenhouse, renewable, electricity, green, change, operations, 2020"
+LDA,10,"technology, education, program, employees, community, foundation, million, impact, students, social, skills, world, science, programs, support"
+LDA,11,"water, use, billion, gallons, local, operations, projects, surface, river, conservation, sites, withdrawals, manufacturing, arizona, site"
