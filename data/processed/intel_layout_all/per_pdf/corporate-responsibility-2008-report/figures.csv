@@ -1,0 +1,12 @@
+company,year,pdf_file,page,img_idx,xref,bbox_x0,bbox_y0,bbox_x1,bbox_y1,img_sha1,img_ext,caption,ocr_text
+intel,2008,corporate-responsibility-2008-report.pdf,1,0,7,0.0,0.0,0.0,0.0,b3616741f01c3facf37a81bf52222da810c1eba8,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,2,0,21,0.0,0.0,0.0,0.0,1f1b47ce079744cdd3f87ecdbfb5b8b977e243c2,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,5,0,243,0.0,0.0,0.0,0.0,743a8b54e94c087c14885ea0e28078b8bf2c4f78,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,13,0,764,0.0,0.0,0.0,0.0,a9e72e341a6ab6ca0b7dbead8a3c015dcfed10d8,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,21,0,1245,0.0,0.0,0.0,0.0,e85a3fe93799dd6427cabd720df7310a20dbb653,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,30,0,1708,0.0,0.0,0.0,0.0,2e979c23827b894aa16fe6f02d57c85ee65eeee8,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,48,0,2817,0.0,0.0,0.0,0.0,6fc44dc946a06ae4c49532904b30a05e91164796,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,65,0,3801,0.0,0.0,0.0,0.0,e8eec0391eb64a76dfcd308d01500606f284c812,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,73,0,4272,0.0,0.0,0.0,0.0,11590be8e581710e2f27a398239e15339ef84476,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,83,0,4896,0.0,0.0,0.0,0.0,61fa54aee0494b043de91db2a89c8b292f6690ad,jpeg,,
+intel,2008,corporate-responsibility-2008-report.pdf,107,0,6464,0.0,0.0,0.0,0.0,0ed89093ccdffefd6f2b530aab3b2a1f912d22b6,jpeg,,

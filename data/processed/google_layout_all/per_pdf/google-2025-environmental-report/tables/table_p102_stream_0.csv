@@ -1,0 +1,8 @@
+"mix when calculating grid contributions to Google CFE because hourly residual grid mix data doesn’t yet exist. We’re supporting the development of time-",""
+"based tracking methods, which are essential for making this calculation possible in the future.",""
+"Power Usage Effectiveness",""
+"PUE is a standard industry ratio that compares the amount of non-computing overhead energy (used for things like cooling and power distribution) to the",""
+"amount of energy used to power IT equipment. A PUE of 2.0 means that for every watt of IT power, an additional watt is consumed to cool and distribute",""
+"power to the IT equipment. A PUE closer to 1.0 means nearly all the energy is used for computing.",""
+"We take a comprehensive approach to measuring our data center PUE:",""
+"•","Include all data centers: We consider our entire global fleet, not just the newest or most efficient facilities."

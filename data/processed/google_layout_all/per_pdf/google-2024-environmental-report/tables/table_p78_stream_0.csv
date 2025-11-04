@@ -1,0 +1,123 @@
+"","","","","","","","","","","","","","","1","2022 CFE across Google offices (hourly) was recalculated"
+"CARBON-FREE ENERGY (CFE)","","","","","","","","DATA CENTER GRID REGION CFE","","","","2023","","","due to methodology updates."
+"","","","","","","","","","","","","","","2","2023 is the first year we’re disclosing Regional average"
+"","","","","","","","","","","Google","Contracted","Consumed","Grid","",""
+"Global average CFE","","Unit","2019","2020","2021","2022","2023","Country","Regional grid6
+Unit","","","","","","CFE across Google data centers. Data for prior years is"
+"","","","","","","","","","","CFE","CFE","Grid CFE","CFE %","",""
+"","","","","","","","","","","","","","","","not disclosed."
+"CFE across Google data centers (hourly)","","%","61","67","66","64","64","","","","","","","",""
+"","","","","","","","","Indonesia","Perusahaan Listrik Negara (PLN)
+%","13","0","13","13","3","The eastern North America regional CFE percentage"
+"","","","","","","","","","","","","","","","includes the following grid regions: DUKE, IESO, Hydro-"
+"CFE across Google offices (hourly)","","%","-","-","-","541","56","","","","","","","",""
+"","","","","","","","","Ireland","EirGrid
+%","43","0","43","43","","Québec, PJM, Santee Cooper, SOCO, and TVA."
+"CFE across Google data centers and offices (hourly)","","%","-","-","-","64","64","","","","","","","4","The central North America regional CFE percentage"
+"","","","","","","","","Israel","Israel Electric Corporation (IEC)
+%","5","0","5","5","",""
+"","","","","","","","","","","","","","","","includes the following grid regions: ERCOT, MISO, and"
+"","","","","","","","","","","","","","","","SPP."
+"","","","","","","","","Italy","Terna
+%","52","0","52","52","",""
+"Regional average CFE across Google data centers","","Unit","2019","2020","2021","2022","20232","","","","","","","",""
+"","","","","","","","","","","","","","","5","The western North America regional CFE percentage"
+"","","","","","","","","Japan","Kansai Electric Power Company (KEPCO) %","30","0","30","30","","includes the following grid regions: SRP, BPA, CAISO, NVE"
+"North America - East3","","%","-","-","-","-","47","","","","","","","",""
+"","","","","","","","","","","","","","","","and PACE."
+"North America - Central4","","%","-","-","-","-","91","Japan","TEPCO Power Grid (TEPCO)
+%","16","0","16","16","",""
+"","","","","","","","","","","","","","","6","A grid region (or regional grid) corresponds to the area"
+"","","","","","","","","","","","","","","","over which a single entity manages the operation of"
+"North America - West5","","%","-","-","-","-","63","Netherlands","Tennet
+%","80","61","19","58","",""
+"","","","","","","","","","","","","","","","the electric power system and ensures that demand"
+"Europe, Middle East, & Africa","","%","-","-","-","-","83","","","","","","","","and supply are finely balanced. In the United States,"
+"","","","","","","","","Poland","Polskie Sieci Elektroenergetyczne (PSE)
+%","31","0","31","31","",""
+"","","","","","","","","","","","","","","","this generally means the ISO or RTO in regions that"
+"Latin America","","%","-","-","-","-","91","","","","","","","",""
+"","","","","","","","","Qatar","Kahramaa
+%","0","0","0","0","","have these regional market structures. If no such"
+"Asia Pacific","","%","-","-","-","-","12","","","","","","","","structure exists, then Google defines the grid region"
+"","","","","","","","","Saudi Arabia","National Grid SA
+%","0","0","0","0","",""
+"","","","","","","","","","","","","","","","as the electricity-balancing authority where our data"
+"Global CFE across Google data centers","","%","-","-","-","-","64","","","","","","","",""
+"","","","","","","","","","","","","","","","centers are located. Outside of the United States,"
+"","","","","","","","","Singapore","Energy Market Authority of Singapore
+%","4","0","4","4","",""
+"","","","","","","","","","","","","","","","the grid region most often refers to the geographic"
+"","","","","","","","","South Africa","Eksom
+%","16","0","16","16","","boundary of a country, because most grid system"
+"DATA CENTER GRID REGION CFE","","","","","2023","","","","","","","","","",""
+"","","","","","","","","","","","","","","","operators operate at the national level. Certain regions"
+"","","","","","","","","South Korea","Korea Power Exchange (KPX)
+%","35","0","35","35","",""
+"","","Google","","Contracted","Consumed","","Grid","","","","","","","","that span multiple countries are well interconnected"
+"Country
+Regional grid6","Unit","","","","","","","","","","","","","",""
+"","","CFE","CFE","","Grid CFE","","CFE %","","","","","","","","and could be considered as one grid; however, our grid"
+"","","","","","","","","Spain","Red Eléctrica
+%","76","0","76","76","",""
+"","","","","","","","","","","","","","","","mix calculations already include import and export"
+"Australian Energy Market Operator","","","","","","","","","","","","","","",""
+"Australia","%","33","0","","33","","33","","","","","","","","considerations and therefore take into account power"
+"(AEMO), New South Wales (NSW)","","","","","","","","Switzerland","Swissgrid
+%","92","0","92","92","",""
+"","","","","","","","","","","","","","","","flows from neighboring grids. In the future, we may"
+"Australian Energy Market Operator","","","","","","","","","","","","","","",""
+"","","","","","","","","Taiwan","Taiwan Power Company
+%","18","1","17","18","","update our definition as we work with grid operators"
+"Australia","%","40","0","","40","","40","","","","","","","",""
+"(AEMO), Victoria","","","","","","","","","","","","","","",""
+"","","","","","","","","","","","","","","","to better understand how transmission constraints or"
+"","","","","","","","","United States","Bonneville Power Administration (BPA)
+%","84","0","84","84","",""
+"","","","","","","","","","","","","","","","congestion impact CFE measurement within and across"
+"Belgium
+Elia","%","82","35","","47","","74","","","","","","","",""
+"","","","","","","","","","","","","","","","grid regions."
+"","","","","","","","","","California Independent System Operator","","","","","",""
+"Operador Nacional do Sistema Elétrico","","","","","","","","United States","%","55","0","55","55","",""
+"Brazil","%","90","0","","90","","90","","(CAISO)","","","","","7","See endnote 6 above."
+"(ONS)","","","","","","","","","","","","","","",""
+"","","","","","","","","United States","Duke Energy Carolinas (DUKE)
+%","63","11","52","59","",""
+"Canada
+Hydro-Québec","%","100","0","","100","","100","","","","","","","",""
+"","","","","","","","","","Electric Reliability Council of Texas","","","","","",""
+"The Independent Electricity System","","","","","","","","United States","%","79","61","18","41","",""
+"Canada","%","87","0","","87","","87","","(ERCOT)","","","","","",""
+"Operator (IESO)","","","","","","","","","","","","","","",""
+"","","","","","","","","","Midcontinent Independent System","","","","","",""
+"","","","","","","","","United States","%","95","93","2","34","",""
+"Chile
+Sistema Interconectado Central","%","91","75","","16","","61","","Operator (MISO)","","","","","",""
+"Denmark
+Energinet","%","92","43","","49","","86","United States","NV Energy (NVE)
+%","26","0","26","26","",""
+"Finland
+Fingrid","%","98","77","","21","","92","United States","PacifiCorp East (PACE)
+%","29","0","29","29","",""
+"France
+Réseau de Transport d’Électricité (RTE)","%","94","0","","94","","94","United States","PJM Interconnection (PJM)
+%","52","19","33","41","",""
+"","","","","","","","","United States","Salt River Project (SRP)
+%","48","0","48","48","",""
+"Germany
+Germany","%","90","73","","17","","64","","","","","","","",""
+"","","","","","","","","","South Carolina Public Service Authority","","","","","",""
+"Great Britain National Grid ESO","%","92","76","","16","","65","United States","%","29","6","23","24","",""
+"","","","","","","","","","(Santee Cooper)","","","","","",""
+"CLP Power Hong Kong Limited","","","","","","","","","","","","","","",""
+"Hong Kong","%","28","0","","28","","28","United States","Southern Company (SOCO)
+%","42","17","25","30","",""
+"(CLP Power)","","","","","","","","","","","","","","",""
+"","","","","","","","","United States","Southwest Power Pool (SPP)
+%","87","80","7","47","",""
+"India
+Northern India Regional Grid","%","29","0","","29","","29","","","","","","","",""
+"India
+Western India Regional Grid","%","14","0","","14","","14","United States","Tennessee Valley Authority (TVA)
+%","65","24","41","53","",""

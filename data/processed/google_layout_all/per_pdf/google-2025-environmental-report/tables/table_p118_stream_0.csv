@@ -1,0 +1,104 @@
+"96  Refer to endnote 19 above.","both PUE and machine hardware efficiency, we assume additional energy consumption"
+"97  This is based on estimated daily car rides at the intersections where Green Light has been","in the avoided baseline scenario would not have been matched with additional clean"
+"implemented from 2021 to 2024, multiplied by the average workdays in a month.","energy procurement. Refer to endnote 49 for the calculation of avoided emissions from"
+"98  Refer to endnote 86 above.","our carbon-free energy procurement. The data and claims have not been verified by an"
+"99  The Solar API estimates the rooftop solar potential of buildings around the world using","independent third-party."
+"high-resolution, 3D models of individual roofs from our aerial imagery in Google Maps.","120  Currently, SBTi validates near-term (by 2030) carbon reduction targets and long-term"
+"We’ve counted the number of individual buildings for which we have data, and which can","(by or before 2050) net-zero targets (“SBTi Corporate Net-Zero Standard Version 1.2,”"
+"be queried via a lat-long in Google Maps Platform.","Science Based Targets initiative, March 2024). Our carbon reduction ambition was"
+"100  Refer to endnote 33 above.","validated using the SBTi Corporate Near-Term Criteria Version 5.2 and following the cross-"
+"Refer to endnote 16 above.
+101","sector absolute reduction method. This approach aligns with a 1.5°C scenario and utilizes"
+"“The Contribution of Global Aviation to Anthropogenic Climate Forcing for 2000 to 
+102","the standard validation route for target setting. Because our net-zero ambition allows"
+"2018,” Atmospheric Environment, January 2021. Calculated using Supplementary data to","for 50% remaining emissions by our 2030 ambition date, we don’t meet SBTi’s criteria of"
+"compare the global warming potential (GWP100) of contrails to the total global warming","only 10% residuals (for a long-term net-zero target by 2050). For this reason, we’ve only"
+"potential of the three primary aviation pollutants (CO2, NOx, and contrails).","validated our near-term carbon reduction ambition with SBTi to date."
+"103  Using satellite imagery, large-scale weather data, and flight data, we trained a contrails","This covers many of the procured goods and services related to our day-to-day 
+121"
+"prediction model. For this trial, we partnered with American Airlines to integrate contrail","operations such as IT, marketing, professional services, legal services, software, real"
+"likely zone predictions into the tablets that their pilots used in flight so they could make","estate management, etc."
+"real time adjustments in altitude to avoid creating contrails. We evaluated the model’s","Alphabet is a collection of businesses—the largest of which is Google. We refer to all non-
+122"
+"performance using satellite imagery, comparing contrail formation (measured in contrail","Google businesses collectively as Other Bets. See Alphabet’s 2023 Form 10-K for more"
+"kilometers) in flights where pilots used predictions to avoid contrails, to contrail formation","detail."
+"in flights where pilots didn’t use contrail predictions. For more details, refer to the Project","“SBTi Corporate Near-Term Criteria V5.2,” Science Based Target Initiative, March 2024. 
+123"
+"Contrails website and the Feasibility test of per-flight contrail avoidance in commercial","Criteria C5 and C6 outline the requirements for GHG inventory emissions coverage and"
+"aviation paper.","target boundaries."
+"“Aviation Contrail Climate Effects in the North Atlantic from 2016 to 2021,” Atmospheric 
+104","In 2025, the SBTi validated Alphabet’s near-term science-based emissions reduction 
+124"
+"Chemistry and Physics, vol. 22, iss. 16, August 2022.","ambition, aligning our measurements with rigorous standards for emissions reduction."
+"105  We estimated a cost efficiency range based on our trial’s results in combination with","Our carbon reduction ambition was validated using the SBTi Corporate Near-Term"
+"published contrail literature. There is inherent uncertainty for this cost range due to","Criteria Version 5.2 and following the cross-sector absolute reduction method."
+"estimations of the impact of contrails to the climate system. For more detail, refer to the","125  Moving forward, we may share updates to this roadmap when there are significant"
+"Project Contrails website.","changes or revisions to our strategy."
+"“CDR.fyi 2024 Year in Review,” CDR.fyi, February 2025.
+106","126  Carbon reduction initiatives refer to all of the specific projects or initiatives that play"
+"“Global Outlook for Air Transport—A World with Lower Oil Prices?,” International Air 
+107","some role in reducing footprint emissions by 2030. Key reduction areas are groupings of"
+"Transport Association, December 2024.","similar carbon reduction initiatives into higher-level buckets and represent the key areas"
+"“India’s Met Office Warns of Intense Heatwave This Summer,” BBC, March 2025.
+108","of focus for our decarbonization plan."
+"109  Based on an analysis of change in Google Search interest for “hurricanes,” “wildfires,” and","Future emissions expectations are illustrative and rely on assumptions about the 
+127"
+"“climate change” topics during extreme weather events between 2022 and 2025.","implementation of the key reduction areas outlined in this roadmap. The actual emissions"
+"Based on a comparison of simulation speeds of the NeuralGCM model, the NOAA 
+110","reductions achieved in the future may differ."
+"X-SHiELD, and the NCAR CAM6 (AMIP) model, which were run at different resolutions.","128  We’re prioritizing reductions across scopes 2 and 3, which have much larger emissions"
+"Based on a comparison of the computational costs for the SEEDS model and estimated 
+111","reduction potential. In fact, the vast majority of reductions rely on accelerating the"
+"computational costs for the U.S. operational forecast system, Global Ensemble Forecast","deployment of clean electricity across both our operations and suppliers—which is why"
+"System (GEFS) version 12. For more details, refer to the Generative emulation of weather","a significant portion of our plan focuses specifically on unlocking new clean energy."
+"forecast ensembles with diffusion models paper.","Reducing scope 1 emissions is important—not only because they’re within our direct"
+"“People in Harm’s Way: Flood Exposure and Poverty in 189 Countries,” World Bank Group, 
+112","control, but also because they’re part of our broader sustainability efforts. However, they"
+"October 2020.","represent less than 1% of our total 2024 ambition-based carbon footprint."
+"Refer to endnote 21 above.
+113","PUE is a standard industry ratio that compares the amount of non-computing overhead 
+129"
+"Refer to endnote 5 above.
+114","energy (used for things like cooling and power distribution) to the amount of energy used"
+"Based on research from the International Energy Agency (Advancing Decarbonisation 
+115","to power IT equipment. For example, a PUE of 2.0 means that for every watt of IT power,"
+"through Clean Electricity Procurement, 2022), Princeton University (The Influence of","an additional watt is consumed to cool and distribute power to the IT equipment. A PUE"
+"Demand-Side Data Granularity on the Efficacy of 24/7 Carbon-Free Electricity","closer to 1.0 means nearly all the energy is used for computing. According to the Uptime"
+"Procurement, 2024), and Technical University of Berlin (System-Level Impacts of 24/7","Institute’s 2024 Global Data Center Survey, the global average PUE of respondents’ data"
+"Carbon-Free Electricity Procurement in Europe, 2024).","centers was 1.56. The overhead energy use comparison was calculated as follows: (1 -"
+"For 2022 and 2023, the Canada & Mexico regional average Google CFE metric includes 
+116","(Google’s overhead energy use [0.09] divided by the industry average overhead energy"
+"only Canadian grid regions where we had data center operations. We didn’t have data","use [0.56])) x 100 = 84%."
+"center operations in Mexico prior to 2024.","Refer to endnote 2 above.
+130"
+"Refer to endnote 5 above.
+117","Supplier scope 3 electricity includes hardware supplier electricity (e.g., electricity used 
+131"
+"118  Our carbon reduction ambition was validated using the SBTi Corporate Near-Term Criteria","to manufacture semiconductors, servers, Google consumer hardware devices, etc.),"
+"Version 5.2 and following the cross-sector absolute reduction method. This approach","office construction (data center construction supplier electricity is separately covered"
+"aligns with a 1.5°C scenario and utilizes the standard validation route for target setting.","in the scope 3 low-carbon data center construction key reduction area), and food (i.e.,"
+"Avoided emissions are emissions that would have otherwise occurred but were avoided 
+119","electricity used by suppliers of food for Google cafes). Non-supplier scope 3 electricity"
+"because of actions taken either as part of normal operations or in service of climate","includes product use phase electricity (e.g., electricity used to charge Pixel phones),"
+"ambitions. We calculate avoided emissions by comparing our actual emissions to a","and transmission and distribution losses from our scope 2 electricity use. There are also"
+"scenario where we didn't take action. To calculate avoided emissions from our power","scope 3 emissions from the upstream impacts of electricity use: “Category 3: Fuel- and"
+"usage effectiveness (PUE) improvements, we compare our fleet-wide trailing 12-month","energy-related activities (not included in scope 1 or 2).” These are the upstream emissions"
+"(TTM) PUE in each year from 2019 to 2024 to a baseline from our earliest fleet-wide TTM","from purchased electricity consumed by the reporting company: extraction, production,"
+"PUE (which was 1.21 in 2008). This baseline assumes that our PUE would have remained","and transportation of fuels consumed during the generation of electricity, steam, heating,"
+"the same without our efficiency improvements. We translate this efficiency improvement","and cooling. Although these emissions fall under scope 3, our scope 2 clean electricity"
+"into avoided energy consumption, and then calculate avoided emissions using an annual","reduction activities are the drivers of reductions in this scope 3 category because"
+"emissions rate (emissions/GWh) derived from reported scope 2 electricity data in our","any reduction in fossil fuel-based electricity use will translate into a reduction in these"
+"corporate GHG inventory for the relevant year. To calculate avoided emissions from our","upstream electricity emissions."
+"machine hardware efficiency improvements, we compare the actual emissions from our","Refer to endnote 10 above.
+132"
+"servers in 2019 to 2024 and other hardware to a hypothetical scenario where we didn't","133  We calculated the reduction in embodied carbon emissions intensity by comparing"
+"implement any efficiency measures and continued to deploy older, less efficient hardware","Google’s 2019 baseline standard data center design to our revised standardized data"
+"which could have resulted in increased machines deployed and increased energy","center designs which incorporate design updates to server hall hot air containment"
+"consumption. By comparing the actual energy consumption to this hypothetical baseline,","systems, electrical distribution systems, and cooling tower units."
+"which is defined by the machines deployed in 2019, we estimate the energy savings","Based on an internal life cycle assessment of Google’s 2019 standard data center design.
+134"
+"and associated scope 2 emissions avoided through our machine hardware efficiency","Refer to endnote 5 above.
+135"
+"initiatives. Similarly, we estimate the scope 3 emissions avoided by comparing actual","Refer to endnote 5 above.
+136"
+"hardware manufacturing and logistics emissions to the same hypothetical baseline. For","137  We recalculated data center waste diversion metrics. For additional details, refer to the"

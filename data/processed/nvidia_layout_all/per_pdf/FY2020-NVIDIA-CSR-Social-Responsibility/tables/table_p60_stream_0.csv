@@ -1,0 +1,7 @@
+"NVIDIA JETSON","NVIDIA NVLINK"
+"NVIDIA Jetson is the world’s leading AI computing platform","NVLink interconnect technology lets data move between GPUs"
+"for GPU-accelerated parallel processing in mobile embedded","and CPUs five to 12 times faster than with PCI-Express. It"
+"systems. The compute density, energy efficiency, and AI","doubles the number of GPUs that can work together in"
+"inferencing capabilities of the NVIDIA Jetson AGX Xavier SoC","deep learning computations and enables more flexible and"
+"offers high-performance, low-power computing for deep","energy-efficient server design compared to PCI-E."
+"learning and computer vision that makes it the ideal platform",""

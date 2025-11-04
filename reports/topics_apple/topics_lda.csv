@@ -1,0 +1,13 @@
+model,topic_id,top_terms
+LDA,0,"footprint, fiber, data, packaging, apple, plastic, review, corporate, fraunhofer, products, izm, total, company, year, methodology"
+LDA,1,"energy, renewable, apple, projects, data, solar, power, electricity, project, 100, center, percent, year, use, wind"
+LDA,2,"water, use, products, apple, data, product, manufacturing, resources, pvc, life, used, based, suppliers, environmental, free"
+LDA,3,"water, energy, percent, facilities, data, centers, use, retail, million, efficiency, corporate, year, stores, gallons, apple"
+LDA,4,"waste, apple, products, product, repair, zero, recycling, data, program, devices, carbon, landfill, service, suppliers, customers"
+LDA,5,"apple, support, suppliers, business, employees, communities, people, supplier, program, climate, development, 2022, including, work, policy"
+LDA,6,"environmental, apple, communities, iphone, work, world, recycling, resources, report, new, support, change, recovery, help, customers"
+LDA,7,"carbon, emissions, energy, apple, percent, footprint, renewable, electricity, suppliers, climate, use, clean, product, manufacturing, 2030"
+LDA,8,"apple, assurance, scope, emissions, environmental, information, data, ghg, protocol, energy, report, carbon, apex, review, worldwide"
+LDA,9,"recycled, percent, materials, products, apple, packaging, use, iphone, 100, material, supply, aluminum, content, product, sources"
+LDA,10,"materials, products, suppliers, safety, apple, safer, environmental, use, chemicals, supply, health, chain, standards, chemical, report"
+LDA,11,"000, emissions, energy, year, renewable, use, fiscal, 100, electricity, facilities, tons, scope, colocation, metric, total"

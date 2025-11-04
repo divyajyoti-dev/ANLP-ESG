@@ -1,0 +1,18 @@
+"2030 Goal: Product Energy Efficiency
+Description. Increase product energy efficiency 10X for Intel client and server microprocessors to reduce our Scope 3 GHG emissions.
+Baseline. Progress on the client component of our product energy efficiency goal is measured using the SPEC® CPU2017 Integer Rate benchmark 
+and Display On Idle Power using a 2019 baseline. Desktop and notebook product efficiencies should be reported together as a single number through a 
+weighted average of desktop and notebook processor sales volumes. Progress on the data center component of our product energy efficiency goal is 
+measured using SPEC® Server Efficiency Rating Tool (SERT®) suite5 on Intel and/or OEM commercial systems, using an end-of-2019 baseline.
+Progress in 2023. Client: On-track. We introduced Intel 13th generation Intel® Core™ mobile processors as well as Intel 14th generation desktop  
+processors6 that include more efficient cores compared to the prior generation. As a result, we are on track to achieve our aggressive interim goal of 
+3.46X compared to the 2019 baseline. Late in the year, we also launched the Intel® Core™ Ultra mobile processor with designed-in energy-efficiency  
+advancements.7 For example, users can achieve up to 3X more power efficiency on Ghostrunner 2 with an Intel Core Ultra 7 165H processor, compared 
+to a 13th Gen Intel® Core™ i7-1370P processor.8 Server: On-track. In 2023, we released our 5th Gen Intel® Xeon® Scalable processors, which achieved 
+approximately 2.1X improvement in energy efficiency vs. the 2019 baseline, as measured by SERT using high-volume SKU.9 This is within 10% of the 
+planned trajectory of 2.3X toward 10X improvement by 2030.  
+Looking Ahead. We plan to report on server progress toward the 2030 goals based on planned release of next-generation Intel Xeon Scalable  
+processors in 2024 and client progress based on the Intel Core Ultra mobile processor, as well as the Intel® Core™ 14th Gen processors. We continue 
+to monitor user needs and have observed that demand for AI in PCs has grown, resulting in a new focus on active workloads such as, but not limited to, 
+10-person Microsoft Teams calls with Microsoft Windows Studio Effects and AI-enhanced collaboration.",""
+"",""
