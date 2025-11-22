@@ -1,0 +1,13 @@
+{
+  "run": 8,
+  "embedding": "all-mpnet-base-v2",
+  "min_topic_size": 30,
+  "umap_neighbors": 30,
+  "umap_components": 10,
+  "hdbscan_min_samples": 5,
+  "topic_diversity": 0.525,
+  "silhouette": 0.06455254554748535,
+  "coherence_cv": NaN,
+  "train_seconds": 1.93,
+  "n_topics": 4
+}

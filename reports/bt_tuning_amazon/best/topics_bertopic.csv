@@ -1,0 +1,5 @@
+model,topic_id,top_terms
+BERTopic,0,"the, to, and, in, of, energy, carbon, our, we, water"
+BERTopic,1,"and, to, the, in, our, of, we, amazon, employees, for"
+BERTopic,2,"and, to, our, the, human, rights, in, of, we, suppliers"
+BERTopic,3,"and, to, the, in, products, packaging, we, of, amazon, our"

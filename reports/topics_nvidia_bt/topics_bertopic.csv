@@ -1,0 +1,9 @@
+model,topic_id,top_terms
+BERTopic,0,"and, suppliers, to, of, we, our, the, in, rba, with"
+BERTopic,1,"and, the, report, our, of, to, gri, we, in, nvidia"
+BERTopic,2,"and, to, in, the, women, our, we, of, employees, diversity"
+BERTopic,3,"and, waste, our, emissions, water, energy, of, in, we, to"
+BERTopic,4,"the, and, to, of, nvidia, ai, in, our, for, computing"
+BERTopic,5,"and, the, to, ai, of, we, our, in, as, with"
+BERTopic,6,"of, board, and, governance, our, to, the, conduct, employees, compensation"
+BERTopic,7,"we, to, and, the, our, work, employees, of, mistakes, that"

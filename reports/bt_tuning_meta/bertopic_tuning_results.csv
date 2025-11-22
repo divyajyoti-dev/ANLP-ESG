@@ -1,0 +1,9 @@
+run,embedding,min_topic_size,umap_neighbors,umap_components,hdbscan_min_samples,topic_diversity,silhouette,coherence_cv,train_seconds,n_topics
+1,all-mpnet-base-v2,20,30,5,5,0.7,0.08831898123025894,,3.53,2
+2,all-MiniLM-L6-v2,40,30,10,5,0.5,0.08049162477254868,,0.79,3
+3,all-mpnet-base-v2,20,15,5,1,0.5,0.0865226462483406,,0.55,4
+4,all-MiniLM-L6-v2,30,15,10,1,0.6,0.07974309474229813,,0.54,2
+5,all-MiniLM-L6-v2,40,30,5,5,0.65,0.06609039753675461,,0.64,2
+6,all-MiniLM-L6-v2,30,15,5,5,0.6,0.08327491581439972,,0.52,2
+7,all-mpnet-base-v2,20,30,10,1,0.7,0.08831898123025894,,0.68,2
+8,all-mpnet-base-v2,30,30,10,5,0.65,0.12012454867362976,,0.69,2

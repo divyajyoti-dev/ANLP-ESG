@@ -1,0 +1,4 @@
+model,topic_diversity,coherence_cv,silhouette
+LDA,0.675,,
+NMF,0.8416666666666667,,
+BERTopic,0.4829787234042553,,0.0484404824674129

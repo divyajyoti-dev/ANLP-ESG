@@ -1,0 +1,5 @@
+model,topic_id,top_terms
+BERTopic,0,"and, the, to, of, our, in, we, apple, energy, for"
+BERTopic,1,"our, and, the, to, we, in, safer, of, chemicals, materials"
+BERTopic,2,"fiber, packaging, plastic, and, the, footprint, of, for, in, data"
+BERTopic,3,"water, our, to, we, and, the, in, of, gallons, use"

@@ -1,0 +1,3 @@
+model,topic_id,top_terms
+BERTopic,0,"and, the, to, of, in, our, we, water, for, carbon"
+BERTopic,1,"and, the, to, our, of, microsoft, in, we, for, with"

@@ -1,0 +1,2 @@
+model,topic_diversity,silhouette
+BERTopic,0.3875,0.0828709527850151

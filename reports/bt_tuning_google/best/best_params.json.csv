@@ -1,0 +1,2 @@
+run,embedding,min_topic_size,umap_neighbors,umap_components,hdbscan_min_samples,topic_diversity,silhouette,coherence_cv,train_seconds,n_topics
+6,all-MiniLM-L6-v2,30,15,5,5,0.65,0.06501185148954391,,0.89,2

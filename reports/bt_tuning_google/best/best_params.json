@@ -1,0 +1,13 @@
+{
+  "run": 6,
+  "embedding": "all-MiniLM-L6-v2",
+  "min_topic_size": 30,
+  "umap_neighbors": 15,
+  "umap_components": 5,
+  "hdbscan_min_samples": 5,
+  "topic_diversity": 0.65,
+  "silhouette": 0.06501185148954391,
+  "coherence_cv": NaN,
+  "train_seconds": 0.89,
+  "n_topics": 2
+}
