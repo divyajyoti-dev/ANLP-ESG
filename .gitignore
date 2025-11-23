@@ -10,5 +10,9 @@ venv/
 # System files
 .DS_Store
 
+# Google API token — should never be committed
+auth/token.json
+
+
 
 
