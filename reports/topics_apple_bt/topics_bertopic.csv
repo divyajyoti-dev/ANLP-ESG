@@ -1,8 +1,0 @@
-model,topic_id,top_terms
-BERTopic,0,"the, to, and, of, our, we, in, energy, for, apple"
-BERTopic,1,"and, to, our, the, apple, in, of, we, with, for"
-BERTopic,2,"our, and, the, to, we, safer, in, of, chemicals, materials"
-BERTopic,3,"fiber, packaging, plastic, and, the, of, footprint, in, for, apple"
-BERTopic,4,"assurance, of, the, and, apple, information, protocol, apex, ghg, scope"
-BERTopic,5,"water, our, we, to, in, the, and, of, gallons, use"
-BERTopic,6,"emissions, 000, scope, year, ca, fiscal, energy, international, gas, facilities"

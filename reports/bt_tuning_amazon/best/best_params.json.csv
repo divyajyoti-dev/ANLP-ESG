@@ -1,2 +1,0 @@
-run,embedding,min_topic_size,umap_neighbors,umap_components,hdbscan_min_samples,topic_diversity,silhouette,coherence_cv,train_seconds,n_topics
-8,all-mpnet-base-v2,30,30,10,5,0.45,0.09419752657413483,,1.1,4
