@@ -10,5 +10,10 @@ venv/
 # System files
 .DS_Store
 
-
+# Ignore all heavy BERTopic models and tuning outputs
+reports/*/bertopic_model*
+reports/*/best/
+reports/topics_*/
+reports/bt_tuning_*/
+reports/*/models/
 
