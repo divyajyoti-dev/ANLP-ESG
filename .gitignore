@@ -24,3 +24,6 @@ reports/topics_*/
 reports/bt_tuning_*/
 reports/*/models/
 
+models/ced/distilbert_ced/
+
+
