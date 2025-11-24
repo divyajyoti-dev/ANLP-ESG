@@ -1,0 +1,373 @@
+sentence_id,company,year,page,sentence_text,label_gold
+21,Amazon,2018,0,We committed to reach net-zero carbon across Amazon by 2040.,1
+22,Amazon,2018,0,"In 2018, we launched multiple solar and wind projects to reduce operational emissions.",2
+23,Amazon,2018,0,Shipment packaging weight decreased by 7 percent relative to the 2015 baseline.,2
+24,Amazon,2018,0,We plan to encourage vendors to ship items in their original manufacturer packaging.,1
+25,Amazon,2018,0,Our sustainability science team evaluates emissions using a standardized carbon model.,1
+26,Amazon,2018,0,Electric vehicle pilots demonstrated promising reductions in last-mile delivery emissions.,2
+27,Amazon,2018,0,We believe long-term climate commitments must be backed by measurable progress.,1
+28,Amazon,2018,0,A growing number of fulfillment centers operate with rooftop solar installations.,1
+29,Amazon,2018,0,Our teams collaborated with suppliers to expand access to recyclable packaging materials.,1
+30,Amazon,2018,0,Building-control automation helped reduce electricity usage during non-peak hours.,1
+31,Amazon,2020,0,We aim to power all global operations with 100 percent renewable energy by 2025.,1
+32,Amazon,2020,0,"In 2020, we expanded our renewable energy portfolio across multiple regions.",2
+33,Amazon,2020,0,Hydrotreated vegetable oil fuels reduced emissions from selected delivery routes.,2
+34,Amazon,2020,0,We introduced new packaging guidelines to help vendors minimize excess materials.,2
+35,Amazon,2020,0,Cold-chain facilities adopted low-global-warming-potential refrigerants.,2
+36,Amazon,2020,0,We share climate progress annually in accordance with TCFD recommendations.,1
+37,Amazon,2020,0,Customer programs highlight products with verified lower environmental impact.,1
+38,Amazon,2020,0,Field tests showed improved fuel efficiency in hybrid delivery vehicles.,2
+39,Amazon,2020,0,We will continue investing in early-stage climate technology solutions.,1
+40,Amazon,2020,0,Partnerships with NGOs supported local conservation and ecosystem restoration projects.,3
+41,Amazon,2022,0,We are deploying thousands of electric delivery vehicles across European cities.,2
+42,Amazon,2022,0,Micromobility hubs reduced congestion and emissions in high-density neighborhoods.,2
+43,Amazon,2022,0,Hybrid heating systems enhanced energy efficiency in several office buildings.,2
+44,Amazon,2022,0,We replaced most mixed-material mailers with fully recyclable paper alternatives.,2
+45,Amazon,2022,0,"Sustainability training programs reached over 50,000 employees worldwide.",2
+46,Amazon,2022,0,We will expand water stewardship projects in water-stressed regions.,1
+47,Amazon,2022,0,On-site solar arrays generated a significant portion of energy for selected facilities.,2
+48,Amazon,2022,0,We introduced metrics to track the lifecycle impact of private-label products.,1
+49,Amazon,2022,0,Community partnerships support reforestation and biodiversity protection efforts.,3
+50,Amazon,2022,0,We publish annual updates outlining progress toward key climate targets.,3
+1,Apple,2020,0,We will transition all major suppliers to 100 percent renewable electricity by 2030.,1
+2,Apple,2020,0,"In 2022, our manufacturing partners avoided over one million metric tons of CO2e.",2
+3,Apple,2020,0,Our long-term goal is to design every product using only recycled and renewable materials.,1
+4,Apple,2020,0,Device energy consumption decreased by 12 percent compared with the 2019 baseline.,2
+5,Apple,2020,0,We plan to expand on-site solar installations across additional facilities worldwide.,1
+6,Apple,2020,0,Our carbon footprint is modeled annually using internationally recognized protocols.,1
+7,Apple,2020,0,We are investing in carbon removal projects to address residual emissions.,1
+8,Apple,2020,0,Packaging redesigns reduced plastic use by more than half since 2018.,2
+9,Apple,2020,0,We believe transparency in environmental data is essential for meaningful action.,1
+10,Apple,2020,0,"In 2021, electricity used across our corporate campuses came from 100 percent renewable sources.",2
+11,Apple,2025,0,We will phase out all fluorinated plastics in packaging by 2025.,1
+12,Apple,2025,0,Supplier audits identified multiple opportunities for energy-efficiency upgrades.,1
+13,Apple,2025,0,We expanded our global clean energy program to accelerate decarbonization in the supply chain.,1
+14,Apple,2025,0,Our engineering teams evaluate low-carbon alternatives for aluminum and steel components.,1
+15,Apple,2025,0,We achieved a 20 percent reduction in transportation emissions through improved logistics planning.,2
+16,Apple,2025,0,Employee training programs emphasize environmental responsibility across all operations.,1
+17,Apple,2025,0,We will support additional nature-based projects that restore ecosystems and capture carbon.,1
+18,Apple,2025,0,Battery chemistry improvements help lower the overall environmental impact of our devices.,1
+19,Apple,2025,0,Recycling rates increased in regions with expanded collection programs.,1
+20,Apple,2025,0,We conduct third-party verification on selected environmental metrics annually.,1
+51,Google,2020,0,We aim to operate entirely on carbon-free energy globally by 2030.,1
+52,Google,2020,0,"In 2019, our data centers achieved an average PUE of 1.10.",2
+53,Google,2020,0,We are investing in new renewable energy projects to support regional grids.,1
+54,Google,2020,0,Our circularity program seeks to maximize material recovery from retired servers.,1
+55,Google,2020,0,"In 2020, we issued sustainability bonds to fund climate-aligned initiatives.",2
+56,Google,2020,0,We believe strong environmental data transparency strengthens accountability.,3
+57,Google,2020,0,Renewable energy purchases matched 100 percent of our electricity use for the third consecutive year.,2
+58,Google,2020,0,Our cloud products are carbon-neutral for all users worldwide.,2
+132,Google,2020,4,We are the world’s largest annual corporate purchaser of renewable energy.,2
+226,Google,2020,4,We diverted 92% of operational waste from landfills.,2
+336,Google,2020,6,We deployed new automation that reduced energy usage.,2
+201,Google,2020,7,Our environmental governance structure integrates risk modeling.,3
+256,Google,2020,8,Our sustainability reporting aligns with recognized international standards.,3
+316,Google,2020,12,We support environmental research through academic partnerships.,1
+182,Google,2020,14,We plan to electrify our entire service fleet by 2030.,1
+276,Google,2020,15,We will ensure that all new facilities meet high environmental performance standards.,1
+126,Google,2020,35,Google currently chairs the Board of REBA.,3
+119,Google,2020,79,Current residual mix data is available only in the EU.,3
+151,Google,2020,79,"Matt Brittin, “Our Data Centers Support Europe’s Green Economic Recovery,” The Keyword (blog), December 14, 2020.",3
+168,Google,2020,79,"“Google’s Green Computing: Efficiency at Scale,” Google, 2011.",3
+86,Google,2020,80,Carbon intensity metrics are based on gross global combined Scope 1 and market-based Scope 2 emissions.,3
+94,Google,2020,80,"Adele Peters, “Google’s New Office Will Be Heated and Cooled by the Ground Underneath,” Fast Company, October 24, 2017.",1
+122,Google,2020,80,Independent studies showed that Nest saved people an average of 10% to 12% on heating and 15% on cooling.,2
+127,Google,2020,80,"Energy Savings from the Nest Learning Thermostat: Energy Bill Analysis Results, Nest Labs, February 2015.",3
+296,Google,2021,4,We will strengthen partnerships to deliver nature-based climate solutions.,1
+191,Google,2021,5,We will help suppliers transition to verified low-carbon materials.,1
+266,Google,2021,6,We maintain transparency on environmental impact across regions.,1
+221,Google,2021,10,We restored coastal ecosystems affected by operations.,2
+246,Google,2021,14,We plan to increase community-led environmental program funding.,1
+281,Google,2021,17,We restored native habitat affected by construction.,2
+331,Google,2021,19,We upgraded HVAC systems reducing energy use by 9%.,2
+236,Google,2022,7,We increased restoration of wetlands near our major campuses.,2
+196,Google,2022,9,We reduced data-center PUE to 1.08 through cooling innovation.,2
+301,Google,2023,7,We modernized facility lighting systems to reduce energy use.,2
+261,Google,2023,9,We work with universities to advance sustainability research.,1
+206,Google,2023,11,We expanded circular material recovery initiatives across global regions.,2
+286,Google,2023,13,We improved energy efficiency of compute clusters by 18%.,2
+321,Google,2023,15,We engage with suppliers on climate-awareness initiatives.,3
+241,Google,2023,18,We will expand carbon-intelligent computing to additional regions.,1
+186,Google,2023,20,We will expand carbon-free energy procurement across additional regions.,1
+59,Google,2024,0,We will expand carbon-intelligent computing across additional regions.,1
+60,Google,2024,0,We continue piloting AI-powered tools to help partners reduce their emissions footprints.,1
+61,Google,2024,0,Our offices are designed to meet high environmental performance standards.,3
+62,Google,2024,0,We plan to help more than 500 cities reduce an aggregate of 1 gigaton of emissions annually.,1
+63,Google,2024,0,Electric vehicle charging infrastructure is expanding across major campuses.,2
+64,Google,2024,0,We publicly report key environmental metrics in alignment with global frameworks.,3
+306,Google,2024,5,We improved renewable electricity sourcing accuracy.,2
+341,Google,2024,7,We strengthened environmental metrics reporting.,2
+231,Google,2024,9,We improved server cooling efficiency by 23% through machine learning.,2
+216,Google,2024,16,We increased renewable energy procurement by 1.8 GW across regions.,2
+326,Google,2024,18,We improved cooling efficiency across several server clusters.,2
+271,Google,2024,19,We share best practices with partners on low-carbon operations.,1
+171,Google,2024,27,"This helps cities implement
+protective measures for citizens and visitors.",1
+156,Google,2024,46,"That’s why we ask suppliers to disclose water-
+related data via the CDP supply chain platform.",3
+77,Google,2024,67,C40 is a strategic partner of Google’s Environmental Insights Explorer.,1
+82,Google,2024,67,Examples of some key partnerships are listed below (see Figure 33).,3
+136,Google,2024,84,160 Doesn’t include third-party products such as the Nest x Yale Lock.,3
+153,Google,2024,84,These values are calculated by a third party.,3
+311,Google,2025,6,We achieved higher circularity rates across high-volume products.,2
+179,Google,2025,8,We improved water-restoration impact by 12% in priority regions.,2
+291,Google,2025,10,We support global initiatives focused on climate accountability.,1
+251,Google,2025,11,We lowered commuting-related emissions through transit incentives.,2
+211,Google,2025,12,We commit to designing all consumer hardware using circular design principles.,1
+346,Google,2025,15,We increased ecosystem-restoration activity in priority zones.,2
+73,Intel,2008,0,We aim to integrate sustainable design principles into future campus expansions.,1
+74,Intel,2008,0,Updated water-treatment systems improved conservation performance at several facilities.,2
+75,Intel,2008,0,We believe long-term environmental commitments must be paired with measurable progress.,3
+134,Intel,2008,26,"Objective customer feedback enables us to iden-
+tify areas for improvement.",3
+109,Intel,2008,27,"Non-Governmental Organizations (NGOs)
+Issues meetings, formal dialogues and projects, and multi-sector efforts.",3
+113,Intel,2008,32,"We are helping to drive broad initiatives aimed at identify-
+ing ways that technology can address global environmental issues.",1
+76,Intel,2008,44,Halogens are below 900 PPM bromine and 900 PPM chlorine.,2
+123,Intel,2008,53,"There, you can sort data by position type.",3
+106,Intel,2008,57,"Employee surveys include:
+Manager and Leader Feedback Survey.",3
+117,Intel,2008,68,"Commodity managers and buyers communicate our corporate responsibil-
+ity expectations to our suppliers.",3
+142,Intel,2008,72,We are continuing to work to implement these tools and processes.,1
+70,Intel,2013,0,We expanded recycling initiatives to divert a larger share of manufacturing waste.,2
+71,Intel,2013,0,Investments in renewable energy certificates helped offset electricity use worldwide.,2
+72,Intel,2013,0,We conduct third-party verification on select greenhouse-gas inventory categories.,3
+137,Intel,2013,20,"NON-GOVERNMENTAL ORGANIZATIONS (NGOS)
+Issues meetings, formal dialogues, joint projects, and multi-sector efforts.",3
+128,Intel,2013,21,(Note that “materiality” in this context does not refer to financial materiality.),3
+116,Intel,2013,22,We recycle a significant amount of the solid and chemical waste generated in our operations.,2
+135,Intel,2013,25,4 Includes total giving (cash and in-kind) from Intel Corporation and the Intel Foundation.,2
+145,Intel,2013,26,"2013 World’s Most Ethical Companies
+Corporate Knights.",3
+158,Intel,2013,26,"5th in CPA-Zicklin Index (U.S.)
+2013 Selected Awards and Recognitions",3
+120,Intel,2013,28,• Maintain our world-class safety performance by achieving a targeted safety recordable rate of 0.50.,2
+133,Intel,2013,28,• Achieve at least 70% participation and maintain or improve scores in at least 95% of the questions on our Organizational Health Survey.,2
+161,Intel,2013,33,"Our employees’ faces reflect those of our customers, vendors, and colleagues in the global market.",3
+144,Intel,2013,40,"Over the past five years, diversity in our U.S. hiring has remained relatively flat.",2
+112,Intel,2013,58,"Without RECs, our estimated Scope 2 water use would have been 3 billion gallons.",2
+96,Intel,2013,65,"Processor numbers differentiate features within each processor family, not across different processor families.",3
+124,Intel,2013,77,"For more information, visit the Intel Foundation web site.",3
+103,Intel,2013,88,*Suppliers that received a 2013 Supplier Continuous Quality Improvement (SCQI) award (criteria include CSR metrics).,2
+99,Intel,2013,93,share the audit results with other customers and companies in our industry.,3
+166,Intel,2013,101,Made significant progress on closing priority and major findings.,1
+174,Intel,2013,101,"Completed a total of 104 on-site audits, including 38 third-party audits.",2
+101,Intel,2013,106,Influence the electronics industry and our supply chain to improve human rights performance.,3
+157,Intel,2013,108,A GRI Content Index is provided in this Appendix.,3
+95,Intel,2013,115,G4:EN23 Total weight of waste by type and disposal method.,1
+130,Intel,2013,115,"ASPECT: EFFLUENTS AND WASTE
+G4:EN22 Total water discharge by quality and destination.",3
+85,Intel,2013,120,"We also conduct on-site third-
+party audits of our top suppliers.",2
+111,Intel,2013,124,"Principle 4
+Support elimination of all forms of forced and compulsory labor.",3
+79,Intel,2013,125,2 Emissions are calculated using the Global Warming Potentials updated by the Environmental Protection Agency in November 2013.,1
+131,Intel,2016,6,We also help millions of people conserve energy with Google Cloud.,3
+140,Intel,2016,7,"Finally, we’re changing how we think about waste.",1
+81,Intel,2016,21,"For example, our Belgian data center uses industrial canal water for cooling.",3
+138,Intel,2016,32,What do we mean by 100% renewable energy?,2
+143,Intel,2016,67,"Scope 1, 2, and part of Scope 3 emissions are externally verified.",2
+104,Intel,2016,70,"Bloomberg New Energy Finance database for wind and solar energy PPAs, as of November 2016.",3
+146,Intel,2016,71,"For more information on our methodology, see our CDP report.",3
+198,Intel,2018,8,We increased renewable electricity use across major manufacturing sites.,2
+332,Intel,2018,14,We installed new filtration systems improving water quality.,2
+232,Intel,2018,15,We increased reliance on low-carbon manufacturing energy.,2
+292,Intel,2019,7,We work with regional partners to protect local habitats.,1
+252,Intel,2019,8,We improved logistics emissions intensity by 7%.,2
+312,Intel,2019,10,Our environmental policies prioritize responsible operations.,1
+212,Intel,2019,17,We restored more than 1.2 billion gallons of water in priority basins.,2
+65,Intel,2020,0,Intel has committed to achieving net-zero operational emissions by 2040.,1
+66,Intel,2020,0,"In 2020, we increased renewable electricity use across global operations.",2
+67,Intel,2020,0,We are investing in water restoration projects in multiple high-stress regions.,1
+68,Intel,2020,0,Our manufacturing sites implemented new efficiency measures to reduce energy intensity.,2
+69,Intel,2020,0,Supplier engagement programs encourage partners to adopt science-based emission targets.,3
+342,Intel,2020,5,We expanded efficiency-focused R&D investments.,2
+78,Intel,2020,7,"Delivered 910,000 volunteer hours to our local communities.",2
+170,Intel,2020,7,Tier 2 suppliers are companies from which Intel’s tier 1 suppliers make direct purchases.,1
+217,Intel,2020,9,We achieved 100% renewable electricity coverage for several facilities.,2
+167,Intel,2020,10,"Supply Chain Top 25
+Human Rights Campaign.",3
+287,Intel,2020,12,We diverted 97% of waste from landfills in core manufacturing areas.,2
+194,Intel,2020,14,We documented a 15% reduction in absolute Scope 2 emissions.,2
+307,Intel,2020,17,We audited all high-impact suppliers for sustainability compliance.,2
+175,Intel,2020,31,"In certain circumstances, the same facility may be audited multiple times in a calendar year.",1
+105,Intel,2020,49,"In 2020, our overall undesired global turnover rate was 4.0%.",2
+107,Intel,2020,65,Colorado River Indian Tribes Drought Contingency project in Arizona.,3
+172,Intel,2020,65,"Ronler Acres reclaim project, located in Hillsboro, Oregon.",3
+148,Intel,2020,78,A printed summary of the report is available by request.,3
+91,Intel,2020,86,³ Third-party water discharges/returns represent water sent to the local municipality for reuse or surface/groundwater recharge.,3
+237,Intel,2021,6,We expanded energy-efficient chip fabrication lines worldwide.,2
+302,Intel,2021,8,We restored 9 million gallons of water across stressed watersheds.,2
+257,Intel,2021,9,Our engineering teams evaluate emerging sustainability trends.,3
+272,Intel,2021,10,We coordinate with regional groups to advance water stewardship.,1
+203,Intel,2021,13,We aim to transition all supplier shipments to low-carbon logistics.,1
+222,Intel,2022,7,We reduced hazardous waste generation by 11%.,2
+262,Intel,2022,10,Our teams monitor climate-related risks through enhanced data models.,1
+297,Intel,2022,11,We increased heat-recovery efficiency in fabrication plants.,2
+181,Intel,2022,15,We increased renewable-energy-powered manufacturing to 78%.,2
+317,Intel,2022,16,Our stewardship efforts address long-term water risks.,1
+337,Intel,2022,18,We increased recycling of process materials.,2
+227,Intel,2023,5,We documented a 22% reduction in energy consumption intensity.,2
+327,Intel,2023,7,We advanced design changes that reduced energy intensity.,2
+282,Intel,2023,9,We improved per-chip energy efficiency through design updates.,2
+176,Intel,2023,11,We reduced logistics-related emissions by 12% across our global operations.,2
+247,Intel,2023,12,We will expand semiconductor circularity initiatives by 2030.,1
+267,Intel,2023,18,We collaborate with coalitions focused on water-efficient practices.,1
+347,Intel,2023,20,We enhanced semiconductor material recovery methods.,2
+277,Intel,2024,6,We increased annual carbon removal investments by 35%.,2
+189,Intel,2024,10,We will increase green bond investments to accelerate climate-positive initiatives.,1
+242,Intel,2024,11,We improved greenhouse-gas measurement accuracy across plants.,2
+322,Intel,2024,13,We publish annual updates on sustainability programs.,1
+208,Intel,2025,21,We increased water recycling rates at core fabrication labs.,2
+160,Meta,2020,4,"About This Report
+Mike Schroepfer, Chief Technology Officer",3
+204,Meta,2020,11,We diverted 86% of operational waste from landfills globally.,2
+100,Meta,2020,14,These nature-based solutions will serve as a bridging mechanism toward long-term decarbonization.,3
+149,Meta,2020,16,"Yet, these effects are not felt equally across different regions or populations.",3
+92,Meta,2020,18,"Once operational, the rooftops are expected to total more than 100 MW of solar capacity.",1
+129,Meta,2020,20,"At our data centers, water is mainly used in two ways: evaporative cooling and humidification.",3
+93,Meta,2020,28,An example of deeper engagement is our effort to work with suppliers on targeted capability building.,3
+84,Meta,2020,31,Many of our climate solutions are driven by science and data.,3
+88,Meta,2020,40,"Operating Sustainably
+Our Dublin Ballsbridge Campus in Ireland is slated for WELL® Platinum Certification.",1
+173,Meta,2020,42,"Photo credit: Mike Kahn, Midpeninsula Regional Open Space District",3
+184,Meta,2021,7,We commit to supporting watershed restoration projects in high-stress basins.,1
+304,Meta,2022,9,We upgraded energy systems to improve performance by 7%.,2
+329,Meta,2022,12,We installed rooftop solar panels at several facilities.,2
+244,Meta,2022,13,We restored 16 million gallons of water in high-stress regions.,2
+188,Meta,2022,14,We reduced water consumption in data-center cooling operations by 9%.,2
+258,Meta,2022,15,We collaborate with NGOs to support environmental resilience.,2
+349,Meta,2022,16,We boosted on-site energy efficiency using automated systems.,2
+214,Meta,2022,18,We plan to enhance environmental monitoring across logistics routes.,1
+289,Meta,2022,23,We strengthened environmental compliance monitoring.,2
+294,Meta,2023,7,We maintain open communication on sustainability progress.,1
+219,Meta,2023,10,We replaced mixed-material mailers with fully recyclable alternatives.,2
+193,Meta,2023,13,We aim to eliminate all non-recyclable plastics from packaging by 2026.,1
+284,Meta,2023,16,We adopted low-carbon packaging across multiple product lines.,2
+233,Meta,2023,17,We reduced supply-chain emissions through optimized transport.,2
+339,Meta,2023,21,We cut emissions related to product transportation.,2
+314,Meta,2023,22,We collaborate with communities on infrastructure resilience.,1
+263,Meta,2023,25,We share environmental insights with community partners.,1
+125,Meta,2023,57,"We quantify our GHG emissions via activity data, LCAs and financial data.",3
+152,Meta,2023,58,Owned data centers include all completed data centers owned and operated by Meta.,3
+141,Meta,2023,59,"When appropriate, we increase the level of water risk based on additional local knowledge.",1
+180,Meta,2024,6,We will scale circular design principles across all next-generation devices.,1
+334,Meta,2024,8,We launched environmental training programs for employees.,2
+238,Meta,2024,9,We will deepen water-conservation programs across cloud infrastructure.,1
+223,Meta,2024,14,We improved energy efficiency in office spaces through lighting upgrades.,2
+319,Meta,2024,17,Our climate programs align with regional needs.,1
+199,Meta,2024,19,We will expand water-stewardship programs to more high-risk regions.,1
+249,Meta,2024,20,We reduced office energy use through upgraded automation systems.,2
+209,Meta,2024,22,We improved renewable electricity coverage in core regions.,2
+268,Meta,2024,22,Our long-term environmental strategy integrates stakeholder feedback.,1
+299,Meta,2024,26,We improved transparency on environmental governance practices.,2
+228,Meta,2025,7,We aim to support global biodiversity restoration programs.,1
+344,Meta,2025,10,We enhanced internal climate education resources.,2
+98,Meta,2025,11,An enabling environment for a net zero world.,3
+279,Meta,2025,11,We plan to expand climate-program funding in vulnerable regions.,1
+253,Meta,2025,12,We will require science-aligned climate reporting across all suppliers.,1
+159,Meta,2025,13,• Helping our suppliers reduce their emissions.,1
+162,Meta,2025,13,"WE PLAN TO REACH THESE GOALS BY
+• Procuring clean and renewable energy.",1
+309,Meta,2025,13,We will expand biodiversity protection partnerships in sensitive regions.,1
+273,Meta,2025,18,Our sustainability education programs support global outreach.,1
+324,Meta,2025,19,We participate in networks promoting climate literacy.,1
+89,Meta,2025,65,"Prineville, Oregon Restoration
+2025 Meta Sustainability Report",3
+164,Microsoft,2014,13,"Only independent direc-
+tors serve on these committees.",3
+150,Microsoft,2014,18,We offer a wide assortment of flexible benefits.,3
+83,Microsoft,2014,61,This document does not provide you with any legal rights to any intellectual property in any Microsoft product.,3
+207,Microsoft,2019,6,We will embed responsible mineral sourcing in all hardware components.,1
+224,Microsoft,2020,6,We introduced guidelines requiring suppliers to reduce hazardous substances.,2
+264,Microsoft,2020,12,Our resource management guidelines support responsible operations.,3
+318,Microsoft,2021,7,We maintain transparency across environmental data streams.,1
+239,Microsoft,2021,8,We cut business travel emissions by 18%.,2
+187,Microsoft,2021,9,We increased recycled content in product packaging by 18%.,2
+102,Microsoft,2021,17,Scope 3 emissions increased by 22.7 percent.,2
+165,Microsoft,2021,32,This solution became generally available in Q3 2021.,1
+87,Microsoft,2021,56,Providing scientifically informed estimates of the impact of extreme drought events on drinking water availability.,1
+108,Microsoft,2021,63,A year of progress and impact to get to zero waste by 2030.,1
+169,Microsoft,2021,98,Previous years have been updated to reflect this change.,3
+80,Microsoft,2021,111,Protected is defined as areas that are legally designated as permanently protected by government regulation.,3
+202,Microsoft,2022,5,We replaced legacy cooling towers with systems that reduce water use by 26%.,2
+288,Microsoft,2022,6,We increased deployment of wastewater recycling systems.,2
+269,Microsoft,2022,7,We participate in global networks promoting climate adaptation.,1
+323,Microsoft,2022,9,We share guidance with partners on cleaner logistics.,3
+254,Microsoft,2022,13,We reduced water consumption by 10% through system upgrades.,2
+229,Microsoft,2022,16,We increased adoption of zero-emissions vehicles in urban delivery routes.,2
+308,Microsoft,2023,4,We adopted more efficient microgrid systems across facilities.,2
+213,Microsoft,2023,5,We reduced employee commute emissions through hybrid work incentives.,2
+298,Microsoft,2023,6,We reduced emissions intensity across our supply chain logistics.,2
+278,Microsoft,2023,8,We documented a 30% increase in renewable energy generation.,2
+183,Microsoft,2023,10,We diverted 96% of construction waste from landfills in the past year.,2
+234,Microsoft,2023,11,We documented progress toward science-based climate targets.,2
+274,Microsoft,2023,14,We maintain environmental transparency across operations.,1
+343,Microsoft,2023,16,We improved logistics efficiency through optimized routing.,2
+333,Microsoft,2023,17,We advanced heat-recovery technology at multiple campuses.,2
+259,Microsoft,2024,4,Our sustainability governance includes cross-functional advisory groups.,1
+177,Microsoft,2024,7,We intend to deploy advanced emissions-measurement systems across all facilities.,1
+248,Microsoft,2024,10,We achieved enhanced energy efficiency through power optimization tools.,2
+283,Microsoft,2024,11,We will scale green buildings across our real estate portfolio.,1
+338,Microsoft,2024,12,We restored 1.4 million gallons of water in stressed basins.,2
+293,Microsoft,2024,13,Our sustainability frameworks emphasize transparency.,1
+139,Microsoft,2024,14,"The lower the number, the better the score.",3
+348,Microsoft,2024,14,We increased supplier engagement on sustainability standards.,2
+197,Microsoft,2024,15,We will deploy geothermal energy pilots in high-demand facilities.,1
+313,Microsoft,2024,15,Our climate strategy incorporates third-party assessments.,3
+218,Microsoft,2025,8,We will scale our carbon removal portfolio through global partnerships.,1
+303,Microsoft,2025,10,We increased landfill diversion efficiency at key sites.,2
+192,Microsoft,2025,18,We restored 350 acres of native habitat around key campuses.,2
+243,Microsoft,2025,19,We reduced lifecycle emissions of key hardware components.,2
+328,Microsoft,2025,20,We restored 50 million gallons of water through new projects.,2
+147,NVIDIA,2017,11,We operate at the highest ethical standards.,1
+97,NVIDIA,2017,35,"In 2016, our diversion rate was 76 percent.",2
+115,NVIDIA,2017,45,"›› Awarding four $50,000 grants to nonprofits.",2
+114,NVIDIA,2017,47,Secure a spot in CRO Magazine’s Top 100 Corporate Citizens.,1
+121,NVIDIA,2017,47,"100%
+We achieved a 100 percent response rate from all active suppliers.",2
+163,NVIDIA,2017,60,"EMPLOYEE RACIAL/ETHNIC DIVERSITY SNAPSHOT*
+*Minority data represents the United States only.",3
+190,NVIDIA,2019,6,We expanded solar-powered infrastructure across two research hubs.,2
+320,NVIDIA,2020,4,Our teams work to strengthen sustainability governance.,1
+270,NVIDIA,2020,12,We align our environmental practices with community expectations.,3
+118,NVIDIA,2020,13,"We led AI sessions for the Information Technology and Innovation Foundation, the No.",2
+300,NVIDIA,2020,14,We will accelerate adoption of low-carbon computing approaches.,1
+245,NVIDIA,2020,15,We expanded solar-powered R&D operations in multiple locations.,2
+90,NVIDIA,2020,34,We conducted quarterly business reviews of suppliers.,2
+155,NVIDIA,2020,34,FY20 Performance with the RBA Code of Conduct (Cont.),3
+110,NVIDIA,2020,44,"ONE TEAM
+Do what’s best for the company.",3
+154,NVIDIA,2020,44,We know our path to discovery will be paved with mistakes.,1
+250,NVIDIA,2021,5,We increased participation in internal sustainability programs.,2
+325,NVIDIA,2021,6,We coordinate with experts to improve climate preparedness.,1
+178,NVIDIA,2021,9,Our sustainability training programs encourage cross-functional collaboration.,1
+235,NVIDIA,2021,10,Our community partnerships strengthen environmental adaptation efforts.,3
+215,NVIDIA,2021,11,We implemented next-generation cooling methods that reduced energy use.,2
+340,NVIDIA,2021,13,We improved sustainability audit coverage across suppliers.,2
+305,NVIDIA,2021,15,We scaled training participation in sustainability programs.,2
+210,NVIDIA,2022,8,We improved supply-chain transparency with expanded reporting tools.,2
+275,NVIDIA,2022,20,We evaluate long-term sustainability risks annually.,1
+225,NVIDIA,2023,9,We plan to require suppliers to adopt new emissions disclosure methods.,1
+310,NVIDIA,2023,11,We reduced fleet emissions by expanding electric vehicle use.,2
+195,NVIDIA,2023,17,Our long-term planning reflects community-led environmental priorities.,3
+255,NVIDIA,2023,19,We will integrate biodiversity protections into all facility design standards.,1
+280,NVIDIA,2024,3,We reduced per-unit manufacturing emissions significantly.,2
+345,NVIDIA,2024,6,We partnered with groups advancing low-carbon innovation.,2
+205,NVIDIA,2024,7,We will accelerate adoption of advanced low-power semiconductor technologies.,1
+265,NVIDIA,2024,9,We support initiatives focused on industry-wide sustainability standards.,1
+330,NVIDIA,2024,11,We improved emissions data accuracy through enhanced modeling.,2
+220,NVIDIA,2024,13,We increased recycled materials in packaging by 28% year-over-year.,2
+290,NVIDIA,2024,16,Our report outlines approaches to community resilience.,3
+240,NVIDIA,2025,4,We improved building energy performance through automation systems.,2
+285,NVIDIA,2025,5,We will expand zero-emissions fleet coverage to all major regions.,1
+230,NVIDIA,2025,6,We deployed next-gen smart-grid systems for improved energy resilience.,2
+350,NVIDIA,2025,7,We documented improvements in our environmental governance approach.,3
+315,NVIDIA,2025,8,Our sustainability goals emphasize continuous improvement.,3
+295,NVIDIA,2025,9,We contribute to industry working groups on climate standards.,1
+200,NVIDIA,2025,10,We increased community investment in climate programs by 19% last year.,2
+185,NVIDIA,2025,12,We improved energy efficiency in GPU manufacturing lines by 22%.,2
+260,NVIDIA,2025,13,We engage suppliers on fair labor and environmental practices.,1
+335,NVIDIA,2025,14,We expanded zero-waste programs across core operations.,2
