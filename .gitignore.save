@@ -1,0 +1,25 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# System files
+.DS_Store
+
+
+# Google API token — should never be committed
+auth/token.json
+
+
+
+# Ignore all heavy BERTopic models and tuning outputs
+reports/*/bertopic_model*
+reports/*/best/
+reports/topics_*/
+reports/bt_tuning_*/
+reports/*/models/
+
